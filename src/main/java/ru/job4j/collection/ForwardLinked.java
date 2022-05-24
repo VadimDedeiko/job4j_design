@@ -5,6 +5,7 @@ import java.util.LinkedList;
 import java.util.NoSuchElementException;
 
 public class ForwardLinked<T> implements Iterable<T> {
+
     private Node<T> head;
 
     public void add(T value) {
