@@ -60,24 +60,23 @@ public class SimpleLinkedList<E> implements LinkedList<E> {
     public Iterator<E> iterator() {
         return new Iterator<E>() {
             private int expectedModCount = modCount;
-            private int cursorPoint;
-            private E cursor;
+            private Node<E> cursor = first;
 
             @Override
             public boolean hasNext() {
-                return cursorPoint < size;
+                if (expectedModCount != modCount) {
+                    throw new ConcurrentModificationException();
+                }
+                return cursor != null;
             }
             @Override
             public E next() {
                 if (!hasNext()) {
                     throw new NoSuchElementException();
                 }
-                if (expectedModCount != modCount) {
-                    throw new ConcurrentModificationException();
-                }
-                E cursor = cursorPoint != 0 ? first.next.getItem() : first.getItem();
-                cursorPoint++;
-                return cursor;
+                E result = cursor.item;
+                cursor = cursor.next;
+                return result;
             }
         };
     }
