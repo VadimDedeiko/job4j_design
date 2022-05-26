@@ -11,6 +11,7 @@ public class SimpleLinkedListTest {
 
     @Test
     public void whenAddAndGet() {
+
         LinkedList<Integer> list = new SimpleLinkedList<>();
         list.add(1);
         list.add(2);
