@@ -29,6 +29,7 @@ public class SimpleLinkedList<E> implements LinkedList<E> {
         Node<E> node = new Node<E>(value, null);
         if (first == null) {
             first = node;
+            size++;
             return;
         }
         Node<E> second = first;
@@ -46,6 +47,7 @@ public class SimpleLinkedList<E> implements LinkedList<E> {
         Node<E> node = first;
         for (int i = 0; i < index; i++) {
             node = node.next;
+            return node.item;
         }
         return node.item;
     }
