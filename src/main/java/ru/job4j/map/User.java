@@ -1,9 +1,6 @@
 package ru.job4j.map;
 
-import java.util.Calendar;
-import java.util.HashMap;
-import java.util.Map;
-import java.util.Objects;
+import java.util.*;
 
 public class User {
     private String name;
@@ -34,11 +31,14 @@ public class User {
     }
 
     public static void main(String[] args) {
-        User userOne = new User("Jack", 1, Calendar.getInstance());
-        User userTwo = new User("Jack", 1, Calendar.getInstance());
-        Map<User, Object> map = new HashMap<>();
+        User userOne = new User("Jack", 1, new GregorianCalendar(1988, 0, 25));
+        User userTwo = new User("Jack", 1, new GregorianCalendar(1988, 0, 25));
+        java.util.Map<User, Object> map = new HashMap<>();
         map.put(userOne, new Object());
         map.put(userTwo, new Object());
         System.out.println(map);
+        System.out.println(userOne.hashCode());
+        System.out.println((userOne.hashCode()) ^ (userOne.hashCode() >>> 16));
+        System.out.println((16 - 1) & ((userOne.hashCode()) ^ (userOne.hashCode() >>> 16)));
     }
 }
