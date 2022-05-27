@@ -21,7 +21,7 @@ public class SimpleTree<E> implements Tree<E> {
             Node<E> node = optionalParent.get();
             if (!optionalChild.isPresent()) {
                 node.children.add(new Node<>(child));
-                rsl = true;
+                rsl = !optionalChild.isPresent();
             }
         }
         return rsl;
