@@ -28,10 +28,10 @@ public class ConfigTest {
 
     @Test
     public void whenPairWith() {
-        String path = "./data/pair_with_comment_empty_whitespase.properties";
+        String path = "./data/empty_whitespase.properties";
         Config config = new Config(path);
         config.load();
-        assertThat(config.value("//Petr"), is(Matchers.nullValue()));
+        assertThat(config.value("country"), is("Russian Federation"));
     }
 
     @Test(expected = IllegalArgumentException.class)

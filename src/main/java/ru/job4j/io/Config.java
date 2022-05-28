@@ -26,11 +26,16 @@ public class Config {
                     throw new IllegalArgumentException();
                 }
                 String[] s = line.split("=");
-                if (!line.contains("//")) {
-                    String add = s.length <= 1
-                            ? values.put(s[0], null)
-                            : values.put(s[0], s[1]);
+                /**
+                 if (!line.contains("//")) {
+                 */
+                String add = s.length <= 1
+                        ? values.put(s[0], null)
+                        : values.put(s[0], s[1]);
+                    /*
                 }
+                */
+
             }
         } catch (IOException e) {
             e.printStackTrace();
@@ -58,5 +63,4 @@ public class Config {
     public static void main(String[] args) {
         System.out.println(new Config("app.properties"));
     }
-
 }
