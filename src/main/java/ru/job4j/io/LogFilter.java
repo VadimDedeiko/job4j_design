@@ -22,7 +22,8 @@ public class LogFilter {
     }
 
     public static void save(List<String> log, String file) {
-        try (PrintWriter printWriter = new PrintWriter(new BufferedOutputStream(new FileOutputStream(file)))) {
+        try (PrintWriter printWriter = new PrintWriter(
+                new BufferedOutputStream(new FileOutputStream(file)))) {
             for (String s : log) {
                 printWriter.println(s);
             }
