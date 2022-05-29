@@ -16,11 +16,11 @@ public class SearchFiles implements FileVisitor<Path> {
     private List<Path> paths = new ArrayList<>();
     private Predicate<Path> condition;
 
-    public List<Path> getPaths() {
-        return paths;
-    }
     public SearchFiles(Predicate<Path> condition) {
         this.condition = condition;
+    }
+    public List<Path> getPaths() {
+        return paths;
     }
 
     @Override
