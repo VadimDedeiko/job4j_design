@@ -17,7 +17,7 @@ public class Matrix {
                 out.write(System.lineSeparator().getBytes());
             }
         } catch (IOException e) {
-            throw new RuntimeException(e);
+            e.printStackTrace();
         }
     }
 
