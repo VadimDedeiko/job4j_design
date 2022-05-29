@@ -13,8 +13,8 @@ import java.util.function.Predicate;
 import static java.nio.file.FileVisitResult.CONTINUE;
 
 public class SearchFiles implements FileVisitor<Path> {
-    List<Path> paths = new ArrayList<>();
-    Predicate<Path> condition;
+    private List<Path> paths = new ArrayList<>();
+    private Predicate<Path> condition;
 
     public List<Path> getPaths() {
         return paths;
