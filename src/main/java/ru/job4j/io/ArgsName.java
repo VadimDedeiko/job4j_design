@@ -17,6 +17,7 @@ public class ArgsName {
 
     private void parse(String[] args) {
         String equal = null;
+        String[] newLine = null;
         for (String arg : args) {
             if (arg.endsWith("=")) {
                 equal = "=";
@@ -26,15 +27,15 @@ public class ArgsName {
                 for (int i = 2; i < line.length; i++) {
                     line[1] += "=" + line[i];
                     line[1] += equal;
+                    line = Arrays.copyOf(line, 2);
                 }
             }
-            String[] newLine = Arrays.copyOf(line, 2);
-            if (newLine.length != 2) {
+            if (line.length != 2) {
                 throw new IllegalArgumentException(
                         "Pass the argument as key=value (" + arg + ")"
                 );
             }
-            values.put(newLine[0].replaceFirst("-", ""), newLine[1]);
+            values.put(line[0].replaceFirst("-", ""), line[1]);
         }
     }
 
