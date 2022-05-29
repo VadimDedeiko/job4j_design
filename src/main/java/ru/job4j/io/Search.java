@@ -8,10 +8,17 @@ import java.util.List;
 import java.util.function.Predicate;
 
 public class Search {
+    private static void validate(String[] args) {
+        if (args.length < 2) {
+            throw new IllegalArgumentException("Root folder is null. Usage java -jar dir.jar ROOT_FOLDER.");
+        }
+    }
+
     public static void main(String[] args) throws IOException {
-        Path start = Paths.get(".");
+        validate(args);
+        Path start = Paths.get(args[0]);
         Files.walkFileTree(start, new PrintFiles());
-        search(start, p -> p.toFile().getName().endsWith(".js"))
+        search(start, p -> p.toFile().getName().endsWith(args[1]))
                 .forEach(System.out::println);
     }
 
