@@ -16,27 +16,33 @@ public class ArgsName {
     }
 
     private void parse(String[] args) {
-        String equal = null;
-        String[] newLine = null;
-        for (String arg : args) {
-            if (arg.endsWith("=")) {
-                equal = "=";
+        if (args != null) {
+            String[] newLine = null;
+            for (String arg : args) {
+                String[] line = stringExam(arg);
+                values.put(line[0].replaceFirst("-", ""), line[1]);
             }
-            String[] line = arg.split("=");
-            if (line.length > 2) {
-                for (int i = 2; i < line.length; i++) {
-                    line[1] += "=" + line[i];
-                    line[1] += equal;
-                    line = Arrays.copyOf(line, 2);
-                }
-            }
-            if (line.length != 2) {
-                throw new IllegalArgumentException(
-                        "Pass the argument as key=value (" + arg + ")"
-                );
-            }
-            values.put(line[0].replaceFirst("-", ""), line[1]);
         }
+    }
+    private String[] stringExam(String arg) {
+        String equal = null;
+        if (arg.endsWith("=")) {
+            equal = "=";
+        }
+        String[] line = arg.split("=");
+        if (line.length > 2) {
+            for (int i = 2; i < line.length; i++) {
+                line[1] += "=" + line[i];
+                line[1] += equal;
+                line = Arrays.copyOf(line, 2);
+            }
+        }
+        if (line.length != 2) {
+            throw new IllegalArgumentException(
+                    "Pass the argument as key=value (" + arg + ")"
+            );
+        }
+        return line;
     }
 
     public static ArgsName of(String[] args) {
