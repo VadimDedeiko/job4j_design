@@ -10,7 +10,9 @@ import java.util.function.Predicate;
 public class Search {
     private static void validate(String[] args) {
         if (args.length < 2) {
-            throw new IllegalArgumentException("Root folder is null. Usage java -jar dir.jar ROOT_FOLDER.");
+            throw new IllegalArgumentException("No arguments passed. "
+                    + "args[0] - directory in string expression"
+                    + "args[1] - file extension");
         }
     }
 
