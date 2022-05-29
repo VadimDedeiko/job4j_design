@@ -12,13 +12,13 @@ public class Analizy {
             int count = 0;
             while ((read = reader.readLine()) != null) {
                 String[] string = read.split(" ");
-                if (string[0].equals("500") || string[0].equals("400")) {
+                boolean isTrue = "500".equals(string[0]) || "400".equals(string[0]);
+                if (isTrue) {
                     if (count == 0) {
                         start = string[1];
                         count++;
                     }
                 }
-                boolean isTrue = string[0].equals("500") || string[0].equals("400");
                 if (!isTrue && count > 0) {
                     finish = string[1];
                     count = 0;
