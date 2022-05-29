@@ -5,6 +5,7 @@ import org.apache.commons.lang3.StringUtils;
 import java.io.BufferedReader;
 import java.io.FileReader;
 import java.io.IOException;
+import java.util.Arrays;
 import java.util.HashMap;
 import java.util.Map;
 import java.util.StringJoiner;
@@ -20,17 +21,27 @@ public class Config {
 
     public void load() throws IllegalArgumentException {
         try (BufferedReader read = new BufferedReader(new FileReader(this.path))) {
+            String equal = null;
             String line = null;
             while ((line = read.readLine()) != null) {
-                if (line.startsWith("=") && StringUtils.countMatches(line, "=") > 1) {
+                if (line.isEmpty() || line.contains("#")) {
+                    continue;
+                }
+                if (line.endsWith("=")) {
+                    equal = "=";
+                }
+                String[] lineArray = line.split("=");
+                if (lineArray.length > 2) {
+                    for (int i = 2; i < lineArray.length; i++) {
+                        lineArray[1] += "=" + lineArray[i];
+                        lineArray[1] += equal;
+                        lineArray = Arrays.copyOf(lineArray, 2);
+                    }
+                }
+                if (lineArray.length != 2 || "".equals(lineArray[0])) {
                     throw new IllegalArgumentException();
                 }
-                String[] s = line.split("=");
-                if (!line.contains("#")) {
-                    String add = s.length <= 1
-                            ? values.put(s[0], null)
-                            : values.put(s[0], s[1]);
-                }
+                values.put(lineArray[0].replaceFirst("-", ""), lineArray[1]);
             }
         } catch (IOException e) {
             e.printStackTrace();
