@@ -10,12 +10,17 @@ import java.util.function.Predicate;
 
 public class Search {
     private static void validate(String[] args) {
-        File file = new File(args[0]);
+        if (args == null) {
+            throw new NullPointerException("No arguments passed. "
+                    + "args[0] - directory in string expression"
+                    + "args[1] - file extension");
+        }
         if (args.length < 2) {
             throw new IllegalArgumentException("No arguments passed. "
                     + "args[0] - directory in string expression"
                     + "args[1] - file extension");
         }
+        File file = new File(args[0]);
         if (!args[1].startsWith(".")) {
             throw new IllegalArgumentException("Enter valid extension");
         }
@@ -30,7 +35,6 @@ public class Search {
 
     public static void main(String[] args) throws IOException {
         validate(args);
-
         Path start = Paths.get(args[0]);
         Files.walkFileTree(start, new PrintFiles());
         search(start, p -> p.toFile().getName().endsWith(args[1]))
