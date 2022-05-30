@@ -41,7 +41,7 @@ public class Config {
                 if (lineArray.length != 2 || "".equals(lineArray[0])) {
                     throw new IllegalArgumentException();
                 }
-                values.put(lineArray[0].replaceFirst("-", ""), lineArray[1]);
+                values.put(lineArray[0], lineArray[1]);
             }
         } catch (IOException e) {
             e.printStackTrace();
