@@ -17,11 +17,12 @@ public class ArgsName {
 
     private void parse(String[] args) {
         if (args != null) {
-            String[] newLine = null;
             for (String arg : args) {
                 String[] line = stringExam(arg);
                 values.put(line[0].replaceFirst("-", ""), line[1]);
             }
+        } else {
+                throw new NullPointerException("Enter valid arguments");
         }
     }
     private String[] stringExam(String arg) {

@@ -50,6 +50,6 @@ public class ArgsNameTest {
     @Test(expected = IllegalArgumentException.class)
     public void whenEmptyEqualSymbol() {
         ArgsName jvm = ArgsName.of(new String[] {"-key:value"});
-        assertThat(jvm.get("key"), is("value"));
+
     }
 }
