@@ -1,4 +1,5 @@
 package ru.job4j.io.duplicates;
+
 import java.io.IOException;
 import java.nio.file.FileVisitResult;
 import java.nio.file.Path;
@@ -15,14 +16,9 @@ public class DuplicatesVisitor extends SimpleFileVisitor<Path> {
     @Override
     public FileVisitResult visitFile(Path file, BasicFileAttributes attrs) throws IOException {
         FileProperty fileProperty = new FileProperty(attrs.size(), file.getFileName().toString());
-        List<Path> list;
-        if (!map.containsKey(fileProperty)) {
-            list = new ArrayList<>();
-        } else {
-            list = map.get(fileProperty);
-        }
+        map.putIfAbsent(fileProperty, new ArrayList<>());
+        List<Path> list = map.get(fileProperty);
         list.add(file.toAbsolutePath());
-        map.put(fileProperty, list);
         return super.visitFile(file, attrs);
     }
 
