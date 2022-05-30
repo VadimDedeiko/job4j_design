@@ -6,12 +6,10 @@ import java.util.Objects;
 public class FileProperty {
     private long size;
     private String name;
-    private Path path;
 
-    public FileProperty(long size, String name, Path path) {
+    public FileProperty(long size, String name) {
         this.size = size;
         this.name = name;
-        this.path = path;
     }
 
     public long getSize() {
@@ -28,14 +26,6 @@ public class FileProperty {
 
     public void setName(String name) {
         this.name = name;
-    }
-
-    public Path getPath() {
-        return path;
-    }
-
-    public void setPath(Path path) {
-        this.path = path;
     }
 
     @Override
