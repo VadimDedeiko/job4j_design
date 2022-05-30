@@ -1,5 +1,6 @@
 package ru.job4j.io;
 
+import java.io.File;
 import java.io.IOException;
 import java.nio.file.Files;
 import java.nio.file.Path;
@@ -9,20 +10,27 @@ import java.util.function.Predicate;
 
 public class Search {
     private static void validate(String[] args) {
+        File file = new File(args[0]);
         if (args.length < 2) {
             throw new IllegalArgumentException("No arguments passed. "
                     + "args[0] - directory in string expression"
                     + "args[1] - file extension");
         }
+        if (!args[1].startsWith(".")) {
+            throw new IllegalArgumentException("Enter valid extension");
+        }
+        if (!file.isFile()) {
+            throw new IllegalArgumentException("Enter valid file");
+        }
+        if (!file.isDirectory()) {
+            throw new IllegalArgumentException("Enter valid directory");
+        }
     }
+
 
     public static void main(String[] args) throws IOException {
         validate(args);
-        boolean firstArg = args[0].contains("./") || args[0].contains(".");
-        boolean secondArg = args[1].contains(".");
-        if (!firstArg && !secondArg) {
-            throw new IllegalArgumentException("Enter valid arguments");
-        }
+
         Path start = Paths.get(args[0]);
         Files.walkFileTree(start, new PrintFiles());
         search(start, p -> p.toFile().getName().endsWith(args[1]))
