@@ -10,11 +10,6 @@ import java.util.function.Predicate;
 
 public class Search {
     private static void validate(String[] args) {
-        if (args == null) {
-            throw new NullPointerException("No arguments passed. "
-                    + "args[0] - directory in string expression"
-                    + "args[1] - file extension");
-        }
         if (args.length < 2) {
             throw new IllegalArgumentException("No arguments passed. "
                     + "args[0] - directory in string expression"
