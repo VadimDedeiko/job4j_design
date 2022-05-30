@@ -11,7 +11,6 @@ import java.util.Map;
 import java.util.StringJoiner;
 
 public class Config {
-
     private final String path;
     private final Map<String, String> values = new HashMap<>();
 
@@ -21,24 +20,17 @@ public class Config {
 
     public void load() throws IllegalArgumentException {
         try (BufferedReader read = new BufferedReader(new FileReader(this.path))) {
-            String equal = null;
             String line = null;
             while ((line = read.readLine()) != null) {
                 if (line.isEmpty() || line.contains("#")) {
                     continue;
                 }
                 if (!line.contains("=")) {
-                    throw new IllegalArgumentException();
+                    throw new IllegalArgumentException("The line should be of the form->  key=value");
                 }
                 String[] lineArray = line.split("=", 2);
-                if (lineArray.length == 0) {
-                    throw new IllegalArgumentException();
-                }
-                if (lineArray.length != 2) {
-                    throw new IllegalArgumentException();
-                }
-                if ("".equals(lineArray[0]) || "".equals(lineArray[1])) {
-                    throw new IllegalArgumentException();
+                if (lineArray[0].isEmpty() || lineArray[1].isEmpty()) {
+                    throw new IllegalArgumentException("The line should be of the form->  key=value");
                 }
                 values.put(lineArray[0], lineArray[1]);
             }
