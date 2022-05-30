@@ -1,6 +1,5 @@
 package ru.job4j.io;
 
-import java.util.Arrays;
 import java.util.HashMap;
 import java.util.Map;
 
@@ -16,31 +15,36 @@ public class ArgsName {
     }
 
     private void parse(String[] args) {
-        if (args != null) {
-            for (String arg : args) {
-                String[] line = stringExam(arg);
-                values.put(line[0].replaceFirst("-", ""), line[1]);
-            }
-        } else {
-                throw new NullPointerException("Enter valid arguments");
+        if (args.length == 0) {
+            throw new IllegalArgumentException("Enter valid arguments");
+        }
+        for (String arg : args) {
+            String[] line = stringExam(arg);
+            values.put(line[0].replaceFirst("-", ""), line[1]);
         }
     }
+
     private String[] stringExam(String arg) {
-        String equal = null;
-        if (arg.endsWith("=")) {
-            equal = "=";
+        if (!arg.startsWith("-")) {
+            throw new IllegalArgumentException(
+                    "Enter valid format  -key=value");
         }
-        String[] line = arg.split("=");
-        if (line.length > 2) {
-            for (int i = 2; i < line.length; i++) {
-                line[1] += "=" + line[i];
-                line[1] += equal;
-                line = Arrays.copyOf(line, 2);
-            }
+        if (!arg.contains("=")) {
+            throw new IllegalArgumentException(
+                    "Enter valid format  -key=value");
+        }
+        String[] line = arg.split("=", 2);
+        if ("".equals(line[0]) || line[0] == null || "-".equals(line[0])) {
+            throw new IllegalArgumentException(
+                    "Enter valid format  -key=value");
+        }
+        if ("".equals(line[1]) || line[1] == null) {
+            throw new IllegalArgumentException(
+                    "Enter valid format  -key=value");
         }
         if (line.length != 2) {
             throw new IllegalArgumentException(
-                    "Pass the argument as key=value (" + arg + ")"
+                    "Pass the argument as -key=value"
             );
         }
         return line;
@@ -53,10 +57,10 @@ public class ArgsName {
     }
 
     public static void main(String[] args) {
-        ArgsName jvm = ArgsName.of(new String[] {"-Xmx=512", "-encoding=UTF-8"});
+        ArgsName jvm = ArgsName.of(new String[]{"-Xmx=512", "-encoding=UTF-8"});
         System.out.println(jvm.get("Xmx"));
 
-        ArgsName zip = ArgsName.of(new String[] {"-out=project.zip", "-encoding=UTF-8"});
+        ArgsName zip = ArgsName.of(new String[]{"-out=project.zip", "-encoding=UTF-8"});
         System.out.println(zip.get("out"));
     }
 }

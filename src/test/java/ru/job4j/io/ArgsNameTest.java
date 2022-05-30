@@ -38,13 +38,11 @@ public class ArgsNameTest {
     @Test(expected = IllegalArgumentException.class)
     public void whenEmptyArray() {
         ArgsName jvm = ArgsName.of(new String[] {});
-        assertThat(jvm.get("request"), is("?msg=Exit="));
     }
 
     @Test(expected = IllegalArgumentException.class)
-    public void whenEmptyKey() {
+    public void whenInvalidKey() {
         ArgsName jvm = ArgsName.of(new String[] {"-=Xmx"});
-       assertThat(jvm.get("request"), is("Xmx"));
     }
 
     @Test(expected = IllegalArgumentException.class)
