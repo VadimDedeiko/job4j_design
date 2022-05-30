@@ -27,18 +27,17 @@ public class Config {
                 if (line.isEmpty() || line.contains("#")) {
                     continue;
                 }
-                if (line.endsWith("=")) {
-                    equal = "=";
+                if (!line.contains("=")) {
+                    throw new IllegalArgumentException();
                 }
-                String[] lineArray = line.split("=");
-                if (lineArray.length > 2) {
-                    for (int i = 2; i < lineArray.length; i++) {
-                        lineArray[1] += "=" + lineArray[i];
-                        lineArray[1] += equal;
-                        lineArray = Arrays.copyOf(lineArray, 2);
-                    }
+                String[] lineArray = line.split("=", 2);
+                if (lineArray.length == 0) {
+                    throw new IllegalArgumentException();
                 }
-                if (lineArray.length != 2 || "".equals(lineArray[0])) {
+                if (lineArray.length != 2) {
+                    throw new IllegalArgumentException();
+                }
+                if ("".equals(lineArray[0]) || "".equals(lineArray[1])) {
                     throw new IllegalArgumentException();
                 }
                 values.put(lineArray[0], lineArray[1]);
