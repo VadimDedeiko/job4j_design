@@ -1,7 +1,6 @@
 package ru.job4j.io;
 
 import java.io.*;
-import java.nio.file.Files;
 import java.nio.file.Path;
 import java.util.List;
 import java.util.function.Predicate;
@@ -11,11 +10,12 @@ import java.util.zip.ZipOutputStream;
 
 public class Zip {
     private static void validate(String[] args) {
-        if (!ArgsName.of(args).get("e").startsWith(".")) {
+        ArgsName argsName = ArgsName.of(args);
+        if (!argsName.get("e").startsWith(".")) {
             throw new IllegalArgumentException(
                     "Invalid extension. It should start \"dot extension\"");
         }
-        if (!Path.of(ArgsName.of(args).get("d")).toFile().isDirectory()) {
+        if (!(Path.of(argsName.get("d")).toFile().isDirectory())) {
             throw new IllegalArgumentException(
                     "Invalid directory or path name"
             );
