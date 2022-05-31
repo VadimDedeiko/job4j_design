@@ -34,18 +34,13 @@ public class ArgsName {
                     "Enter valid format  -key=value");
         }
         String[] line = arg.split("=", 2);
-        if ("".equals(line[0]) || line[0] == null || "-".equals(line[0])) {
+        if ("-".equals(line[0])) {
             throw new IllegalArgumentException(
                     "Enter valid format  -key=value");
         }
-        if ("".equals(line[1]) || line[1] == null) {
+        if (line[1].isEmpty()) {
             throw new IllegalArgumentException(
                     "Enter valid format  -key=value");
-        }
-        if (line.length != 2) {
-            throw new IllegalArgumentException(
-                    "Pass the argument as -key=value"
-            );
         }
         return line;
     }
