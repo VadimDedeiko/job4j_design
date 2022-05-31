@@ -10,6 +10,22 @@ import java.util.zip.ZipEntry;
 import java.util.zip.ZipOutputStream;
 
 public class Zip {
+    private static void validate(String[] args) {
+        if (!ArgsName.of(args).get("e").startsWith(".")) {
+            throw new IllegalArgumentException(
+                    "Invalid extension. It should start \"dot extension\"");
+        }
+        if (!Path.of(ArgsName.of(args).get("d")).toFile().isDirectory()) {
+            throw new IllegalArgumentException(
+                    "Invalid directory or path name"
+            );
+        }
+        if (args.length != 3) {
+            throw new IllegalArgumentException(
+                    "Enter three arguments in the form  -key=value"
+            );
+        }
+    }
 
     public void packFiles(List<File> sources, File target) throws FileNotFoundException {
         try (ZipOutputStream zip = new ZipOutputStream(new BufferedOutputStream(new FileOutputStream(target)))) {
@@ -23,34 +39,16 @@ public class Zip {
         }
     }
 
-    public void packSingleFile(File source, File target) {
-        try (ZipOutputStream zip = new ZipOutputStream(new BufferedOutputStream(new FileOutputStream(target)))) {
-            zip.putNextEntry(new ZipEntry(source.getPath()));
-            try (BufferedInputStream out = new BufferedInputStream(new FileInputStream(source))) {
-                zip.write(out.readAllBytes());
-            }
-        } catch (Exception e) {
-            e.printStackTrace();
-        }
-    }
-
     public static void main(String[] args) throws IOException {
-        if (args.length != 3) {
-            throw new IllegalArgumentException(
-                    "Enter three arguments in the form  -key=value"
-            );
-        }
-        Zip zip = new Zip();
+        validate(args);
         ArgsName argsName = ArgsName.of(args);
+        Zip zip = new Zip();
         Path startDirectory = Path.of(argsName.get("d"));
-        if (!startDirectory.toFile().isDirectory()) {
-            throw new IllegalArgumentException(
-                    "Invalid directory or path name"
-            );
-        }
         Predicate<Path> pathPredicate = (p) -> p.toFile().getName().endsWith(argsName.get("e"));
         List<Path> list = Search.search(startDirectory, pathPredicate);
         Path target = Path.of(argsName.get("o"));
-        zip.packFiles(list.stream().map(Path::toFile).collect(Collectors.toList()), target.toFile());
+        zip.packFiles(list.stream()
+                .map(Path::toFile)
+                .collect(Collectors.toList()), target.toFile());
     }
 }
