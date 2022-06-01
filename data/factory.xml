@@ -1,0 +1,12 @@
+<?xml version="1.1" encoding="UTF-8" ?>
+<factory year="2020" nameCar="Mercedes" isCrosover="false">
+    <klasses>
+        <klass>V</klass>
+        <klass>S</klass>
+        <klass>W</klass>
+    </klasses>
+    <user>
+        <name>Thomas</name>
+        <surname>Schmidt</surname>
+    </user>
+</factory>
