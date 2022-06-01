@@ -9,10 +9,17 @@ public class UsageLog4j {
     private static final Logger LOG = LoggerFactory.getLogger(UsageLog4j.class.getName());
 
     public static void main(String[] args) {
-        LOG.trace("trace message");
-        LOG.debug("debug message");
-        LOG.info("info message");
-        LOG.warn("warn message");
-        LOG.error("error message");
+        int age = 33;
+        float strong = 33.2f;
+        double length = 1.8d;
+        char type = 'a';
+        byte typeByte = (byte) 'b';
+        boolean angry = true;
+        short idea = 125;
+        long year = 1990;
+
+        LOG.debug("User info age : {}, strong : {}, length"
+                + " : {}, type : {}, typeByte : {}, angry : {}, idea"
+                + " : {}, year : {}", age, strong, length, type, typeByte, angry, idea, year);
     }
 }
