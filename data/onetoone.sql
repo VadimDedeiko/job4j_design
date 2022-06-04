@@ -1,10 +1,11 @@
-create table car(
+create table serial_number(
 id serial primary key,
-	name varchar(10),
-	position_id int references factory(id)
+carmotor_number varchar(255)
 );
 
-create motor_serial_number(
-	id serial primary key,
-	serial int references car(id) unique,
+create table motor(
+id serial primary key,
+names varchar(255),
+serialnumber int references serial_number(id)
 );
+
