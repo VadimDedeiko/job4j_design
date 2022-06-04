@@ -1,7 +1,7 @@
 insert into item(request) values ('Request#1');
 insert into comments(comment) values ('Nice dance');
 insert into comments(comment) values ('You can dance');
-insert into comments(comment) values ('You can sing')
+insert into comments(comment) values ('You can sing');
 insert into attachs(file) values ('dance.avi');
 insert into attachs(file) values ('sing.avi');
 insert into category(condition) values ('Junior');
