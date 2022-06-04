@@ -1,25 +1,29 @@
+create table caliber(
+id serial primary key,
+caliber_kind varchar(30)
+);
+
 create table weapon(
 id serial primary key,
-name_weapon varchar(30)
+name_weapon varchar(30),
+caliber_id int references caliber(id)
 );
 
-create table variety(
-id serial primary key,
-variety_kind varchar(30),
-weapon_id int references weapon(id)
-);
-insert into weapon(name_weapon) values ('kalashnikov');
-insert into weapon(name_weapon) values ('pistol');
-insert into weapon(name_weapon) values ('machine gun');
-insert into variety(variety_kind, weapon_id) values ('30 bullets', 1);
-insert into variety(variety_kind, weapon_id) values ('10 bullets', 2);
-insert into variety(variety_kind, weapon_id) values ('100 bullets', 3);
-insert into variety(variety_kind) values ('50 bullets');
+insert into caliber(caliber_kind) values ('7,62');
+insert into caliber(caliber_kind) values ('5.7');
+insert into caliber(caliber_kind) values ('9');
 
-select from variety inner join weapon on variety.weapon_id = weapon.id;
+insert into weapon(name_weapon, caliber_id) values ('kalashnikov', 1);
+insert into weapon(name_weapon, caliber_id) values ('pistol', 2);
+insert into weapon(name_weapon, caliber_id) values ('revolver', 2);
+insert into weapon(name_weapon, caliber_id) values ('machine gun', 3);
+insert into weapon(name_weapon, caliber_id) values ('Barrett REC7', 3);
 
-select n.name_weapon, v.variety_kind
-from variety as v join weapon as n on v.weapon_id = n.id;
 
-select v.variety_kind as Вид, w.name_weapon as Имя
-from variety as v join weapon as w on v.weapon_id = w.id;
+select * from caliber inner join weapon on caliber.id = weapon.caliber_id;
+
+select w.name_weapon, c.caliber_kind
+from caliber as c join weapon as w on c.id = w.caliber_id;
+
+select c.caliber_kind as Вид, w.name_weapon as Имя
+from caliber as c join weapon as w on c.id = w.caliber_id;
