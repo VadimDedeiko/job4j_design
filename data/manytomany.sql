@@ -1,6 +1,6 @@
 create table car(
 id serial primary key,
-	names varchar(10)
+names varchar(10)
 );
 
 create table car_power(

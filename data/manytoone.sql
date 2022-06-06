@@ -3,8 +3,8 @@ id serial primary key,
 		car text
 );
 
-create table car(
+create table clothes(
 id serial primary key,
 	names varchar(10),
-	position_id int references factory(id)
+	factory_id int references factory(id)
 );
