@@ -27,13 +27,13 @@ public class ImportDB {
         try (BufferedReader rd = new BufferedReader(new FileReader(dump))) {
             rd.lines()
                     .forEach(s -> {
-                        String[] line = s.split(";");
-                        if (line.length == 2) {
-                            users.add(new User(
-                                    line[0],
-                                    line[1]
-                            ));
+                        String[] line = s.split(";", 2);
+                        if (line[0].isEmpty() || line[1].isEmpty()) {
+                            throw new IllegalArgumentException("Invalid file data format "
+                                    + "dump.txt. It should be in form "
+                                    + "login;password;");
                         }
+                        users.add(new User(line[0], line[1]));
                     });
         }
         return users;
