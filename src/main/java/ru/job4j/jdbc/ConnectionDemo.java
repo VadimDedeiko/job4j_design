@@ -12,27 +12,27 @@ import java.util.Collection;
 import java.util.Properties;
 
 public class ConnectionDemo {
-    private Config config;
-    private Path path;
+
+    private Properties properties;
+
+    public Properties getProperties() {
+        return properties;
+    }
+
     public void load() throws IOException {
-        this.path = Path.of("./");
-        Properties properties = new Properties();
-        try (BufferedInputStream bis = new BufferedInputStream(
-                new FileInputStream(String.valueOf(path.toAbsolutePath()))
-        )) {
-            properties.load(bis);
-            this.config = new Config(path.toString());
-            config.load();
+        properties = new Properties();
+        try (InputStream in = ConnectionDemo.class.getClassLoader().getResourceAsStream("app.properties")) {
+            properties.load(in);
         }
     }
 
     public static void main(String[] args) throws ClassNotFoundException, SQLException, IOException {
         ConnectionDemo demo = new ConnectionDemo();
         demo.load();
-        String keyForName = demo.config.value("driver");
-        String keyUrl = demo.config.value("url");
-        String keyLogin = demo.config.value("login");
-        String keyPassword = demo.config.value("password");
+        String keyForName = demo.getProperties().getProperty("jdbc.driver");
+        String keyUrl = demo.getProperties().getProperty("jdbc.url");
+        String keyLogin = demo.getProperties().getProperty("jdbc.username");
+        String keyPassword = demo.getProperties().getProperty("jdbc.password");
         Class.forName(keyForName);
 
         try (Connection connection = DriverManager.getConnection(keyUrl, keyLogin, keyPassword)) {
