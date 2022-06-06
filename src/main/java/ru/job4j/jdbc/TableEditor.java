@@ -1,9 +1,6 @@
 package ru.job4j.jdbc;
 
-import java.io.File;
-import java.io.FileInputStream;
-import java.io.FileOutputStream;
-import java.io.IOException;
+import java.io.*;
 import java.sql.Connection;
 import java.sql.DriverManager;
 import java.sql.SQLException;
@@ -20,74 +17,48 @@ public class TableEditor implements AutoCloseable {
         initConnection();
     }
 
+    public Connection getConnection() {
+        return connection;
+    }
+
     private void initConnection() throws ClassNotFoundException, SQLException, IOException {
-        properties.setProperty("driver", "org.postgresql.Driver");
+        properties = new Properties();
+        properties.setProperty("jdbc.driver", "org.postgresql.Driver");
         properties.setProperty("url", "jdbc:postgresql://localhost:5432/idea_db");
-        properties.setProperty("login", "postgres");
-        properties.setProperty("password", "password");
-        File file = new File("sql.properties");
-        FileOutputStream fileOutputStream = new FileOutputStream("sql.properties");
-        properties.store(fileOutputStream, "sql_connection");
-        try (FileInputStream fileProperties = new FileInputStream("sql.properties")) {
-            properties.load(fileProperties);
+        properties.setProperty("jdbc.username", "postgres");
+        properties.setProperty("jdbc.password", "password");
+        try (InputStream in = ConnectionDemo.class.getClassLoader().getResourceAsStream("app.properties")) {
+            properties.load(in);
         } catch (IOException e) {
             throw new RuntimeException(e);
         }
-        String driver = properties.getProperty("driver");
+        String driver = properties.getProperty("jdbc.driver");
         String url = properties.getProperty("url");
-        String login = properties.getProperty("login");
-        String password = properties.getProperty("password");
+        String login = properties.getProperty("jdbc.username");
+        String password = properties.getProperty("jdbc.password");
         Class.forName(driver);
         this.connection = DriverManager.getConnection(url, login, password);
     }
 
     public void createTable(String tableName) throws SQLException {
-        try (Statement statement = connection.createStatement()) {
-            String sql = String.format("create table if not exists %s(%s, %s);", tableName, "id serial primary key", "name varchar(50)");
-            statement.executeUpdate(sql);
-            System.out.println(TableEditor.getTableScheme(connection, tableName));
-        } catch (Exception e) {
-            e.printStackTrace();
-        }
+        exe(String.format("create table if not exists %s(%s);", tableName, "id serial primary key"));
     }
 
     public void dropTable(String tableName) {
-        try (Statement statement = connection.createStatement()) {
-            String sql = String.format("drop table %s;", tableName);
-            statement.execute(sql);
-        } catch (SQLException e) {
-            e.printStackTrace();
-        }
+        exe(String.format("drop table %s;", tableName));
     }
 
+
     public void addColumn(String tableName, String columnName, String type) {
-        try (Statement statement = connection.createStatement()) {
-            String sql = String.format("ALTER TABLE %s ADD COLUMN %s %s", tableName, columnName, type);
-            statement.execute(sql);
-            System.out.println(TableEditor.getTableScheme(connection, tableName));
-        } catch (Exception e) {
-            e.printStackTrace();
-        }
+        exe(String.format("alter table %s add column %s %s", tableName, columnName, type));
     }
 
     public void dropColumn(String tableName, String columnName) {
-        try (Statement statement = connection.createStatement()) {
-            String sql = String.format("ALTER TABLE %s DROP COLUMN %s", tableName, columnName);
-            statement.execute(sql);
-            System.out.println(TableEditor.getTableScheme(connection, tableName));
-        } catch (Exception e) {
-            e.printStackTrace();
-        }
+        exe(String.format("alter table %s drop column %s", tableName, columnName));
     }
 
     public void renameColumn(String tableName, String columnName, String newColumnName) {
-        try (Statement statement = connection.createStatement()) {
-            String sql = String.format("ALTER TABLE %s RENAME COLUMN %s TO %s", tableName, columnName, newColumnName);
-            statement.execute(sql);
-            System.out.println(TableEditor.getTableScheme(connection, tableName));
-        } catch (Exception e) {
-            e.printStackTrace();
-        }
+        exe(String.format("alter table %s rename column %s to %s", tableName, columnName, newColumnName));
     }
 
 
@@ -111,6 +82,14 @@ public class TableEditor implements AutoCloseable {
     public void close() throws Exception {
         if (connection != null) {
             connection.close();
+        }
+    }
+
+    private void exe(String sql) {
+        try (Statement statement = connection.createStatement()) {
+            statement.execute(sql);
+        } catch (SQLException e) {
+            e.printStackTrace();
         }
     }
 }
