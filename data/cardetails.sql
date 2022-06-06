@@ -13,7 +13,6 @@ id serial primary key,
 name varchar(50)
 );
 
-
 create table car(
 id serial primary key,
 name varchar(50),
@@ -43,7 +42,7 @@ left join transmission on k.transmission_id = transmission.id;
 select body.name from
 body left join car on body.id = car.body_id where car.id is null
 union
-select motor.name from motor left join car on motor.id = car.body_id where car.id is null
+select motor.name from motor left join car on motor.id = car.motor_id where car.id is null
 union
-select transmission.name from transmission left join car on transmission.id = car.body_id
+select transmission.name from transmission left join car on transmission.id = car.transmission_id
 where car.id is null;
