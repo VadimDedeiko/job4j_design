@@ -18,10 +18,11 @@ insert into users(names, role_id) values ('Kirill', 1);
 insert into item(request, category_id, users_id, state_id) values ('Request#1', 1, 1, 1);
 insert into item(request, category_id, users_id, state_id) values ('Request#2', 1, 1, 2);
 insert into item(request, category_id, users_id, state_id) values ('Request#3', 1, 2, 3);
-insert into role_rules(role_id, item_id) values (1, 1);
-insert into role_rules(role_id, item_id) values (1, 1);
-insert into role_rules(role_id, item_id) values (1, 3);
-insert into role_rules(role_id, item_id) values (1, 1);
+
+insert into role_rules(role_id, rules_id) values (1, 1);
+insert into role_rules(role_id, rules_id) values (1, 1);
+insert into role_rules(role_id, rules_id) values (1, 3);
+insert into role_rules(role_id, rules_id) values (1, 1);
 
 insert into comments(comment, item_id) values ('Nice dance', 1);
 insert into comments(comment, item_id) values ('You can dance', 2);

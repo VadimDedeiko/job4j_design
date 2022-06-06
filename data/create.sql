@@ -29,7 +29,7 @@ id serial primary key,
 request varchar(30),
 category_id int references category(id),
 users_id int references users(id),
-state_id references state(id)
+state_id int references state(id)
 );
 
 create table comments(
