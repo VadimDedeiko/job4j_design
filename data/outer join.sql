@@ -1,3 +1,4 @@
+--1. —оздать таблицы и заполнить их начальными данными
 create table departments(
 id serial primary key,
 name_dep varchar(50)
@@ -13,6 +14,7 @@ insert into departments (name_dep) values ('department1');
 insert into departments (name_dep) values ('department2');
 insert into departments (name_dep) values ('department3');
 insert into departments (name_dep) values ('department4');
+insert into departments (name_dep) values ('department5');
 
 insert into employees (name_emp, departments_id) values ('name1', 1);
 insert into employees (name_emp, departments_id) values ('name2', 2);
@@ -20,19 +22,25 @@ insert into employees (name_emp, departments_id) values ('name3', 3);
 insert into employees (name_emp, departments_id) values ('name4', null);
 insert into employees (name_emp, departments_id) values ('name5', 4);
 insert into employees (name_emp, departments_id) values ('name6', null);
+insert into employees (name_emp, departments_id) values (null, 5);
 
+--2. ¬ыполнить запросы с left, right, full, cross соединени€ми
 select * from departments as d left join employees as e on e.departments_id = d.id;
 select * from departments as d right join employees as e on e.departments_id = d.id;
 select * from departments as d full join employees as e on e.departments_id = d.id;
 select * from departments as d cross join employees as e;
 
+--3. »спользу€ left join найти департаменты, у которых нет работников
+select * from departments as d  left join employees as e on e.departments_id = d.id
+where e.name_emp is null;
 
+--4. »спользу€ left и right join написать запросы, которые давали бы
+--одинаковый результат (пор€док вывода колонок в эти запросах также должен быть идентичный).
 select * from departments as d right join employees as e on e.departments_id = d.id;
 select d.id, d.name_dep, e.id, e.name_emp, e.departments_id  from employees as e
 left join departments  as d on e.departments_id = d.id;
 
-select * from departments as d  right join employees as e on e.departments_id = d.id
-where d.id is null;
+
 
 create table teens(
 id serial primary key,
