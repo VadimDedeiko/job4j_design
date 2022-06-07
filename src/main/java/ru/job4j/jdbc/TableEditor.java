@@ -1,10 +1,7 @@
 package ru.job4j.jdbc;
 
 import java.io.*;
-import java.sql.Connection;
-import java.sql.DriverManager;
-import java.sql.SQLException;
-import java.sql.Statement;
+import java.sql.*;
 import java.util.Properties;
 import java.util.StringJoiner;
 
@@ -22,12 +19,7 @@ public class TableEditor implements AutoCloseable {
     }
 
     private void initConnection() throws ClassNotFoundException, SQLException, IOException {
-        properties = new Properties();
-        properties.setProperty("jdbc.driver", "org.postgresql.Driver");
-        properties.setProperty("url", "jdbc:postgresql://localhost:5432/idea_db");
-        properties.setProperty("jdbc.username", "postgres");
-        properties.setProperty("jdbc.password", "password");
-        try (InputStream in = ConnectionDemo.class.getClassLoader().getResourceAsStream("app.properties")) {
+        try (InputStream in = TableEditor.class.getClassLoader().getResourceAsStream("app.properties")) {
             properties.load(in);
         } catch (IOException e) {
             throw new RuntimeException(e);
@@ -53,12 +45,20 @@ public class TableEditor implements AutoCloseable {
         exe(String.format("alter table %s add column %s %s", tableName, columnName, type));
     }
 
+
+
     public void dropColumn(String tableName, String columnName) {
         exe(String.format("alter table %s drop column %s", tableName, columnName));
     }
 
     public void renameColumn(String tableName, String columnName, String newColumnName) {
         exe(String.format("alter table %s rename column %s to %s", tableName, columnName, newColumnName));
+    }
+
+    public ResultSet result(String tableName) throws SQLException {
+        Statement statement = connection.createStatement();
+        ResultSet resultSet = statement.executeQuery("select * from " + tableName);
+        return resultSet;
     }
 
 
