@@ -19,11 +19,6 @@ public class TableEditor implements AutoCloseable {
     }
 
     private void initConnection() throws ClassNotFoundException, SQLException, IOException {
-        try (InputStream in = TableEditor.class.getClassLoader().getResourceAsStream("app.properties")) {
-            properties.load(in);
-        } catch (IOException e) {
-            throw new RuntimeException(e);
-        }
         String driver = properties.getProperty("jdbc.driver");
         String url = properties.getProperty("url");
         String login = properties.getProperty("jdbc.username");
@@ -45,8 +40,6 @@ public class TableEditor implements AutoCloseable {
         exe(String.format("alter table %s add column %s %s", tableName, columnName, type));
     }
 
-
-
     public void dropColumn(String tableName, String columnName) {
         exe(String.format("alter table %s drop column %s", tableName, columnName));
     }
@@ -54,13 +47,6 @@ public class TableEditor implements AutoCloseable {
     public void renameColumn(String tableName, String columnName, String newColumnName) {
         exe(String.format("alter table %s rename column %s to %s", tableName, columnName, newColumnName));
     }
-
-    public ResultSet result(String tableName) throws SQLException {
-        Statement statement = connection.createStatement();
-        ResultSet resultSet = statement.executeQuery("select * from " + tableName);
-        return resultSet;
-    }
-
 
     public static String getTableScheme(Connection connection, String tableName) throws Exception {
         var rowSeparator = "-".repeat(30).concat(System.lineSeparator());
