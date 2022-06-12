@@ -38,11 +38,15 @@ public class CSVReader {
                         .append(System.lineSeparator());
             }
         }
+        if (!"stdout".equals(pathOut)) {
             try (PrintWriter ot = new PrintWriter(new FileWriter(String.valueOf(pathOut)))) {
                 ot.print(stringBuilder);
             } catch (IOException ioe) {
                 ioe.printStackTrace();
-            }
+        }
+        } else {
+            System.out.println(stringBuilder);
+        }
 
     }
 
@@ -59,7 +63,6 @@ public class CSVReader {
             throw new IllegalArgumentException("the filter is not registered");
         }
     }
-
 
 
     public static void main(String[] args) throws Exception {
