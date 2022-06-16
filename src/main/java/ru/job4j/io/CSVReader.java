@@ -51,6 +51,9 @@ public class CSVReader {
     }
 
     private static void checkValidArgs(int size, Path path, String delimiter, String target, String[] filter) {
+        if (!path.endsWith(".csv")) {
+            throw new IllegalArgumentException("invalid file or pathname");
+        }
         if (size != 4) {
             throw new IllegalArgumentException("check the number of arguments passed");
         }
