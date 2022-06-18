@@ -715,7 +715,6 @@ C:\projects\job4j_design\data\target.txt
 C:\projects\job4j_design\dump.txt
 C:\projects\job4j_design\even.txt
 C:\projects\job4j_design\log.txt
-C:\projects\job4j_design\log2.txt
 C:\projects\job4j_design\result.txt
 C:\projects\job4j_elementary\.idea\checkstyleidea-libs\readme.txt
 C:\projects\job4j_grabber\.idea\checkstyleidea-libs\readme.txt

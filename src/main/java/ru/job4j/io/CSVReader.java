@@ -51,17 +51,15 @@ public class CSVReader {
     }
 
     private static void checkValidArgs(int size, Path path, String delimiter, String target, String[] filter) {
-        if (!path.endsWith(".csv")) {
+        if (!path.endsWith(".csv") || !path.toFile().isDirectory()) {
             throw new IllegalArgumentException("invalid file or pathname");
         }
         if (size != 4) {
             throw new IllegalArgumentException("check the number of arguments passed");
         }
-
         if (!";".equals(delimiter)) {
             throw new IllegalArgumentException("the separator does not match the format");
         }
-
         if (filter.length == 0) {
             throw new IllegalArgumentException("the filter is not registered");
         }
