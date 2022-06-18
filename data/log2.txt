@@ -1,0 +1,1281 @@
+C:\Program Files\Avast Software\Avast\1033\aswClnTg.txt
+C:\Program Files\Avast Software\Avast\1033\aswInfTg.txt
+C:\Program Files\Avast Software\Avast\defs\22061800\list_d.txt
+C:\Program Files\Avast Software\Avast\defs\22061800\list_i.txt
+C:\Program Files\Avast Software\Avast\Licenses\Boost.txt
+C:\Program Files\Avast Software\Avast\Licenses\brotli.txt
+C:\Program Files\Avast Software\Avast\Licenses\bsdiff.txt
+C:\Program Files\Avast Software\Avast\Licenses\bzip2.txt
+C:\Program Files\Avast Software\Avast\Licenses\cef.txt
+C:\Program Files\Avast Software\Avast\Licenses\cURL.txt
+C:\Program Files\Avast Software\Avast\Licenses\Detours.txt
+C:\Program Files\Avast Software\Avast\Licenses\EULA.txt
+C:\Program Files\Avast Software\Avast\Licenses\GSL.txt
+C:\Program Files\Avast Software\Avast\Licenses\ICU.txt
+C:\Program Files\Avast Software\Avast\Licenses\intel_asm.txt
+C:\Program Files\Avast Software\Avast\Licenses\jansson.txt
+C:\Program Files\Avast Software\Avast\Licenses\JsonCpp.txt
+C:\Program Files\Avast Software\Avast\Licenses\lexbor.txt
+C:\Program Files\Avast Software\Avast\Licenses\libevent.txt
+C:\Program Files\Avast Software\Avast\Licenses\libPNG.txt
+C:\Program Files\Avast Software\Avast\Licenses\libsodium.txt
+C:\Program Files\Avast Software\Avast\Licenses\LUA.txt
+C:\Program Files\Avast Software\Avast\Licenses\lzfse.txt
+C:\Program Files\Avast Software\Avast\Licenses\LZMA.txt
+C:\Program Files\Avast Software\Avast\Licenses\mbedTLS.txt
+C:\Program Files\Avast Software\Avast\Licenses\mhook.txt
+C:\Program Files\Avast Software\Avast\Licenses\nanopb.txt
+C:\Program Files\Avast Software\Avast\Licenses\nghttp2.txt
+C:\Program Files\Avast Software\Avast\Licenses\OpenSSL.txt
+C:\Program Files\Avast Software\Avast\Licenses\PCRE.txt
+C:\Program Files\Avast Software\Avast\Licenses\protobuf.txt
+C:\Program Files\Avast Software\Avast\Licenses\pugixml.txt
+C:\Program Files\Avast Software\Avast\Licenses\rapidjson.txt
+C:\Program Files\Avast Software\Avast\Licenses\sqlite.txt
+C:\Program Files\Avast Software\Avast\Licenses\unrar.txt
+C:\Program Files\Avast Software\Avast\Licenses\vxWidgets.txt
+C:\Program Files\Avast Software\Avast\Licenses\Xerces.txt
+C:\Program Files\Avast Software\Avast\Licenses\xmlParser.txt
+C:\Program Files\Avast Software\Avast\Licenses\xxHash.txt
+C:\Program Files\Avast Software\Avast\Licenses\yara.txt
+C:\Program Files\Avast Software\Avast\Licenses\zlib.txt
+C:\Program Files\Avast Software\Avast\setup\Stats.txt
+C:\Program Files\Git\LICENSE.txt
+C:\Program Files\Git\mingw64\share\antiword\cp1250.txt
+C:\Program Files\Git\mingw64\share\antiword\cp1251.txt
+C:\Program Files\Git\mingw64\share\antiword\cp1252.txt
+C:\Program Files\Git\mingw64\share\antiword\cp437.txt
+C:\Program Files\Git\mingw64\share\antiword\cp850.txt
+C:\Program Files\Git\mingw64\share\antiword\cp852.txt
+C:\Program Files\Git\mingw64\share\antiword\cp862.txt
+C:\Program Files\Git\mingw64\share\antiword\cp864.txt
+C:\Program Files\Git\mingw64\share\antiword\cp866.txt
+C:\Program Files\Git\mingw64\share\antiword\MacCyrillic.txt
+C:\Program Files\Git\mingw64\share\antiword\MacRoman.txt
+C:\Program Files\Git\mingw64\share\antiword\roman.txt
+C:\Program Files\Git\mingw64\share\doc\connect\manual.txt
+C:\Program Files\Git\mingw64\share\doc\xz\examples\00_README.txt
+C:\Program Files\Git\mingw64\share\doc\xz\faq.txt
+C:\Program Files\Git\mingw64\share\doc\xz\history.txt
+C:\Program Files\Git\mingw64\share\git\builtins.txt
+C:\Program Files\Git\usr\share\gnupg\help.txt
+C:\Program Files\Git\usr\share\licenses\ncurses\license.txt
+C:\Program Files\Git\usr\share\licenses\vim\license.txt
+C:\Program Files\Git\usr\share\perl5\core_perl\unicore\Blocks.txt
+C:\Program Files\Git\usr\share\perl5\core_perl\unicore\NamedSequences.txt
+C:\Program Files\Git\usr\share\perl5\core_perl\unicore\SpecialCasing.txt
+C:\Program Files\Git\usr\share\vim\vim82\autoload\README.txt
+C:\Program Files\Git\usr\share\vim\vim82\colors\README.txt
+C:\Program Files\Git\usr\share\vim\vim82\compiler\README.txt
+C:\Program Files\Git\usr\share\vim\vim82\doc\arabic.txt
+C:\Program Files\Git\usr\share\vim\vim82\doc\autocmd.txt
+C:\Program Files\Git\usr\share\vim\vim82\doc\change.txt
+C:\Program Files\Git\usr\share\vim\vim82\doc\channel.txt
+C:\Program Files\Git\usr\share\vim\vim82\doc\cmdline.txt
+C:\Program Files\Git\usr\share\vim\vim82\doc\debug.txt
+C:\Program Files\Git\usr\share\vim\vim82\doc\debugger.txt
+C:\Program Files\Git\usr\share\vim\vim82\doc\develop.txt
+C:\Program Files\Git\usr\share\vim\vim82\doc\diff.txt
+C:\Program Files\Git\usr\share\vim\vim82\doc\digraph.txt
+C:\Program Files\Git\usr\share\vim\vim82\doc\editing.txt
+C:\Program Files\Git\usr\share\vim\vim82\doc\eval.txt
+C:\Program Files\Git\usr\share\vim\vim82\doc\farsi.txt
+C:\Program Files\Git\usr\share\vim\vim82\doc\filetype.txt
+C:\Program Files\Git\usr\share\vim\vim82\doc\fold.txt
+C:\Program Files\Git\usr\share\vim\vim82\doc\ft_ada.txt
+C:\Program Files\Git\usr\share\vim\vim82\doc\ft_ps1.txt
+C:\Program Files\Git\usr\share\vim\vim82\doc\ft_raku.txt
+C:\Program Files\Git\usr\share\vim\vim82\doc\ft_rust.txt
+C:\Program Files\Git\usr\share\vim\vim82\doc\ft_sql.txt
+C:\Program Files\Git\usr\share\vim\vim82\doc\gui.txt
+C:\Program Files\Git\usr\share\vim\vim82\doc\gui_w32.txt
+C:\Program Files\Git\usr\share\vim\vim82\doc\gui_x11.txt
+C:\Program Files\Git\usr\share\vim\vim82\doc\hangulin.txt
+C:\Program Files\Git\usr\share\vim\vim82\doc\hebrew.txt
+C:\Program Files\Git\usr\share\vim\vim82\doc\help.txt
+C:\Program Files\Git\usr\share\vim\vim82\doc\helphelp.txt
+C:\Program Files\Git\usr\share\vim\vim82\doc\howto.txt
+C:\Program Files\Git\usr\share\vim\vim82\doc\if_cscop.txt
+C:\Program Files\Git\usr\share\vim\vim82\doc\if_lua.txt
+C:\Program Files\Git\usr\share\vim\vim82\doc\if_mzsch.txt
+C:\Program Files\Git\usr\share\vim\vim82\doc\if_ole.txt
+C:\Program Files\Git\usr\share\vim\vim82\doc\if_perl.txt
+C:\Program Files\Git\usr\share\vim\vim82\doc\if_pyth.txt
+C:\Program Files\Git\usr\share\vim\vim82\doc\if_ruby.txt
+C:\Program Files\Git\usr\share\vim\vim82\doc\if_sniff.txt
+C:\Program Files\Git\usr\share\vim\vim82\doc\if_tcl.txt
+C:\Program Files\Git\usr\share\vim\vim82\doc\indent.txt
+C:\Program Files\Git\usr\share\vim\vim82\doc\index.txt
+C:\Program Files\Git\usr\share\vim\vim82\doc\insert.txt
+C:\Program Files\Git\usr\share\vim\vim82\doc\intro.txt
+C:\Program Files\Git\usr\share\vim\vim82\doc\map.txt
+C:\Program Files\Git\usr\share\vim\vim82\doc\mbyte.txt
+C:\Program Files\Git\usr\share\vim\vim82\doc\message.txt
+C:\Program Files\Git\usr\share\vim\vim82\doc\mlang.txt
+C:\Program Files\Git\usr\share\vim\vim82\doc\motion.txt
+C:\Program Files\Git\usr\share\vim\vim82\doc\netbeans.txt
+C:\Program Files\Git\usr\share\vim\vim82\doc\options.txt
+C:\Program Files\Git\usr\share\vim\vim82\doc\os_390.txt
+C:\Program Files\Git\usr\share\vim\vim82\doc\os_amiga.txt
+C:\Program Files\Git\usr\share\vim\vim82\doc\os_beos.txt
+C:\Program Files\Git\usr\share\vim\vim82\doc\os_dos.txt
+C:\Program Files\Git\usr\share\vim\vim82\doc\os_haiku.txt
+C:\Program Files\Git\usr\share\vim\vim82\doc\os_mac.txt
+C:\Program Files\Git\usr\share\vim\vim82\doc\os_mint.txt
+C:\Program Files\Git\usr\share\vim\vim82\doc\os_msdos.txt
+C:\Program Files\Git\usr\share\vim\vim82\doc\os_os2.txt
+C:\Program Files\Git\usr\share\vim\vim82\doc\os_qnx.txt
+C:\Program Files\Git\usr\share\vim\vim82\doc\os_risc.txt
+C:\Program Files\Git\usr\share\vim\vim82\doc\os_unix.txt
+C:\Program Files\Git\usr\share\vim\vim82\doc\os_vms.txt
+C:\Program Files\Git\usr\share\vim\vim82\doc\os_win32.txt
+C:\Program Files\Git\usr\share\vim\vim82\doc\pattern.txt
+C:\Program Files\Git\usr\share\vim\vim82\doc\pi_getscript.txt
+C:\Program Files\Git\usr\share\vim\vim82\doc\pi_gzip.txt
+C:\Program Files\Git\usr\share\vim\vim82\doc\pi_logipat.txt
+C:\Program Files\Git\usr\share\vim\vim82\doc\pi_netrw.txt
+C:\Program Files\Git\usr\share\vim\vim82\doc\pi_paren.txt
+C:\Program Files\Git\usr\share\vim\vim82\doc\pi_spec.txt
+C:\Program Files\Git\usr\share\vim\vim82\doc\pi_tar.txt
+C:\Program Files\Git\usr\share\vim\vim82\doc\pi_vimball.txt
+C:\Program Files\Git\usr\share\vim\vim82\doc\pi_zip.txt
+C:\Program Files\Git\usr\share\vim\vim82\doc\popup.txt
+C:\Program Files\Git\usr\share\vim\vim82\doc\print.txt
+C:\Program Files\Git\usr\share\vim\vim82\doc\quickfix.txt
+C:\Program Files\Git\usr\share\vim\vim82\doc\quickref.txt
+C:\Program Files\Git\usr\share\vim\vim82\doc\quotes.txt
+C:\Program Files\Git\usr\share\vim\vim82\doc\recover.txt
+C:\Program Files\Git\usr\share\vim\vim82\doc\remote.txt
+C:\Program Files\Git\usr\share\vim\vim82\doc\repeat.txt
+C:\Program Files\Git\usr\share\vim\vim82\doc\rileft.txt
+C:\Program Files\Git\usr\share\vim\vim82\doc\russian.txt
+C:\Program Files\Git\usr\share\vim\vim82\doc\scroll.txt
+C:\Program Files\Git\usr\share\vim\vim82\doc\sign.txt
+C:\Program Files\Git\usr\share\vim\vim82\doc\spell.txt
+C:\Program Files\Git\usr\share\vim\vim82\doc\sponsor.txt
+C:\Program Files\Git\usr\share\vim\vim82\doc\starting.txt
+C:\Program Files\Git\usr\share\vim\vim82\doc\syntax.txt
+C:\Program Files\Git\usr\share\vim\vim82\doc\tabpage.txt
+C:\Program Files\Git\usr\share\vim\vim82\doc\tagsrch.txt
+C:\Program Files\Git\usr\share\vim\vim82\doc\term.txt
+C:\Program Files\Git\usr\share\vim\vim82\doc\terminal.txt
+C:\Program Files\Git\usr\share\vim\vim82\doc\testing.txt
+C:\Program Files\Git\usr\share\vim\vim82\doc\textprop.txt
+C:\Program Files\Git\usr\share\vim\vim82\doc\tips.txt
+C:\Program Files\Git\usr\share\vim\vim82\doc\todo.txt
+C:\Program Files\Git\usr\share\vim\vim82\doc\uganda.txt
+C:\Program Files\Git\usr\share\vim\vim82\doc\undo.txt
+C:\Program Files\Git\usr\share\vim\vim82\doc\usr_01.txt
+C:\Program Files\Git\usr\share\vim\vim82\doc\usr_02.txt
+C:\Program Files\Git\usr\share\vim\vim82\doc\usr_03.txt
+C:\Program Files\Git\usr\share\vim\vim82\doc\usr_04.txt
+C:\Program Files\Git\usr\share\vim\vim82\doc\usr_05.txt
+C:\Program Files\Git\usr\share\vim\vim82\doc\usr_06.txt
+C:\Program Files\Git\usr\share\vim\vim82\doc\usr_07.txt
+C:\Program Files\Git\usr\share\vim\vim82\doc\usr_08.txt
+C:\Program Files\Git\usr\share\vim\vim82\doc\usr_09.txt
+C:\Program Files\Git\usr\share\vim\vim82\doc\usr_10.txt
+C:\Program Files\Git\usr\share\vim\vim82\doc\usr_11.txt
+C:\Program Files\Git\usr\share\vim\vim82\doc\usr_12.txt
+C:\Program Files\Git\usr\share\vim\vim82\doc\usr_20.txt
+C:\Program Files\Git\usr\share\vim\vim82\doc\usr_21.txt
+C:\Program Files\Git\usr\share\vim\vim82\doc\usr_22.txt
+C:\Program Files\Git\usr\share\vim\vim82\doc\usr_23.txt
+C:\Program Files\Git\usr\share\vim\vim82\doc\usr_24.txt
+C:\Program Files\Git\usr\share\vim\vim82\doc\usr_25.txt
+C:\Program Files\Git\usr\share\vim\vim82\doc\usr_26.txt
+C:\Program Files\Git\usr\share\vim\vim82\doc\usr_27.txt
+C:\Program Files\Git\usr\share\vim\vim82\doc\usr_28.txt
+C:\Program Files\Git\usr\share\vim\vim82\doc\usr_29.txt
+C:\Program Files\Git\usr\share\vim\vim82\doc\usr_30.txt
+C:\Program Files\Git\usr\share\vim\vim82\doc\usr_31.txt
+C:\Program Files\Git\usr\share\vim\vim82\doc\usr_32.txt
+C:\Program Files\Git\usr\share\vim\vim82\doc\usr_40.txt
+C:\Program Files\Git\usr\share\vim\vim82\doc\usr_41.txt
+C:\Program Files\Git\usr\share\vim\vim82\doc\usr_42.txt
+C:\Program Files\Git\usr\share\vim\vim82\doc\usr_43.txt
+C:\Program Files\Git\usr\share\vim\vim82\doc\usr_44.txt
+C:\Program Files\Git\usr\share\vim\vim82\doc\usr_45.txt
+C:\Program Files\Git\usr\share\vim\vim82\doc\usr_46.txt
+C:\Program Files\Git\usr\share\vim\vim82\doc\usr_90.txt
+C:\Program Files\Git\usr\share\vim\vim82\doc\usr_toc.txt
+C:\Program Files\Git\usr\share\vim\vim82\doc\various.txt
+C:\Program Files\Git\usr\share\vim\vim82\doc\version4.txt
+C:\Program Files\Git\usr\share\vim\vim82\doc\version5.txt
+C:\Program Files\Git\usr\share\vim\vim82\doc\version6.txt
+C:\Program Files\Git\usr\share\vim\vim82\doc\version7.txt
+C:\Program Files\Git\usr\share\vim\vim82\doc\version8.txt
+C:\Program Files\Git\usr\share\vim\vim82\doc\vim9.txt
+C:\Program Files\Git\usr\share\vim\vim82\doc\visual.txt
+C:\Program Files\Git\usr\share\vim\vim82\doc\vi_diff.txt
+C:\Program Files\Git\usr\share\vim\vim82\doc\windows.txt
+C:\Program Files\Git\usr\share\vim\vim82\doc\workshop.txt
+C:\Program Files\Git\usr\share\vim\vim82\ftplugin\README.txt
+C:\Program Files\Git\usr\share\vim\vim82\indent\README.txt
+C:\Program Files\Git\usr\share\vim\vim82\keymap\README.txt
+C:\Program Files\Git\usr\share\vim\vim82\lang\README.txt
+C:\Program Files\Git\usr\share\vim\vim82\macros\maze\README.txt
+C:\Program Files\Git\usr\share\vim\vim82\macros\README.txt
+C:\Program Files\Git\usr\share\vim\vim82\macros\urm\README.txt
+C:\Program Files\Git\usr\share\vim\vim82\pack\dist\opt\matchit\doc\matchit.txt
+C:\Program Files\Git\usr\share\vim\vim82\plugin\README.txt
+C:\Program Files\Git\usr\share\vim\vim82\rgb.txt
+C:\Program Files\Git\usr\share\vim\vim82\syntax\README.txt
+C:\Program Files\Git\usr\share\vim\vim82\tools\ccfilter_README.txt
+C:\Program Files\Git\usr\share\vim\vim82\tools\efm_filter.txt
+C:\Program Files\Git\usr\share\vim\vim82\tools\mve.txt
+C:\Program Files\Git\usr\share\vim\vim82\tools\README.txt
+C:\Program Files\Git\usr\share\vim\vim82\tools\vimspell.txt
+C:\Program Files\Git\usr\share\vim\vim82\tutor\README.txt
+C:\Program Files\GRAPHISOFT\ARCHICAD 22\BinFileTypes.txt
+C:\Program Files\GRAPHISOFT\ARCHICAD 22\CineRender\resource\build.txt
+C:\Program Files\GRAPHISOFT\ARCHICAD 22\CineRender\resource\config.txt
+C:\Program Files\GRAPHISOFT\ARCHICAD 22\CineRender\resource\modules\advanced render\build.txt
+C:\Program Files\GRAPHISOFT\ARCHICAD 22\CineRender\resource\modules\archigrass\build.txt
+C:\Program Files\GRAPHISOFT\ARCHICAD 22\CineRender\resource\modules\c4dplugin\build.txt
+C:\Program Files\GRAPHISOFT\ARCHICAD 22\CineRender\resource\modules\c4dplugin\icons\interface_icons.txt
+C:\Program Files\GRAPHISOFT\ARCHICAD 22\CineRender\resource\modules\collada14\build.txt
+C:\Program Files\GRAPHISOFT\ARCHICAD 22\CineRender\resource\modules\collada15\build.txt
+C:\Program Files\GRAPHISOFT\ARCHICAD 22\CineRender\resource\modules\colorchoosergui\build.txt
+C:\Program Files\GRAPHISOFT\ARCHICAD 22\CineRender\resource\modules\dwgobjects\build.txt
+C:\Program Files\GRAPHISOFT\ARCHICAD 22\CineRender\resource\modules\embree.module\build.txt
+C:\Program Files\GRAPHISOFT\ARCHICAD 22\CineRender\resource\modules\fbx\build.txt
+C:\Program Files\GRAPHISOFT\ARCHICAD 22\CineRender\resource\modules\gui.module\build.txt
+C:\Program Files\GRAPHISOFT\ARCHICAD 22\CineRender\resource\modules\hair\build.txt
+C:\Program Files\GRAPHISOFT\ARCHICAD 22\CineRender\resource\modules\image.module\build.txt
+C:\Program Files\GRAPHISOFT\ARCHICAD 22\CineRender\resource\modules\mkmodeler\build.txt
+C:\Program Files\GRAPHISOFT\ARCHICAD 22\CineRender\resource\modules\model\build.txt
+C:\Program Files\GRAPHISOFT\ARCHICAD 22\CineRender\resource\modules\mograph\build.txt
+C:\Program Files\GRAPHISOFT\ARCHICAD 22\CineRender\resource\modules\newman\build.txt
+C:\Program Files\GRAPHISOFT\ARCHICAD 22\CineRender\resource\modules\objects\build.txt
+C:\Program Files\GRAPHISOFT\ARCHICAD 22\CineRender\resource\modules\openexr\build.txt
+C:\Program Files\GRAPHISOFT\ARCHICAD 22\CineRender\resource\modules\shader\build.txt
+C:\Program Files\GRAPHISOFT\ARCHICAD 22\CineRender\resource\modules\sketch\build.txt
+C:\Program Files\GRAPHISOFT\ARCHICAD 22\CineRender\resource\modules\sky\build.txt
+C:\Program Files\GRAPHISOFT\ARCHICAD 22\CineRender\resource\modules\sla\build.txt
+C:\Program Files\GRAPHISOFT\ARCHICAD 22\CineRender\resource\modules\xtensions\build.txt
+C:\Program Files\GRAPHISOFT\ARCHICAD 22\CineRender\resource\UnicodeData.txt
+C:\Program Files\GRAPHISOFT\ARCHICAD 22\PreviousLP_XMLConverter\BinFileTypes.txt
+C:\Program Files\GRAPHISOFT\ARCHICAD 22\rollbackBackupDirectory\C\Program Files\GRAPHISOFT\ARCHICAD 22\PreviousLP_XMLConverter\BinFileTypes.txt
+C:\Program Files\GRAPHISOFT\ARCHICAD 22\rollbackBackupDirectory\C\Program Files\GRAPHISOFT\ARCHICAD 22\Значения по умолчанию\DXF-DWG Translators\INFO.txt
+C:\Program Files\GRAPHISOFT\ARCHICAD 22\rollbackBackupDirectory\C\Program Files\GRAPHISOFT\ARCHICAD 22\Расширения ARCHICAD\XReadCfg.txt
+C:\Program Files\GRAPHISOFT\ARCHICAD 22\rollbackBackupDirectory\C\Program Files\GRAPHISOFT\ARCHICAD 22\Расширения ARCHICAD\Визуализация\Текстура_эскизов\SketchPreset.txt
+C:\Program Files\GRAPHISOFT\ARCHICAD 22\Библиотека ARCHICAD 22\SCP_Library_21\Construction Machinery\Crane\1000HLX.txt
+C:\Program Files\GRAPHISOFT\ARCHICAD 22\Библиотека ARCHICAD 22\SCP_Library_21\Construction Machinery\Crane\1500HLX.txt
+C:\Program Files\GRAPHISOFT\ARCHICAD 22\Библиотека ARCHICAD 22\SCP_Library_21\Construction Machinery\Crane\800HLX.txt
+C:\Program Files\GRAPHISOFT\ARCHICAD 22\Библиотека ARCHICAD 22\SCP_Library_21\Construction Machinery\Crane\JCL012C.txt
+C:\Program Files\GRAPHISOFT\ARCHICAD 22\Библиотека ARCHICAD 22\SCP_Library_21\Construction Machinery\Crane\JCL040H.txt
+C:\Program Files\GRAPHISOFT\ARCHICAD 22\Библиотека ARCHICAD 22\SCP_Library_21\Construction Machinery\Crane\JCL055SK.txt
+C:\Program Files\GRAPHISOFT\ARCHICAD 22\Библиотека ARCHICAD 22\SCP_Library_21\Construction Machinery\Crane\JCL080SK.txt
+C:\Program Files\GRAPHISOFT\ARCHICAD 22\Библиотека ARCHICAD 22\SCP_Library_21\Construction Machinery\Crane\JCL1000NK.txt
+C:\Program Files\GRAPHISOFT\ARCHICAD 22\Библиотека ARCHICAD 22\SCP_Library_21\Construction Machinery\Crane\JCL100H.txt
+C:\Program Files\GRAPHISOFT\ARCHICAD 22\Библиотека ARCHICAD 22\SCP_Library_21\Construction Machinery\Crane\JCL160H.txt
+C:\Program Files\GRAPHISOFT\ARCHICAD 22\Библиотека ARCHICAD 22\SCP_Library_21\Construction Machinery\Crane\JCL180NK.txt
+C:\Program Files\GRAPHISOFT\ARCHICAD 22\Библиотека ARCHICAD 22\SCP_Library_21\Construction Machinery\Crane\JCL240H.txt
+C:\Program Files\GRAPHISOFT\ARCHICAD 22\Библиотека ARCHICAD 22\SCP_Library_21\Construction Machinery\Crane\JCL350NK.txt
+C:\Program Files\GRAPHISOFT\ARCHICAD 22\Библиотека ARCHICAD 22\SCP_Library_21\Construction Machinery\Crane\JCL460H.txt
+C:\Program Files\GRAPHISOFT\ARCHICAD 22\Библиотека ARCHICAD 22\SCP_Library_21\Construction Machinery\Crane\JCL500NK.txt
+C:\Program Files\GRAPHISOFT\ARCHICAD 22\Библиотека ARCHICAD 22\SCP_Library_21\Construction Machinery\Crane\JCL540NK.txt
+C:\Program Files\GRAPHISOFT\ARCHICAD 22\Библиотека ARCHICAD 22\SCP_Library_21\Construction Machinery\Crane\JCL700LK.txt
+C:\Program Files\GRAPHISOFT\ARCHICAD 22\Библиотека ARCHICAD 22\SCP_Library_21\Construction Machinery\Crane\JCL700NK.txt
+C:\Program Files\GRAPHISOFT\ARCHICAD 22\Библиотека ARCHICAD 22\SCP_Library_21\Construction Machinery\Crane\JCL720NK.txt
+C:\Program Files\GRAPHISOFT\ARCHICAD 22\Библиотека ARCHICAD 22\SCP_Library_21\Construction Machinery\Crane\OTA150HN.txt
+C:\Program Files\GRAPHISOFT\ARCHICAD 22\Библиотека ARCHICAD 22\SCP_Library_21\Construction Machinery\Crane\OTA150S.txt
+C:\Program Files\GRAPHISOFT\ARCHICAD 22\Библиотека ARCHICAD 22\SCP_Library_21\Construction Machinery\Crane\OTA190S.txt
+C:\Program Files\GRAPHISOFT\ARCHICAD 22\Библиотека ARCHICAD 22\SCP_Library_21\Construction Machinery\Crane\OTA270HN.txt
+C:\Program Files\GRAPHISOFT\ARCHICAD 22\Библиотека ARCHICAD 22\SCP_Library_21\Construction Machinery\Crane\OTA280HN.txt
+C:\Program Files\GRAPHISOFT\ARCHICAD 22\Библиотека ARCHICAD 22\SCP_Library_21\Construction Machinery\Crane\OTA350HN.txt
+C:\Program Files\GRAPHISOFT\ARCHICAD 22\Библиотека ARCHICAD 22\SCP_Library_21\Construction Machinery\Crane\OTA380HN.txt
+C:\Program Files\GRAPHISOFT\ARCHICAD 22\Библиотека ARCHICAD 22\SCP_Library_21\Construction Machinery\Crane\OTA450N.txt
+C:\Program Files\GRAPHISOFT\ARCHICAD 22\Библиотека ARCHICAD 22\SCP_Library_21\Construction Machinery\Crane\OTA480HN.txt
+C:\Program Files\GRAPHISOFT\ARCHICAD 22\Библиотека ARCHICAD 22\SCP_Library_21\Construction Machinery\Crane\OTA600HS.txt
+C:\Program Files\GRAPHISOFT\ARCHICAD 22\Библиотека ARCHICAD 22\SCP_Library_21\Construction Machinery\Crane\OTA600N.txt
+C:\Program Files\GRAPHISOFT\ARCHICAD 22\Библиотека ARCHICAD 22\SCP_Library_21\Construction Machinery\Crane\OTA950HN.txt
+C:\Program Files\GRAPHISOFT\ARCHICAD 22\Библиотека ARCHICAD 22\SCP_Library_21\Construction Machinery\Crane\OTS100N.txt
+C:\Program Files\GRAPHISOFT\ARCHICAD 22\Библиотека ARCHICAD 22\SCP_Library_21\Construction Machinery\Crane\OTS130HS.txt
+C:\Program Files\GRAPHISOFT\ARCHICAD 22\Библиотека ARCHICAD 22\SCP_Library_21\Construction Machinery\Crane\OTS140NH.txt
+C:\Program Files\GRAPHISOFT\ARCHICAD 22\Библиотека ARCHICAD 22\SCP_Library_21\Construction Machinery\Crane\OTS15NH.txt
+C:\Program Files\GRAPHISOFT\ARCHICAD 22\Библиотека ARCHICAD 22\SCP_Library_21\Construction Machinery\Crane\OTS23NH.txt
+C:\Program Files\GRAPHISOFT\ARCHICAD 22\Библиотека ARCHICAD 22\SCP_Library_21\Construction Machinery\Crane\OTS50NL.txt
+C:\Program Files\GRAPHISOFT\ARCHICAD 22\Библиотека ARCHICAD 22\SCP_Library_21\Construction Machinery\Crane\OTS50NW.txt
+C:\Program Files\GRAPHISOFT\ARCHICAD 22\Библиотека ARCHICAD 22\SCP_Library_21\Construction Machinery\Crane\OTS55NH.txt
+C:\Program Files\GRAPHISOFT\ARCHICAD 22\Библиотека ARCHICAD 22\SCP_Library_21\Construction Machinery\Crane\OTS60HN.txt
+C:\Program Files\GRAPHISOFT\ARCHICAD 22\Библиотека ARCHICAD 22\SCP_Library_21\Construction Machinery\Crane\OTS75NH.txt
+C:\Program Files\GRAPHISOFT\ARCHICAD 22\Библиотека ARCHICAD 22\SCP_Library_21\Construction Machinery\Crane\SCX1200.txt
+C:\Program Files\GRAPHISOFT\ARCHICAD 22\Библиотека ARCHICAD 22\SCP_Library_21\Construction Machinery\Crane\SCX2000.txt
+C:\Program Files\GRAPHISOFT\ARCHICAD 22\Библиотека ARCHICAD 22\SCP_Library_21\Construction Machinery\Crane\SCX2000HD.txt
+C:\Program Files\GRAPHISOFT\ARCHICAD 22\Библиотека ARCHICAD 22\SCP_Library_21\Construction Machinery\Crane\SCX300.txt
+C:\Program Files\GRAPHISOFT\ARCHICAD 22\Библиотека ARCHICAD 22\SCP_Library_21\Construction Machinery\Crane\SCX3500.txt
+C:\Program Files\GRAPHISOFT\ARCHICAD 22\Библиотека ARCHICAD 22\SCP_Library_21\Construction Machinery\Crane\SCX400.txt
+C:\Program Files\GRAPHISOFT\ARCHICAD 22\Библиотека ARCHICAD 22\SCP_Library_21\Construction Machinery\Crane\SCX700HD.txt
+C:\Program Files\GRAPHISOFT\ARCHICAD 22\Библиотека ARCHICAD 22\SCP_Library_21\Construction Machinery\Crane\SCX900.txt
+C:\Program Files\GRAPHISOFT\ARCHICAD 22\Библиотека ARCHICAD 22\SCP_Library_21\Construction Machinery\Crane\SCX900HD.txt
+C:\Program Files\GRAPHISOFT\ARCHICAD 22\Библиотека ARCHICAD 22\Шаблоны Ведомостей 22\Данные спецификаций 22\ARCHICAD_Library_COMP.txt
+C:\Program Files\GRAPHISOFT\ARCHICAD 22\Библиотека ARCHICAD 22\Шаблоны Ведомостей 22\Данные спецификаций 22\ARCHICAD_Library_DESC.txt
+C:\Program Files\GRAPHISOFT\ARCHICAD 22\Библиотека ARCHICAD 22\Шаблоны Ведомостей 22\Данные спецификаций 22\ARCHICAD_Library_KEY.txt
+C:\Program Files\GRAPHISOFT\ARCHICAD 22\Библиотека ARCHICAD 22\Шаблоны Ведомостей 22\Данные спецификаций 22\ARCHICAD_Library_UNIT.txt
+C:\Program Files\GRAPHISOFT\ARCHICAD 22\Значения по умолчанию\DXF-DWG Translators\INFO.txt
+C:\Program Files\GRAPHISOFT\ARCHICAD 22\Расширения ARCHICAD\ArchiTerraPlus 22\ASU_Library\ArchiTerra.LIB\ArchiTerra_DATA\ArchiTerra_DB_CHIAVE.txt
+C:\Program Files\GRAPHISOFT\ARCHICAD 22\Расширения ARCHICAD\ArchiTerraPlus 22\ASU_Library\ArchiTerra.LIB\ArchiTerra_DATA\ArchiTerra_DB_COMP.txt
+C:\Program Files\GRAPHISOFT\ARCHICAD 22\Расширения ARCHICAD\ArchiTerraPlus 22\ASU_Library\ArchiTerra.LIB\ArchiTerra_DATA\ArchiTerra_DB_CRIT.txt
+C:\Program Files\GRAPHISOFT\ARCHICAD 22\Расширения ARCHICAD\ArchiTerraPlus 22\ASU_Library\ArchiTerra.LIB\ArchiTerra_DATA\ArchiTerra_DB_DESC.txt
+C:\Program Files\GRAPHISOFT\ARCHICAD 22\Расширения ARCHICAD\ArchiTerraPlus 22\ASU_Library\ArchiTerra.LIB\ArchiTerra_DATA\ArchiTerra_DB_UNIT.txt
+C:\Program Files\GRAPHISOFT\ARCHICAD 22\Расширения ARCHICAD\XReadCfg.txt
+C:\Program Files\GRAPHISOFT\ARCHICAD 22\Расширения ARCHICAD\Визуализация\Текстура_эскизов\SketchPreset.txt
+C:\Program Files\GRAPHISOFT\ARCHICAD 22\Расширения ARCHICAD\Дополнительные расширения\PolyCount.txt
+C:\Program Files\Java\jdk-18.0.1\conf\security\policy\README.txt
+C:\Program Files\Java\jre1.8.0_51\bin\server\Xusage.txt
+C:\Program Files\Java\jre1.8.0_51\README.txt
+C:\Program Files\Java\jre1.8.0_51\THIRDPARTYLICENSEREADME.txt
+C:\Program Files\JetBrains\IntelliJ IDEA 2022.1\build.txt
+C:\Program Files\JetBrains\IntelliJ IDEA 2022.1\jbr\conf\security\policy\README.txt
+C:\Program Files\JetBrains\IntelliJ IDEA 2022.1\jbr\lib\server\Xusage.txt
+C:\Program Files\JetBrains\IntelliJ IDEA 2022.1\license\ant_license.txt
+C:\Program Files\JetBrains\IntelliJ IDEA 2022.1\license\asm_license.txt
+C:\Program Files\JetBrains\IntelliJ IDEA 2022.1\license\eclipse_license.txt
+C:\Program Files\JetBrains\IntelliJ IDEA 2022.1\license\eclipse_license2.txt
+C:\Program Files\JetBrains\IntelliJ IDEA 2022.1\license\gson_license.txt
+C:\Program Files\JetBrains\IntelliJ IDEA 2022.1\license\imgscalr_license.txt
+C:\Program Files\JetBrains\IntelliJ IDEA 2022.1\license\j2ee_license.txt
+C:\Program Files\JetBrains\IntelliJ IDEA 2022.1\license\jasper_license.txt
+C:\Program Files\JetBrains\IntelliJ IDEA 2022.1\license\javahelp_license.txt
+C:\Program Files\JetBrains\IntelliJ IDEA 2022.1\license\javolution_license.txt
+C:\Program Files\JetBrains\IntelliJ IDEA 2022.1\license\jaxb_license.txt
+C:\Program Files\JetBrains\IntelliJ IDEA 2022.1\license\jaxen_license.txt
+C:\Program Files\JetBrains\IntelliJ IDEA 2022.1\license\jdom_license.txt
+C:\Program Files\JetBrains\IntelliJ IDEA 2022.1\license\jgoodies_forms_license.txt
+C:\Program Files\JetBrains\IntelliJ IDEA 2022.1\license\junit_license.txt
+C:\Program Files\JetBrains\IntelliJ IDEA 2022.1\license\log4j_license.txt
+C:\Program Files\JetBrains\IntelliJ IDEA 2022.1\license\microba_license.txt
+C:\Program Files\JetBrains\IntelliJ IDEA 2022.1\license\miglayout_swing_license.txt
+C:\Program Files\JetBrains\IntelliJ IDEA 2022.1\license\nanoxml_license.txt
+C:\Program Files\JetBrains\IntelliJ IDEA 2022.1\license\oromatcher_license.txt
+C:\Program Files\JetBrains\IntelliJ IDEA 2022.1\license\picoContainer_license.txt
+C:\Program Files\JetBrains\IntelliJ IDEA 2022.1\license\servletJAR_license.txt
+C:\Program Files\JetBrains\IntelliJ IDEA 2022.1\license\swingx_license.txt
+C:\Program Files\JetBrains\IntelliJ IDEA 2022.1\license\third-party\protobuf_license.txt
+C:\Program Files\JetBrains\IntelliJ IDEA 2022.1\license\trove4j_license.txt
+C:\Program Files\JetBrains\IntelliJ IDEA 2022.1\license\winp_license.txt
+C:\Program Files\JetBrains\IntelliJ IDEA 2022.1\license\xerces_license.txt
+C:\Program Files\JetBrains\IntelliJ IDEA 2022.1\license\xmlrpc_license.txt
+C:\Program Files\JetBrains\IntelliJ IDEA 2022.1\license\XStream_license.txt
+C:\Program Files\JetBrains\IntelliJ IDEA 2022.1\plugins\Kotlin\kotlinc\build.txt
+C:\Program Files\JetBrains\IntelliJ IDEA 2022.1\plugins\Kotlin\kotlinc\license\COPYRIGHT.txt
+C:\Program Files\JetBrains\IntelliJ IDEA 2022.1\plugins\Kotlin\kotlinc\license\COPYRIGHT_HEADER.txt
+C:\Program Files\JetBrains\IntelliJ IDEA 2022.1\plugins\Kotlin\kotlinc\license\LICENSE.txt
+C:\Program Files\JetBrains\IntelliJ IDEA 2022.1\plugins\Kotlin\kotlinc\license\NOTICE.txt
+C:\Program Files\JetBrains\IntelliJ IDEA 2022.1\plugins\Kotlin\kotlinc\license\third_party\aether_license.txt
+C:\Program Files\JetBrains\IntelliJ IDEA 2022.1\plugins\Kotlin\kotlinc\license\third_party\aosp_license.txt
+C:\Program Files\JetBrains\IntelliJ IDEA 2022.1\plugins\Kotlin\kotlinc\license\third_party\args4j_LICENSE.txt
+C:\Program Files\JetBrains\IntelliJ IDEA 2022.1\plugins\Kotlin\kotlinc\license\third_party\asmble_license.txt
+C:\Program Files\JetBrains\IntelliJ IDEA 2022.1\plugins\Kotlin\kotlinc\license\third_party\asm_license.txt
+C:\Program Files\JetBrains\IntelliJ IDEA 2022.1\plugins\Kotlin\kotlinc\license\third_party\assemblyscript_license.txt
+C:\Program Files\JetBrains\IntelliJ IDEA 2022.1\plugins\Kotlin\kotlinc\license\third_party\boost_LICENSE.txt
+C:\Program Files\JetBrains\IntelliJ IDEA 2022.1\plugins\Kotlin\kotlinc\license\third_party\dart_LICENSE.txt
+C:\Program Files\JetBrains\IntelliJ IDEA 2022.1\plugins\Kotlin\kotlinc\license\third_party\gradle_license.txt
+C:\Program Files\JetBrains\IntelliJ IDEA 2022.1\plugins\Kotlin\kotlinc\license\third_party\guava_license.txt
+C:\Program Files\JetBrains\IntelliJ IDEA 2022.1\plugins\Kotlin\kotlinc\license\third_party\gwt_license.txt
+C:\Program Files\JetBrains\IntelliJ IDEA 2022.1\plugins\Kotlin\kotlinc\license\third_party\jgit_license.txt
+C:\Program Files\JetBrains\IntelliJ IDEA 2022.1\plugins\Kotlin\kotlinc\license\third_party\jquery_license.txt
+C:\Program Files\JetBrains\IntelliJ IDEA 2022.1\plugins\Kotlin\kotlinc\license\third_party\jshashtable_license.txt
+C:\Program Files\JetBrains\IntelliJ IDEA 2022.1\plugins\Kotlin\kotlinc\license\third_party\karma_LICENSE.txt
+C:\Program Files\JetBrains\IntelliJ IDEA 2022.1\plugins\Kotlin\kotlinc\license\third_party\lodash_LICENSE.txt
+C:\Program Files\JetBrains\IntelliJ IDEA 2022.1\plugins\Kotlin\kotlinc\license\third_party\lombok_LICENSE.txt
+C:\Program Files\JetBrains\IntelliJ IDEA 2022.1\plugins\Kotlin\kotlinc\license\third_party\maven_LICENSE.txt
+C:\Program Files\JetBrains\IntelliJ IDEA 2022.1\plugins\Kotlin\kotlinc\license\third_party\okhttp_license.txt
+C:\Program Files\JetBrains\IntelliJ IDEA 2022.1\plugins\Kotlin\kotlinc\license\third_party\pcollections_LICENSE.txt
+C:\Program Files\JetBrains\IntelliJ IDEA 2022.1\plugins\Kotlin\kotlinc\license\third_party\prototype_license.txt
+C:\Program Files\JetBrains\IntelliJ IDEA 2022.1\plugins\Kotlin\kotlinc\license\third_party\qunit_license.txt
+C:\Program Files\JetBrains\IntelliJ IDEA 2022.1\plugins\Kotlin\kotlinc\license\third_party\rhino_LICENSE.txt
+C:\Program Files\JetBrains\IntelliJ IDEA 2022.1\plugins\Kotlin\kotlinc\license\third_party\scala_license.txt
+C:\Program Files\JetBrains\IntelliJ IDEA 2022.1\plugins\Kotlin\kotlinc\license\third_party\sl4f_license.txt
+C:\Program Files\JetBrains\IntelliJ IDEA 2022.1\plugins\Kotlin\kotlinc\license\third_party\testdata\dagger_license.txt
+C:\Program Files\JetBrains\IntelliJ IDEA 2022.1\plugins\Kotlin\kotlinc\license\third_party\testdata\eclipse_distribution_license.txt
+C:\Program Files\JetBrains\IntelliJ IDEA 2022.1\plugins\Kotlin\kotlinc\license\third_party\testdata\eclipse_license.txt
+C:\Program Files\JetBrains\IntelliJ IDEA 2022.1\plugins\Kotlin\kotlinc\license\third_party\testdata\findbugs_license.txt
+C:\Program Files\JetBrains\IntelliJ IDEA 2022.1\plugins\Kotlin\kotlinc\license\third_party\testdata\jspecify_license.txt
+C:\Program Files\JetBrains\IntelliJ IDEA 2022.1\plugins\Kotlin\kotlinc\license\third_party\testdata\lombok_license.txt
+C:\Program Files\JetBrains\IntelliJ IDEA 2022.1\plugins\Kotlin\kotlinc\license\third_party\testdata\rxjava_license.txt
+C:\Program Files\JetBrains\IntelliJ IDEA 2022.1\plugins\Kotlin\kotlinc\license\third_party\testdata\spring_license.txt
+C:\Program Files\JetBrains\IntelliJ IDEA 2022.1\plugins\Kotlin\kotlinc\license\third_party\trove_license.txt
+C:\Program Files\JetBrains\IntelliJ IDEA 2022.1\plugins\Kotlin\kotlinc\license\third_party\trove_readme_license.txt
+C:\Program Files\JetBrains\IntelliJ IDEA 2022.1\plugins\maven\lib\maven3\lib\ext\README.txt
+C:\Program Files\JetBrains\IntelliJ IDEA 2022.1\plugins\maven\lib\maven3\lib\jansi-native\README.txt
+C:\Program Files\JetBrains\IntelliJ IDEA 2022.1\plugins\maven\lib\maven3\README.txt
+C:\Program Files\JetBrains\IntelliJ IDEA 2022.1\plugins\spy-js\server\node_modules\isbinaryfile\LICENSE.txt
+C:\Program Files\JetBrains\IntelliJ IDEA 2022.1\plugins\spy-js\server\node_modules\lodash\LICENSE.txt
+C:\Program Files\JetBrains\IntelliJ IDEA 2022.1\plugins\spy-js\server\node_modules\stringstream\LICENSE.txt
+C:\Program Files\JetBrains\IntelliJ IDEA 2022.1\plugins\spy-js\server\node_modules\xmlhttprequest\tests\testdata.txt
+C:\Program Files\JetBrains\IntelliJ IDEA 2022.1\plugins\textmate\lib\bundles\viml\LICENSE.txt
+C:\Program Files\net.downloadhelper.coapp\LICENSE.txt
+C:\Program Files\net.downloadhelper.coapp\README.txt
+C:\Program Files\Notepad++\readme.txt
+C:\Program Files\PCHealthCheck\OSSNotice.txt
+C:\Program Files\PostgreSQL\14\commandlinetools_3rd_party_licenses.txt
+C:\Program Files\PostgreSQL\14\pgAdmin 4\python\Lib\site-packages\alembic-1.7.7.dist-info\entry_points.txt
+C:\Program Files\PostgreSQL\14\pgAdmin 4\python\Lib\site-packages\alembic-1.7.7.dist-info\top_level.txt
+C:\Program Files\PostgreSQL\14\pgAdmin 4\python\Lib\site-packages\Authlib-0.15.5.dist-info\top_level.txt
+C:\Program Files\PostgreSQL\14\pgAdmin 4\python\Lib\site-packages\Babel-2.10.1.dist-info\entry_points.txt
+C:\Program Files\PostgreSQL\14\pgAdmin 4\python\Lib\site-packages\Babel-2.10.1.dist-info\top_level.txt
+C:\Program Files\PostgreSQL\14\pgAdmin 4\python\Lib\site-packages\bcrypt-3.2.2.dist-info\top_level.txt
+C:\Program Files\PostgreSQL\14\pgAdmin 4\python\Lib\site-packages\bidict-0.22.0.dist-info\top_level.txt
+C:\Program Files\PostgreSQL\14\pgAdmin 4\python\Lib\site-packages\blinker-1.4.dist-info\top_level.txt
+C:\Program Files\PostgreSQL\14\pgAdmin 4\python\Lib\site-packages\boto3-1.20.54.dist-info\top_level.txt
+C:\Program Files\PostgreSQL\14\pgAdmin 4\python\Lib\site-packages\botocore-1.23.54.dist-info\LICENSE.txt
+C:\Program Files\PostgreSQL\14\pgAdmin 4\python\Lib\site-packages\botocore-1.23.54.dist-info\top_level.txt
+C:\Program Files\PostgreSQL\14\pgAdmin 4\python\Lib\site-packages\Brotli-1.0.9.dist-info\top_level.txt
+C:\Program Files\PostgreSQL\14\pgAdmin 4\python\Lib\site-packages\certifi-2021.10.8.dist-info\top_level.txt
+C:\Program Files\PostgreSQL\14\pgAdmin 4\python\Lib\site-packages\cffi-1.15.0.dist-info\entry_points.txt
+C:\Program Files\PostgreSQL\14\pgAdmin 4\python\Lib\site-packages\cffi-1.15.0.dist-info\top_level.txt
+C:\Program Files\PostgreSQL\14\pgAdmin 4\python\Lib\site-packages\chardet-4.0.0.dist-info\entry_points.txt
+C:\Program Files\PostgreSQL\14\pgAdmin 4\python\Lib\site-packages\chardet-4.0.0.dist-info\top_level.txt
+C:\Program Files\PostgreSQL\14\pgAdmin 4\python\Lib\site-packages\click-8.1.3.dist-info\top_level.txt
+C:\Program Files\PostgreSQL\14\pgAdmin 4\python\Lib\site-packages\colorama-0.4.4.dist-info\LICENSE.txt
+C:\Program Files\PostgreSQL\14\pgAdmin 4\python\Lib\site-packages\colorama-0.4.4.dist-info\top_level.txt
+C:\Program Files\PostgreSQL\14\pgAdmin 4\python\Lib\site-packages\cryptography-3.4.8.dist-info\top_level.txt
+C:\Program Files\PostgreSQL\14\pgAdmin 4\python\Lib\site-packages\decorator-5.1.1.dist-info\LICENSE.txt
+C:\Program Files\PostgreSQL\14\pgAdmin 4\python\Lib\site-packages\decorator-5.1.1.dist-info\top_level.txt
+C:\Program Files\PostgreSQL\14\pgAdmin 4\python\Lib\site-packages\email_validator-1.2.1.dist-info\entry_points.txt
+C:\Program Files\PostgreSQL\14\pgAdmin 4\python\Lib\site-packages\email_validator-1.2.1.dist-info\top_level.txt
+C:\Program Files\PostgreSQL\14\pgAdmin 4\python\Lib\site-packages\eventlet-0.33.0.dist-info\top_level.txt
+C:\Program Files\PostgreSQL\14\pgAdmin 4\python\Lib\site-packages\Flask-2.1.2.dist-info\entry_points.txt
+C:\Program Files\PostgreSQL\14\pgAdmin 4\python\Lib\site-packages\Flask-2.1.2.dist-info\top_level.txt
+C:\Program Files\PostgreSQL\14\pgAdmin 4\python\Lib\site-packages\Flask_Babel-2.0.0.dist-info\top_level.txt
+C:\Program Files\PostgreSQL\14\pgAdmin 4\python\Lib\site-packages\Flask_Compress-1.12.dist-info\LICENSE.txt
+C:\Program Files\PostgreSQL\14\pgAdmin 4\python\Lib\site-packages\Flask_Compress-1.12.dist-info\top_level.txt
+C:\Program Files\PostgreSQL\14\pgAdmin 4\python\Lib\site-packages\Flask_Gravatar-0.5.0.dist-info\top_level.txt
+C:\Program Files\PostgreSQL\14\pgAdmin 4\python\Lib\site-packages\Flask_Login-0.6.1.dist-info\top_level.txt
+C:\Program Files\PostgreSQL\14\pgAdmin 4\python\Lib\site-packages\Flask_Mail-0.9.1.dist-info\top_level.txt
+C:\Program Files\PostgreSQL\14\pgAdmin 4\python\Lib\site-packages\Flask_Migrate-3.1.0.dist-info\entry_points.txt
+C:\Program Files\PostgreSQL\14\pgAdmin 4\python\Lib\site-packages\Flask_Migrate-3.1.0.dist-info\top_level.txt
+C:\Program Files\PostgreSQL\14\pgAdmin 4\python\Lib\site-packages\Flask_Paranoid-0.3.0.dist-info\top_level.txt
+C:\Program Files\PostgreSQL\14\pgAdmin 4\python\Lib\site-packages\Flask_Principal-0.4.0.dist-info\top_level.txt
+C:\Program Files\PostgreSQL\14\pgAdmin 4\python\Lib\site-packages\flask_security\templates\security\email\change_notice.txt
+C:\Program Files\PostgreSQL\14\pgAdmin 4\python\Lib\site-packages\flask_security\templates\security\email\confirmation_instructions.txt
+C:\Program Files\PostgreSQL\14\pgAdmin 4\python\Lib\site-packages\flask_security\templates\security\email\login_instructions.txt
+C:\Program Files\PostgreSQL\14\pgAdmin 4\python\Lib\site-packages\flask_security\templates\security\email\reset_instructions.txt
+C:\Program Files\PostgreSQL\14\pgAdmin 4\python\Lib\site-packages\flask_security\templates\security\email\reset_notice.txt
+C:\Program Files\PostgreSQL\14\pgAdmin 4\python\Lib\site-packages\flask_security\templates\security\email\two_factor_instructions.txt
+C:\Program Files\PostgreSQL\14\pgAdmin 4\python\Lib\site-packages\flask_security\templates\security\email\two_factor_rescue.txt
+C:\Program Files\PostgreSQL\14\pgAdmin 4\python\Lib\site-packages\flask_security\templates\security\email\us_instructions.txt
+C:\Program Files\PostgreSQL\14\pgAdmin 4\python\Lib\site-packages\flask_security\templates\security\email\welcome.txt
+C:\Program Files\PostgreSQL\14\pgAdmin 4\python\Lib\site-packages\flask_security\translations\pwl.txt
+C:\Program Files\PostgreSQL\14\pgAdmin 4\python\Lib\site-packages\Flask_Security_Too-4.1.4.dist-info\top_level.txt
+C:\Program Files\PostgreSQL\14\pgAdmin 4\python\Lib\site-packages\Flask_SocketIO-5.1.2.dist-info\top_level.txt
+C:\Program Files\PostgreSQL\14\pgAdmin 4\python\Lib\site-packages\Flask_SQLAlchemy-2.5.1.dist-info\top_level.txt
+C:\Program Files\PostgreSQL\14\pgAdmin 4\python\Lib\site-packages\Flask_WTF-1.0.1.dist-info\top_level.txt
+C:\Program Files\PostgreSQL\14\pgAdmin 4\python\Lib\site-packages\greenlet-1.1.2.dist-info\top_level.txt
+C:\Program Files\PostgreSQL\14\pgAdmin 4\python\Lib\site-packages\gssapi-1.7.3.dist-info\LICENSE.txt
+C:\Program Files\PostgreSQL\14\pgAdmin 4\python\Lib\site-packages\gssapi-1.7.3.dist-info\top_level.txt
+C:\Program Files\PostgreSQL\14\pgAdmin 4\python\Lib\site-packages\httpagentparser-1.9.2.dist-info\LICENSE.txt
+C:\Program Files\PostgreSQL\14\pgAdmin 4\python\Lib\site-packages\httpagentparser-1.9.2.dist-info\top_level.txt
+C:\Program Files\PostgreSQL\14\pgAdmin 4\python\Lib\site-packages\idna-2.10.dist-info\top_level.txt
+C:\Program Files\PostgreSQL\14\pgAdmin 4\python\Lib\site-packages\itsdangerous-2.1.2.dist-info\top_level.txt
+C:\Program Files\PostgreSQL\14\pgAdmin 4\python\Lib\site-packages\Jinja2-3.1.2.dist-info\entry_points.txt
+C:\Program Files\PostgreSQL\14\pgAdmin 4\python\Lib\site-packages\Jinja2-3.1.2.dist-info\top_level.txt
+C:\Program Files\PostgreSQL\14\pgAdmin 4\python\Lib\site-packages\jmespath-0.10.0.dist-info\LICENSE.txt
+C:\Program Files\PostgreSQL\14\pgAdmin 4\python\Lib\site-packages\jmespath-0.10.0.dist-info\top_level.txt
+C:\Program Files\PostgreSQL\14\pgAdmin 4\python\Lib\site-packages\ldap3-2.9.1.dist-info\COPYING.txt
+C:\Program Files\PostgreSQL\14\pgAdmin 4\python\Lib\site-packages\ldap3-2.9.1.dist-info\LICENSE.txt
+C:\Program Files\PostgreSQL\14\pgAdmin 4\python\Lib\site-packages\ldap3-2.9.1.dist-info\top_level.txt
+C:\Program Files\PostgreSQL\14\pgAdmin 4\python\Lib\site-packages\Mako-1.2.0.dist-info\entry_points.txt
+C:\Program Files\PostgreSQL\14\pgAdmin 4\python\Lib\site-packages\Mako-1.2.0.dist-info\top_level.txt
+C:\Program Files\PostgreSQL\14\pgAdmin 4\python\Lib\site-packages\MarkupSafe-2.1.1.dist-info\top_level.txt
+C:\Program Files\PostgreSQL\14\pgAdmin 4\python\Lib\site-packages\paramiko-2.10.4.dist-info\top_level.txt
+C:\Program Files\PostgreSQL\14\pgAdmin 4\python\Lib\site-packages\passlib\_data\wordsets\bip39.txt
+C:\Program Files\PostgreSQL\14\pgAdmin 4\python\Lib\site-packages\passlib\_data\wordsets\eff_long.txt
+C:\Program Files\PostgreSQL\14\pgAdmin 4\python\Lib\site-packages\passlib\_data\wordsets\eff_prefixed.txt
+C:\Program Files\PostgreSQL\14\pgAdmin 4\python\Lib\site-packages\passlib\_data\wordsets\eff_short.txt
+C:\Program Files\PostgreSQL\14\pgAdmin 4\python\Lib\site-packages\passlib-1.7.4.dist-info\top_level.txt
+C:\Program Files\PostgreSQL\14\pgAdmin 4\python\Lib\site-packages\Pillow-9.1.0.dist-info\top_level.txt
+C:\Program Files\PostgreSQL\14\pgAdmin 4\python\Lib\site-packages\pip\_vendor\vendor.txt
+C:\Program Files\PostgreSQL\14\pgAdmin 4\python\Lib\site-packages\pip-22.0.4.dist-info\entry_points.txt
+C:\Program Files\PostgreSQL\14\pgAdmin 4\python\Lib\site-packages\pip-22.0.4.dist-info\LICENSE.txt
+C:\Program Files\PostgreSQL\14\pgAdmin 4\python\Lib\site-packages\pip-22.0.4.dist-info\top_level.txt
+C:\Program Files\PostgreSQL\14\pgAdmin 4\python\Lib\site-packages\psutil-5.9.0.dist-info\top_level.txt
+C:\Program Files\PostgreSQL\14\pgAdmin 4\python\Lib\site-packages\psycopg2-2.9.3.dist-info\top_level.txt
+C:\Program Files\PostgreSQL\14\pgAdmin 4\python\Lib\site-packages\pyasn1-0.4.8.dist-info\top_level.txt
+C:\Program Files\PostgreSQL\14\pgAdmin 4\python\Lib\site-packages\pycparser-2.21.dist-info\top_level.txt
+C:\Program Files\PostgreSQL\14\pgAdmin 4\python\Lib\site-packages\PyNaCl-1.5.0.dist-info\top_level.txt
+C:\Program Files\PostgreSQL\14\pgAdmin 4\python\Lib\site-packages\pyotp-2.6.0.dist-info\top_level.txt
+C:\Program Files\PostgreSQL\14\pgAdmin 4\python\Lib\site-packages\python_dateutil-2.8.2.dist-info\top_level.txt
+C:\Program Files\PostgreSQL\14\pgAdmin 4\python\Lib\site-packages\python_engineio-4.3.2.dist-info\top_level.txt
+C:\Program Files\PostgreSQL\14\pgAdmin 4\python\Lib\site-packages\python_socketio-5.6.0.dist-info\top_level.txt
+C:\Program Files\PostgreSQL\14\pgAdmin 4\python\Lib\site-packages\pytz-2021.3.dist-info\LICENSE.txt
+C:\Program Files\PostgreSQL\14\pgAdmin 4\python\Lib\site-packages\pytz-2021.3.dist-info\top_level.txt
+C:\Program Files\PostgreSQL\14\pgAdmin 4\python\Lib\site-packages\qrcode-7.3.1.dist-info\entry_points.txt
+C:\Program Files\PostgreSQL\14\pgAdmin 4\python\Lib\site-packages\qrcode-7.3.1.dist-info\top_level.txt
+C:\Program Files\PostgreSQL\14\pgAdmin 4\python\Lib\site-packages\requests-2.25.1.dist-info\top_level.txt
+C:\Program Files\PostgreSQL\14\pgAdmin 4\python\Lib\site-packages\s3transfer-0.5.2.dist-info\LICENSE.txt
+C:\Program Files\PostgreSQL\14\pgAdmin 4\python\Lib\site-packages\s3transfer-0.5.2.dist-info\NOTICE.txt
+C:\Program Files\PostgreSQL\14\pgAdmin 4\python\Lib\site-packages\s3transfer-0.5.2.dist-info\top_level.txt
+C:\Program Files\PostgreSQL\14\pgAdmin 4\python\Lib\site-packages\setuptools-62.1.0.dist-info\entry_points.txt
+C:\Program Files\PostgreSQL\14\pgAdmin 4\python\Lib\site-packages\setuptools-62.1.0.dist-info\top_level.txt
+C:\Program Files\PostgreSQL\14\pgAdmin 4\python\Lib\site-packages\simplejson-3.17.6.dist-info\LICENSE.txt
+C:\Program Files\PostgreSQL\14\pgAdmin 4\python\Lib\site-packages\simplejson-3.17.6.dist-info\top_level.txt
+C:\Program Files\PostgreSQL\14\pgAdmin 4\python\Lib\site-packages\six-1.16.0.dist-info\top_level.txt
+C:\Program Files\PostgreSQL\14\pgAdmin 4\python\Lib\site-packages\speaklater3-1.4.dist-info\top_level.txt
+C:\Program Files\PostgreSQL\14\pgAdmin 4\python\Lib\site-packages\SQLAlchemy-1.4.36.dist-info\top_level.txt
+C:\Program Files\PostgreSQL\14\pgAdmin 4\python\Lib\site-packages\sqlparse-0.4.2.dist-info\entry_points.txt
+C:\Program Files\PostgreSQL\14\pgAdmin 4\python\Lib\site-packages\sqlparse-0.4.2.dist-info\top_level.txt
+C:\Program Files\PostgreSQL\14\pgAdmin 4\python\Lib\site-packages\sshtunnel-0.4.0.dist-info\entry_points.txt
+C:\Program Files\PostgreSQL\14\pgAdmin 4\python\Lib\site-packages\sshtunnel-0.4.0.dist-info\top_level.txt
+C:\Program Files\PostgreSQL\14\pgAdmin 4\python\Lib\site-packages\ua_parser-0.10.0.dist-info\top_level.txt
+C:\Program Files\PostgreSQL\14\pgAdmin 4\python\Lib\site-packages\urllib3-1.26.9.dist-info\LICENSE.txt
+C:\Program Files\PostgreSQL\14\pgAdmin 4\python\Lib\site-packages\urllib3-1.26.9.dist-info\top_level.txt
+C:\Program Files\PostgreSQL\14\pgAdmin 4\python\Lib\site-packages\user_agents-2.2.0.dist-info\top_level.txt
+C:\Program Files\PostgreSQL\14\pgAdmin 4\python\Lib\site-packages\Werkzeug-2.0.3.dist-info\top_level.txt
+C:\Program Files\PostgreSQL\14\pgAdmin 4\python\Lib\site-packages\wheel-0.37.1.dist-info\entry_points.txt
+C:\Program Files\PostgreSQL\14\pgAdmin 4\python\Lib\site-packages\wheel-0.37.1.dist-info\LICENSE.txt
+C:\Program Files\PostgreSQL\14\pgAdmin 4\python\Lib\site-packages\wheel-0.37.1.dist-info\top_level.txt
+C:\Program Files\PostgreSQL\14\pgAdmin 4\python\Lib\site-packages\WTForms-3.0.1.dist-info\top_level.txt
+C:\Program Files\PostgreSQL\14\pgAdmin 4\python\LICENSE.txt
+C:\Program Files\PostgreSQL\14\pgAdmin 4\web\pgadmin\authenticate\mfa\templates\security\email\send_email_otp.txt
+C:\Program Files\PostgreSQL\14\pgAdmin 4\web\pgadmin\templates\security\email\change_notice.txt
+C:\Program Files\PostgreSQL\14\pgAdmin_3rd_party_licenses.txt
+C:\Program Files\PostgreSQL\14\pgAdmin_license.txt
+C:\Program Files\PostgreSQL\14\server_license.txt
+C:\Program Files\PostgreSQL\14\share\errcodes.txt
+C:\Program Files\PostgreSQL\14\share\sql_features.txt
+C:\Program Files\PostgreSQL\14\share\timezonesets\Africa.txt
+C:\Program Files\PostgreSQL\14\share\timezonesets\America.txt
+C:\Program Files\PostgreSQL\14\share\timezonesets\Antarctica.txt
+C:\Program Files\PostgreSQL\14\share\timezonesets\Asia.txt
+C:\Program Files\PostgreSQL\14\share\timezonesets\Atlantic.txt
+C:\Program Files\PostgreSQL\14\share\timezonesets\Australia.txt
+C:\Program Files\PostgreSQL\14\share\timezonesets\Etc.txt
+C:\Program Files\PostgreSQL\14\share\timezonesets\Europe.txt
+C:\Program Files\PostgreSQL\14\share\timezonesets\Indian.txt
+C:\Program Files\PostgreSQL\14\share\timezonesets\Pacific.txt
+C:\Program Files\PostgreSQL\14\StackBuilder_3rd_party_licenses.txt
+C:\Program Files\VideoLAN\VLC\AUTHORS.txt
+C:\Program Files\VideoLAN\VLC\COPYING.txt
+C:\Program Files\VideoLAN\VLC\lua\http\requests\README.txt
+C:\Program Files\VideoLAN\VLC\NEWS.txt
+C:\Program Files\VideoLAN\VLC\README.txt
+C:\Program Files\VideoLAN\VLC\THANKS.txt
+C:\Program Files\Windows Defender\ThirdPartyNotices.txt
+C:\Program Files\Windows NT\TableTextService\TableTextServiceArray.txt
+C:\Program Files\Windows NT\TableTextService\TableTextServiceDaYi.txt
+C:\Program Files\Windows NT\TableTextService\TableTextServiceTigrinya.txt
+C:\Program Files\Windows NT\TableTextService\TableTextServiceYi.txt
+C:\Program Files\WinRAR\License.txt
+C:\Program Files\WinRAR\Rar.txt
+C:\Program Files\WinRAR\ReadMe.txt
+C:\Program Files\WinRAR\WhatsNew.txt
+C:\Program Files (x86)\CodeMeter\Runtime\help\6.60a\CmUserHelp\us\textvariables.txt
+C:\Program Files (x86)\Common Files\Intel\OpenCL\llvm_release_license.txt
+C:\Program Files (x86)\Common Files\Intel\OpenCL\readme.txt
+C:\Program Files (x86)\Download Master\infoziplicense.txt
+C:\Program Files (x86)\Download Master\license.txt
+C:\Program Files (x86)\Download Master\other_str.txt
+C:\Program Files (x86)\Download Master\referers.txt
+C:\Program Files (x86)\Icecream Screen Recorder\openh264_license.txt
+C:\Program Files (x86)\Icecream Screen Recorder\proportions.txt
+C:\Program Files (x86)\Intel\Intel(R) Processor Graphics\uninstall\ar-SA\license.txt
+C:\Program Files (x86)\Intel\Intel(R) Processor Graphics\uninstall\bg-BG\license.txt
+C:\Program Files (x86)\Intel\Intel(R) Processor Graphics\uninstall\cs-CZ\license.txt
+C:\Program Files (x86)\Intel\Intel(R) Processor Graphics\uninstall\da-DK\license.txt
+C:\Program Files (x86)\Intel\Intel(R) Processor Graphics\uninstall\de-DE\license.txt
+C:\Program Files (x86)\Intel\Intel(R) Processor Graphics\uninstall\el-GR\license.txt
+C:\Program Files (x86)\Intel\Intel(R) Processor Graphics\uninstall\en-US\license.txt
+C:\Program Files (x86)\Intel\Intel(R) Processor Graphics\uninstall\es-ES\license.txt
+C:\Program Files (x86)\Intel\Intel(R) Processor Graphics\uninstall\fi-FI\license.txt
+C:\Program Files (x86)\Intel\Intel(R) Processor Graphics\uninstall\fr-FR\license.txt
+C:\Program Files (x86)\Intel\Intel(R) Processor Graphics\uninstall\he-IL\license.txt
+C:\Program Files (x86)\Intel\Intel(R) Processor Graphics\uninstall\hr-HR\license.txt
+C:\Program Files (x86)\Intel\Intel(R) Processor Graphics\uninstall\hu-HU\license.txt
+C:\Program Files (x86)\Intel\Intel(R) Processor Graphics\uninstall\it-IT\license.txt
+C:\Program Files (x86)\Intel\Intel(R) Processor Graphics\uninstall\ja-JP\license.txt
+C:\Program Files (x86)\Intel\Intel(R) Processor Graphics\uninstall\ko-KR\license.txt
+C:\Program Files (x86)\Intel\Intel(R) Processor Graphics\uninstall\nb-NO\license.txt
+C:\Program Files (x86)\Intel\Intel(R) Processor Graphics\uninstall\nl-NL\license.txt
+C:\Program Files (x86)\Intel\Intel(R) Processor Graphics\uninstall\pl-PL\license.txt
+C:\Program Files (x86)\Intel\Intel(R) Processor Graphics\uninstall\pt-BR\license.txt
+C:\Program Files (x86)\Intel\Intel(R) Processor Graphics\uninstall\pt-PT\license.txt
+C:\Program Files (x86)\Intel\Intel(R) Processor Graphics\uninstall\ro-RO\license.txt
+C:\Program Files (x86)\Intel\Intel(R) Processor Graphics\uninstall\ru-RU\license.txt
+C:\Program Files (x86)\Intel\Intel(R) Processor Graphics\uninstall\sk-SK\license.txt
+C:\Program Files (x86)\Intel\Intel(R) Processor Graphics\uninstall\sl-SI\license.txt
+C:\Program Files (x86)\Intel\Intel(R) Processor Graphics\uninstall\sv-SE\license.txt
+C:\Program Files (x86)\Intel\Intel(R) Processor Graphics\uninstall\th-TH\license.txt
+C:\Program Files (x86)\Intel\Intel(R) Processor Graphics\uninstall\tr-TR\license.txt
+C:\Program Files (x86)\Intel\Intel(R) Processor Graphics\uninstall\zh-CN\license.txt
+C:\Program Files (x86)\Intel\Intel(R) Processor Graphics\uninstall\zh-TW\license.txt
+C:\Program Files (x86)\Microsoft\Edge\Application\102.0.1245.44\MLModels\autofill_labeling_features.txt
+C:\Program Files (x86)\Microsoft\Edge\Application\102.0.1245.44\MLModels\autofill_labeling_features_email.txt
+C:\Program Files (x86)\Microsoft\EdgeCore\102.0.1245.44\MLModels\autofill_labeling_features.txt
+C:\Program Files (x86)\Microsoft\EdgeCore\102.0.1245.44\MLModels\autofill_labeling_features_email.txt
+C:\Program Files (x86)\Microsoft Office\root\Office16\1049\AccessRuntime2019_eula.txt
+C:\Program Files (x86)\Microsoft Office\root\Office16\1049\AccessRuntime_eula.txt
+C:\Program Files (x86)\Microsoft Office\root\Office16\1049\Client2019_eula.txt
+C:\Program Files (x86)\Microsoft Office\root\Office16\1049\ClientARMRefer2019_eula.txt
+C:\Program Files (x86)\Microsoft Office\root\Office16\1049\ClientARMRefer_eula.txt
+C:\Program Files (x86)\Microsoft Office\root\Office16\1049\ClientLangPack2019_eula.txt
+C:\Program Files (x86)\Microsoft Office\root\Office16\1049\ClientLangPack_eula.txt
+C:\Program Files (x86)\Microsoft Office\root\Office16\1049\ClientOSub2019_eula.txt
+C:\Program Files (x86)\Microsoft Office\root\Office16\1049\ClientOSub_eula.txt
+C:\Program Files (x86)\Microsoft Office\root\Office16\1049\ClientPreview_eula.txt
+C:\Program Files (x86)\Microsoft Office\root\Office16\1049\ClientSub2019_eula.txt
+C:\Program Files (x86)\Microsoft Office\root\Office16\1049\ClientSub_eula.txt
+C:\Program Files (x86)\Microsoft Office\root\Office16\1049\ClientVolumeLicense2019_eula.txt
+C:\Program Files (x86)\Microsoft Office\root\Office16\1049\ClientVolumeLicense_eula.txt
+C:\Program Files (x86)\Microsoft Office\root\Office16\1049\client_eula.txt
+C:\Program Files (x86)\Microsoft Office\root\Office16\1049\LyncBasic_Eula.txt
+C:\Program Files (x86)\Microsoft Office\root\Office16\1049\LyncVDI_Eula.txt
+C:\Program Files (x86)\Microsoft Office\root\Office16\1049\SkypeForBusinessBasic2019_eula.txt
+C:\Program Files (x86)\Microsoft Office\root\Office16\1049\SkypeForBusinessVDI2019_eula.txt
+C:\Program Files (x86)\Microsoft Office\root\Office16\1049\WacLangPack2019Eula.txt
+C:\Program Files (x86)\Microsoft Office\root\Office16\1049\WacLangPackEula.txt
+C:\Program Files (x86)\Microsoft Office\root\Office16\Configuration\card_expiration_terms_dict.txt
+C:\Program Files (x86)\Microsoft Office\root\Office16\Configuration\card_security_terms_dict.txt
+C:\Program Files (x86)\Microsoft Office\root\Office16\Configuration\card_terms_dict.txt
+C:\Program Files (x86)\Microsoft Office\root\Office16\Configuration\ssn_high_group_info.txt
+C:\Program Files (x86)\Microsoft Office\root\Office16\DCF\AccessMessageDismissal.txt
+C:\Program Files (x86)\Microsoft Office\root\Office16\DCF\ExcelMessageDismissal.txt
+C:\Program Files (x86)\Microsoft Office\root\Office16\DCF\ru\DatabaseCompare_col.hxt
+C:\Program Files (x86)\Microsoft Office\root\Office16\DCF\ru\SpreadsheetCompare_col.hxt
+C:\Program Files (x86)\Microsoft Office\root\Office16\LivePersonaCard\TPN.txt
+C:\Program Files (x86)\Microsoft Office\root\Office16\lpklegal.txt
+C:\Program Files (x86)\Microsoft Office\root\rsodWoW6432\placeholder.txt
+C:\Program Files (x86)\PhotoMaster\cropRatio\horizontal.txt
+C:\Program Files (x86)\PhotoMaster\cropRatio\horizontal_ru.txt
+C:\Program Files (x86)\PhotoMaster\cropRatio\vertical.txt
+C:\Program Files (x86)\PhotoMaster\cropRatio\vertical_ru.txt
+C:\Program Files (x86)\PhotoMaster\License.txt
+C:\Program Files (x86)\PhotoMaster\resizePresets\resizePresets.txt
+C:\Program Files (x86)\PhotoMaster\tutorials\links.txt
+C:\Program Files (x86)\PhotoMaster\tutorials\links_ru.txt
+C:\Program Files (x86)\Skillbrains\lightshot\5.5.0.7\locales\ar.txt
+C:\Program Files (x86)\Skillbrains\lightshot\5.5.0.7\locales\be.txt
+C:\Program Files (x86)\Skillbrains\lightshot\5.5.0.7\locales\bg.txt
+C:\Program Files (x86)\Skillbrains\lightshot\5.5.0.7\locales\bs.txt
+C:\Program Files (x86)\Skillbrains\lightshot\5.5.0.7\locales\ca.txt
+C:\Program Files (x86)\Skillbrains\lightshot\5.5.0.7\locales\cs.txt
+C:\Program Files (x86)\Skillbrains\lightshot\5.5.0.7\locales\da.txt
+C:\Program Files (x86)\Skillbrains\lightshot\5.5.0.7\locales\de.txt
+C:\Program Files (x86)\Skillbrains\lightshot\5.5.0.7\locales\el.txt
+C:\Program Files (x86)\Skillbrains\lightshot\5.5.0.7\locales\en.txt
+C:\Program Files (x86)\Skillbrains\lightshot\5.5.0.7\locales\es.txt
+C:\Program Files (x86)\Skillbrains\lightshot\5.5.0.7\locales\et.txt
+C:\Program Files (x86)\Skillbrains\lightshot\5.5.0.7\locales\fa.txt
+C:\Program Files (x86)\Skillbrains\lightshot\5.5.0.7\locales\fi.txt
+C:\Program Files (x86)\Skillbrains\lightshot\5.5.0.7\locales\fr.txt
+C:\Program Files (x86)\Skillbrains\lightshot\5.5.0.7\locales\gl.txt
+C:\Program Files (x86)\Skillbrains\lightshot\5.5.0.7\locales\he.txt
+C:\Program Files (x86)\Skillbrains\lightshot\5.5.0.7\locales\hr.txt
+C:\Program Files (x86)\Skillbrains\lightshot\5.5.0.7\locales\hu.txt
+C:\Program Files (x86)\Skillbrains\lightshot\5.5.0.7\locales\hy.txt
+C:\Program Files (x86)\Skillbrains\lightshot\5.5.0.7\locales\id.txt
+C:\Program Files (x86)\Skillbrains\lightshot\5.5.0.7\locales\is.txt
+C:\Program Files (x86)\Skillbrains\lightshot\5.5.0.7\locales\it.txt
+C:\Program Files (x86)\Skillbrains\lightshot\5.5.0.7\locales\ja.txt
+C:\Program Files (x86)\Skillbrains\lightshot\5.5.0.7\locales\ka.txt
+C:\Program Files (x86)\Skillbrains\lightshot\5.5.0.7\locales\ko.txt
+C:\Program Files (x86)\Skillbrains\lightshot\5.5.0.7\locales\ku.txt
+C:\Program Files (x86)\Skillbrains\lightshot\5.5.0.7\locales\lt.txt
+C:\Program Files (x86)\Skillbrains\lightshot\5.5.0.7\locales\lv.txt
+C:\Program Files (x86)\Skillbrains\lightshot\5.5.0.7\locales\mk.txt
+C:\Program Files (x86)\Skillbrains\lightshot\5.5.0.7\locales\nl.txt
+C:\Program Files (x86)\Skillbrains\lightshot\5.5.0.7\locales\pl.txt
+C:\Program Files (x86)\Skillbrains\lightshot\5.5.0.7\locales\ro.txt
+C:\Program Files (x86)\Skillbrains\lightshot\5.5.0.7\locales\ru.txt
+C:\Program Files (x86)\Skillbrains\lightshot\5.5.0.7\locales\sk.txt
+C:\Program Files (x86)\Skillbrains\lightshot\5.5.0.7\locales\sl.txt
+C:\Program Files (x86)\Skillbrains\lightshot\5.5.0.7\locales\sq.txt
+C:\Program Files (x86)\Skillbrains\lightshot\5.5.0.7\locales\sr.txt
+C:\Program Files (x86)\Skillbrains\lightshot\5.5.0.7\locales\sv.txt
+C:\Program Files (x86)\Skillbrains\lightshot\5.5.0.7\locales\th.txt
+C:\Program Files (x86)\Skillbrains\lightshot\5.5.0.7\locales\tr.txt
+C:\Program Files (x86)\Skillbrains\lightshot\5.5.0.7\locales\uk.txt
+C:\Program Files (x86)\Skillbrains\lightshot\5.5.0.7\locales\ur.txt
+C:\Program Files (x86)\Skillbrains\lightshot\5.5.0.7\locales\vi.txt
+C:\Program Files (x86)\Windows NT\TableTextService\TableTextServiceArray.txt
+C:\Program Files (x86)\Windows NT\TableTextService\TableTextServiceDaYi.txt
+C:\Program Files (x86)\Windows NT\TableTextService\TableTextServiceTigrinya.txt
+C:\Program Files (x86)\Windows NT\TableTextService\TableTextServiceYi.txt
+C:\Program Files (x86)\Xiph.Org\Open Codecs\ChangeLog.txt
+C:\ProgramData\Avast Software\Avast\report\AntiRansomwareShield.txt
+C:\ProgramData\Avast Software\Avast\report\BehaviorShield.txt
+C:\ProgramData\Avast Software\Avast\report\EmailShield.txt
+C:\ProgramData\Avast Software\Avast\report\FileSystemShield.txt
+C:\ProgramData\Avast Software\Avast\report\WebShield.txt
+C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.2009.7-0\ThirdPartyNotices.txt
+C:\projects\JavaRushTasks\4.JavaCollections\src\com\javarush\task\task22\task2213\TaskDescription.txt
+C:\projects\JavaRushTasks\4.JavaCollections\src\com\javarush\task\task31\task3109\properties.txt
+C:\projects\JavaRushTasks\4.JavaCollections\src\com\javarush\task\task34\task3410\res\levels.txt
+C:\projects\job4j_design\.idea\checkstyleidea-libs\readme.txt
+C:\projects\job4j_design\404.txt
+C:\projects\job4j_design\data\even.txt
+C:\projects\job4j_design\data\Log.txt
+C:\projects\job4j_design\data\log2.txt
+C:\projects\job4j_design\data\Path.txt
+C:\projects\job4j_design\data\source.txt
+C:\projects\job4j_design\data\target.txt
+C:\projects\job4j_design\dump.txt
+C:\projects\job4j_design\even.txt
+C:\projects\job4j_design\log.txt
+C:\projects\job4j_design\log2.txt
+C:\projects\job4j_design\result.txt
+C:\projects\job4j_elementary\.idea\checkstyleidea-libs\readme.txt
+C:\projects\job4j_grabber\.idea\checkstyleidea-libs\readme.txt
+C:\Tools\apache-maven-3.8.5\lib\ext\README.txt
+C:\Tools\apache-maven-3.8.5\lib\jansi-native\README.txt
+C:\Tools\apache-maven-3.8.5\README.txt
+C:\Tools\CHANGES.txt
+C:\Tools\COPYING.txt
+C:\Tools\dep\brotli\LICENSE.txt
+C:\Tools\dep\libgsasl\AUTHORS.txt
+C:\Tools\dep\libgsasl\COPYING.txt
+C:\Tools\dep\libgsasl\NEWS.txt
+C:\Tools\dep\libgsasl\README.txt
+C:\Tools\dep\libidn2\AUTHORS.txt
+C:\Tools\dep\libidn2\COPYING.txt
+C:\Tools\dep\libidn2\NEWS.txt
+C:\Tools\dep\libidn2\README.txt
+C:\Tools\dep\libssh2\COPYING.txt
+C:\Tools\dep\libssh2\docs\AUTHORS.txt
+C:\Tools\dep\libssh2\docs\BINDINGS.txt
+C:\Tools\dep\libssh2\docs\HACKING.txt
+C:\Tools\dep\libssh2\docs\INSTALL_AUTOTOOLS.txt
+C:\Tools\dep\libssh2\docs\Makefile.txt
+C:\Tools\dep\libssh2\docs\TODO.txt
+C:\Tools\dep\libssh2\NEWS.txt
+C:\Tools\dep\libssh2\README.txt
+C:\Tools\dep\nghttp2\AUTHORS.txt
+C:\Tools\dep\nghttp2\ChangeLog.txt
+C:\Tools\dep\nghttp2\COPYING.txt
+C:\Tools\dep\nghttp3\AUTHORS.txt
+C:\Tools\dep\nghttp3\ChangeLog.txt
+C:\Tools\dep\nghttp3\COPYING.txt
+C:\Tools\dep\ngtcp2\AUTHORS.txt
+C:\Tools\dep\ngtcp2\ChangeLog.txt
+C:\Tools\dep\ngtcp2\COPYING.txt
+C:\Tools\dep\openssl-quic\LICENSE.txt
+C:\Tools\dep\zlib\ChangeLog.txt
+C:\Tools\dep\zlib\README.txt
+C:\Tools\docs\FAQ.txt
+C:\Tools\docs\INSTALL.txt
+C:\Tools\docs\KNOWN_BUGS.txt
+C:\Tools\docs\THANKS.txt
+C:\Tools\docs\TODO.txt
+C:\Tools\README.txt
+C:\Users\Public\Documents\Office Tab\Language\Readme.txt
+C:\Users\Windows\.Icecream Screen Recorder\log\dxdiag.txt
+C:\Users\Windows\.Icecream Screen Recorder\log\log_2022_05_20.txt
+C:\Users\Windows\.jdks\openjdk-18.0.1.1\conf\security\policy\README.txt
+C:\Users\Windows\AppData\Local\CCleaner Browser\User Data\Default\Extensions\fdjamakpfbbddfjaooikfcpapjohcfmg\6.1936.1_0\textfiles\ar.txt
+C:\Users\Windows\AppData\Local\CCleaner Browser\User Data\Default\Extensions\lahbphjdmmhnbhpnnopfhbdpkmkhcomb\1.23.0.675_0\assets\privacy\easyprivacy.txt
+C:\Users\Windows\AppData\Local\CCleaner Browser\User Data\Default\Extensions\lahbphjdmmhnbhpnnopfhbdpkmkhcomb\1.23.0.675_0\assets\thirdparties\easylist-downloads.adblockplus.org\easylist.txt
+C:\Users\Windows\AppData\Local\CCleaner Browser\User Data\Default\Extensions\lahbphjdmmhnbhpnnopfhbdpkmkhcomb\1.23.0.675_0\assets\thirdparties\easylist-downloads.adblockplus.org\easyprivacy.txt
+C:\Users\Windows\AppData\Local\CCleaner Browser\User Data\Default\Extensions\lahbphjdmmhnbhpnnopfhbdpkmkhcomb\1.23.0.675_0\assets\thirdparties\www.malwaredomainlist.com\hostslist\hosts.txt
+C:\Users\Windows\AppData\Local\CCleaner Browser\User Data\Default\Extensions\lahbphjdmmhnbhpnnopfhbdpkmkhcomb\1.23.0.675_0\assets\ublock\badware.txt
+C:\Users\Windows\AppData\Local\CCleaner Browser\User Data\Default\Extensions\lahbphjdmmhnbhpnnopfhbdpkmkhcomb\1.23.0.675_0\assets\ublock\experimental.txt
+C:\Users\Windows\AppData\Local\CCleaner Browser\User Data\Default\Extensions\lahbphjdmmhnbhpnnopfhbdpkmkhcomb\1.23.0.675_0\assets\ublock\filters.txt
+C:\Users\Windows\AppData\Local\CCleaner Browser\User Data\Default\Extensions\lahbphjdmmhnbhpnnopfhbdpkmkhcomb\1.23.0.675_0\assets\ublock\legacy.txt
+C:\Users\Windows\AppData\Local\CCleaner Browser\User Data\Default\Extensions\lahbphjdmmhnbhpnnopfhbdpkmkhcomb\1.23.0.675_0\assets\ublock\privacy.txt
+C:\Users\Windows\AppData\Local\CCleaner Browser\User Data\Default\Extensions\lahbphjdmmhnbhpnnopfhbdpkmkhcomb\1.23.0.675_0\assets\ublock\unbreak.txt
+C:\Users\Windows\AppData\Local\CCleaner Browser\User Data\Default\Extensions\lahbphjdmmhnbhpnnopfhbdpkmkhcomb\1.23.0.675_0\css\fonts\OFL.txt
+C:\Users\Windows\AppData\Local\CCleaner Browser\User Data\Default\Extensions\lahbphjdmmhnbhpnnopfhbdpkmkhcomb\1.23.0.675_0\img\fontawesome\LICENSE.txt
+C:\Users\Windows\AppData\Local\CCleaner Browser\User Data\Default\Extensions\lahbphjdmmhnbhpnnopfhbdpkmkhcomb\1.23.0.675_0\LICENSE.txt
+C:\Users\Windows\AppData\Local\CCleaner Browser\User Data\Default\Extensions\lahbphjdmmhnbhpnnopfhbdpkmkhcomb\1.23.0.675_0\options\css\fonts\OFL.txt
+C:\Users\Windows\AppData\Local\CCleaner Browser\User Data\Default\Extensions\lahbphjdmmhnbhpnnopfhbdpkmkhcomb\1.23.0.675_0\web_accessible_resources\noop.txt
+C:\Users\Windows\AppData\Local\CCleaner Browser\User Data\Default\Extensions\lahbphjdmmhnbhpnnopfhbdpkmkhcomb\1.23.0.675_0\web_accessible_resources\README.txt
+C:\Users\Windows\AppData\Local\CCleaner Browser\User Data\Default\Extensions\nglfcanhknmhkeplcoinadjlecfmcgoa\2.8.193_0\assets\acceptable\exceptionrules.txt
+C:\Users\Windows\AppData\Local\CCleaner Browser\User Data\Default\Extensions\nglfcanhknmhkeplcoinadjlecfmcgoa\2.8.193_0\assets\ads\easylist.txt
+C:\Users\Windows\AppData\Local\CCleaner Browser\User Data\Default\Extensions\nglfcanhknmhkeplcoinadjlecfmcgoa\2.8.193_0\assets\cba.txt
+C:\Users\Windows\AppData\Local\CCleaner Browser\User Data\Default\Extensions\nglfcanhknmhkeplcoinadjlecfmcgoa\2.8.193_0\assets\thirdparties\easylist-downloads.adblockplus.org\easylist.txt
+C:\Users\Windows\AppData\Local\CCleaner Browser\User Data\Default\Extensions\nglfcanhknmhkeplcoinadjlecfmcgoa\2.8.193_0\assets\thirdparties\easylist-downloads.adblockplus.org\easyprivacy.txt
+C:\Users\Windows\AppData\Local\CCleaner Browser\User Data\Default\Extensions\nglfcanhknmhkeplcoinadjlecfmcgoa\2.8.193_0\assets\ublock\badlists.txt
+C:\Users\Windows\AppData\Local\CCleaner Browser\User Data\Default\Extensions\nglfcanhknmhkeplcoinadjlecfmcgoa\2.8.193_0\assets\ublock\badware.txt
+C:\Users\Windows\AppData\Local\CCleaner Browser\User Data\Default\Extensions\nglfcanhknmhkeplcoinadjlecfmcgoa\2.8.193_0\assets\ublock\filters.txt
+C:\Users\Windows\AppData\Local\CCleaner Browser\User Data\Default\Extensions\nglfcanhknmhkeplcoinadjlecfmcgoa\2.8.193_0\assets\ublock\legacy.txt
+C:\Users\Windows\AppData\Local\CCleaner Browser\User Data\Default\Extensions\nglfcanhknmhkeplcoinadjlecfmcgoa\2.8.193_0\assets\ublock\privacy.txt
+C:\Users\Windows\AppData\Local\CCleaner Browser\User Data\Default\Extensions\nglfcanhknmhkeplcoinadjlecfmcgoa\2.8.193_0\assets\ublock\unbreak.txt
+C:\Users\Windows\AppData\Local\CCleaner Browser\User Data\Default\Extensions\nglfcanhknmhkeplcoinadjlecfmcgoa\2.8.193_0\assets\whitelist.txt
+C:\Users\Windows\AppData\Local\CCleaner Browser\User Data\Default\Extensions\nglfcanhknmhkeplcoinadjlecfmcgoa\2.8.193_0\assets\whitelistAfterRedirect.txt
+C:\Users\Windows\AppData\Local\CCleaner Browser\User Data\Default\Extensions\nglfcanhknmhkeplcoinadjlecfmcgoa\2.8.193_0\css\fonts\Inter\LICENSE.txt
+C:\Users\Windows\AppData\Local\CCleaner Browser\User Data\Default\Extensions\nglfcanhknmhkeplcoinadjlecfmcgoa\2.8.193_0\img\fontawesome\LICENSE.txt
+C:\Users\Windows\AppData\Local\CCleaner Browser\User Data\Default\Extensions\nglfcanhknmhkeplcoinadjlecfmcgoa\2.8.193_0\LICENSE.txt
+C:\Users\Windows\AppData\Local\CCleaner Browser\User Data\Default\Extensions\nglfcanhknmhkeplcoinadjlecfmcgoa\2.8.193_0\web_accessible_resources\noop.txt
+C:\Users\Windows\AppData\Local\CCleaner Browser\User Data\Default\Extensions\nglfcanhknmhkeplcoinadjlecfmcgoa\2.8.193_0\web_accessible_resources\README.txt
+C:\Users\Windows\AppData\Local\CCleaner Browser\User Data\Safe Browsing\UrlScanner\whitelist\com.txt
+C:\Users\Windows\AppData\Local\Google\Chrome\User Data\Profile 3\Extensions\fcoecifcadmambfikillppkoafmgachp\9.2.1_0\skin\newtab\images\patterns\readme.txt
+C:\Users\Windows\AppData\Local\Google\Chrome\User Data\Profile 3\Extensions\gighmmpiobklfepjocnamgkkbiglidom\4.46.2_0\CHANGELOG.txt
+C:\Users\Windows\AppData\Local\Google\Chrome\User Data\Profile 3\Extensions\hoboppgpbgclpfnjfdidokiilachfcbb\3.0.8.3_0\scripts\vkopt_log.txt
+C:\Users\Windows\AppData\Local\Google\Chrome\User Data\Subresource Filter\Unindexed Rules\9.36.0\LICENSE.txt
+C:\Users\Windows\AppData\Local\Google\Chrome\User Data\ZxcvbnData\1\english_wikipedia.txt
+C:\Users\Windows\AppData\Local\Google\Chrome\User Data\ZxcvbnData\1\female_names.txt
+C:\Users\Windows\AppData\Local\Google\Chrome\User Data\ZxcvbnData\1\male_names.txt
+C:\Users\Windows\AppData\Local\Google\Chrome\User Data\ZxcvbnData\1\passwords.txt
+C:\Users\Windows\AppData\Local\Google\Chrome\User Data\ZxcvbnData\1\surnames.txt
+C:\Users\Windows\AppData\Local\Google\Chrome\User Data\ZxcvbnData\1\us_tv_and_film.txt
+C:\Users\Windows\AppData\Local\JetBrains\IntelliJIdea2022.1\caches\project_resources\project_lru_list.txt
+C:\Users\Windows\AppData\Local\Microsoft\CLR_v4.0\NGenDisable.txt
+C:\Users\Windows\AppData\Local\Microsoft\Edge\User Data\edge_shutdown_ms.txt
+C:\Users\Windows\AppData\Local\Microsoft\Edge\User Data\ZxcvbnData\3.0.0.0\english_wikipedia.txt
+C:\Users\Windows\AppData\Local\Microsoft\Edge\User Data\ZxcvbnData\3.0.0.0\female_names.txt
+C:\Users\Windows\AppData\Local\Microsoft\Edge\User Data\ZxcvbnData\3.0.0.0\male_names.txt
+C:\Users\Windows\AppData\Local\Microsoft\Edge\User Data\ZxcvbnData\3.0.0.0\passwords.txt
+C:\Users\Windows\AppData\Local\Microsoft\Edge\User Data\ZxcvbnData\3.0.0.0\surnames.txt
+C:\Users\Windows\AppData\Local\Microsoft\Edge\User Data\ZxcvbnData\3.0.0.0\us_tv_and_film.txt
+C:\Users\Windows\AppData\Local\Microsoft\OneDrive\22.111.0522.0002\ThirdPartyNotices.txt
+C:\Users\Windows\AppData\Local\Microsoft\Teams\current\resources\node_modules\@msteams\ado-pull-request-utils\node_modules\azure-devops-node-api\ThirdPartyNotice.txt
+C:\Users\Windows\AppData\Local\Microsoft\Teams\current\resources\node_modules\@msteams\ado-pull-request-utils\node_modules\typed-rest-client\ThirdPartyNotice.txt
+C:\Users\Windows\AppData\Local\Microsoft\Teams\current\resources\node_modules\azure-devops-node-api\ThirdPartyNotice.txt
+C:\Users\Windows\AppData\Local\Microsoft\Teams\current\resources\node_modules\typed-rest-client\ThirdPartyNotice.txt
+C:\Users\Windows\AppData\Local\Microsoft\Teams\current\resources\ThirdPartyNotice.txt
+C:\Users\Windows\AppData\Local\Microsoft\Teams\current\resources\tmp\Teams\resources\node_modules\@msteams\ado-pull-request-utils\node_modules\azure-devops-node-api\ThirdPartyNotice.txt
+C:\Users\Windows\AppData\Local\Microsoft\Teams\current\resources\tmp\Teams\resources\node_modules\@msteams\ado-pull-request-utils\node_modules\typed-rest-client\ThirdPartyNotice.txt
+C:\Users\Windows\AppData\Local\Microsoft\Teams\current\resources\tmp\Teams\resources\node_modules\azure-devops-node-api\ThirdPartyNotice.txt
+C:\Users\Windows\AppData\Local\Microsoft\Teams\current\resources\tmp\Teams\resources\node_modules\typed-rest-client\ThirdPartyNotice.txt
+C:\Users\Windows\AppData\Local\Microsoft\Teams\current\resources\tmp\Teams\resources\ThirdPartyNotice.txt
+C:\Users\Windows\AppData\Local\Microsoft\Teams\current\ThirdPartyNotice.txt
+C:\Users\Windows\AppData\Local\Microsoft\Teams\previous\resources\node_modules\@msteams\ado-pull-request-utils\node_modules\azure-devops-node-api\ThirdPartyNotice.txt
+C:\Users\Windows\AppData\Local\Microsoft\Teams\previous\resources\node_modules\@msteams\ado-pull-request-utils\node_modules\typed-rest-client\ThirdPartyNotice.txt
+C:\Users\Windows\AppData\Local\Microsoft\Teams\previous\resources\node_modules\azure-devops-node-api\ThirdPartyNotice.txt
+C:\Users\Windows\AppData\Local\Microsoft\Teams\previous\resources\node_modules\typed-rest-client\ThirdPartyNotice.txt
+C:\Users\Windows\AppData\Local\Microsoft\Teams\previous\resources\ThirdPartyNotice.txt
+C:\Users\Windows\AppData\Local\Microsoft\Teams\previous\resources\tmp\Teams\resources\node_modules\@msteams\ado-pull-request-utils\node_modules\azure-devops-node-api\ThirdPartyNotice.txt
+C:\Users\Windows\AppData\Local\Microsoft\Teams\previous\resources\tmp\Teams\resources\node_modules\@msteams\ado-pull-request-utils\node_modules\typed-rest-client\ThirdPartyNotice.txt
+C:\Users\Windows\AppData\Local\Microsoft\Teams\previous\resources\tmp\Teams\resources\node_modules\azure-devops-node-api\ThirdPartyNotice.txt
+C:\Users\Windows\AppData\Local\Microsoft\Teams\previous\resources\tmp\Teams\resources\node_modules\typed-rest-client\ThirdPartyNotice.txt
+C:\Users\Windows\AppData\Local\Microsoft\Teams\previous\resources\tmp\Teams\resources\ThirdPartyNotice.txt
+C:\Users\Windows\AppData\Local\Microsoft\Teams\previous\ThirdPartyNotice.txt
+C:\Users\Windows\AppData\Local\Packages\A025C540.Yandex.Music_vfvw9svesycw6\LocalCache\Logs\log20210807.txt
+C:\Users\Windows\AppData\Local\Packages\A025C540.Yandex.Music_vfvw9svesycw6\LocalCache\Logs\log20211230.txt
+C:\Users\Windows\AppData\Local\Packages\A025C540.Yandex.Music_vfvw9svesycw6\LocalCache\Logs\log20220414.txt
+C:\Users\Windows\AppData\Local\Packages\A025C540.Yandex.Music_vfvw9svesycw6\LocalState\Shared\MusicAppSettings.txt
+C:\Users\Windows\AppData\Local\Packages\A025C540.Yandex.Music_vfvw9svesycw6\LocalState\Shared\NetworkMetricaEvents.txt
+C:\Users\Windows\AppData\Local\Packages\AdobeSystemsIncorporated.AdobePhotoshopExpress_ynb6jyjzte8ga\LocalState\MicrosoftStoreEngagementSDKId.txt
+C:\Users\Windows\AppData\Local\Packages\Microsoft.SkypeApp_kzf8qxf38zg5c\LocalState\DiagOutputDir\SkypeApp0.txt
+C:\Users\Windows\AppData\Local\Packages\Microsoft.Windows.Search_cw5n1h2txyewy\LocalState\ConstraintIndex\Input_{075a459d-239d-4339-8f9d-cc4065027c83}\appsconversions.txt
+C:\Users\Windows\AppData\Local\Packages\Microsoft.Windows.Search_cw5n1h2txyewy\LocalState\ConstraintIndex\Input_{075a459d-239d-4339-8f9d-cc4065027c83}\appsglobals.txt
+C:\Users\Windows\AppData\Local\Packages\Microsoft.Windows.Search_cw5n1h2txyewy\LocalState\ConstraintIndex\Input_{075a459d-239d-4339-8f9d-cc4065027c83}\appssynonyms.txt
+C:\Users\Windows\AppData\Local\Packages\Microsoft.Windows.Search_cw5n1h2txyewy\LocalState\ConstraintIndex\Input_{075a459d-239d-4339-8f9d-cc4065027c83}\settingsconversions.txt
+C:\Users\Windows\AppData\Local\Packages\Microsoft.Windows.Search_cw5n1h2txyewy\LocalState\ConstraintIndex\Input_{075a459d-239d-4339-8f9d-cc4065027c83}\settingsglobals.txt
+C:\Users\Windows\AppData\Local\Packages\Microsoft.Windows.Search_cw5n1h2txyewy\LocalState\ConstraintIndex\Input_{075a459d-239d-4339-8f9d-cc4065027c83}\settingssynonyms.txt
+C:\Users\Windows\AppData\Local\Packages\Microsoft.Windows.Search_cw5n1h2txyewy\LocalState\DeviceSearchCache\AppCache133000277069614036.txt
+C:\Users\Windows\AppData\Local\Packages\Microsoft.Windows.Search_cw5n1h2txyewy\LocalState\DeviceSearchCache\SettingsCache.txt
+C:\Users\Windows\AppData\Local\Packages\Microsoft.XboxGameOverlay_8wekyb3d8bbwe\LocalState\DiagOutputDir\LogFile_October_31_2020__12_52_23.txt
+C:\Users\Windows\AppData\Local\Packages\Microsoft.XboxGameOverlay_8wekyb3d8bbwe\LocalState\DiagOutputDir\LogFile_October_31_2020__6_33_24.txt
+C:\Users\Windows\AppData\Local\Packages\Microsoft.XboxGamingOverlay_8wekyb3d8bbwe\LocalState\DiagOutputDir\XboxGamingOverlayTraces_FT_Server_20220612054137.txt
+C:\Users\Windows\AppData\Local\Packages\Microsoft.XboxGamingOverlay_8wekyb3d8bbwe\LocalState\DiagOutputDir\XboxGamingOverlayTraces_FT_Server_20220613062523.txt
+C:\Users\Windows\AppData\Local\Packages\Microsoft.XboxGamingOverlay_8wekyb3d8bbwe\LocalState\DiagOutputDir\XboxGamingOverlayTraces_FT_Server_20220613082507.txt
+C:\Users\Windows\AppData\Local\Packages\Microsoft.XboxGamingOverlay_8wekyb3d8bbwe\LocalState\DiagOutputDir\XboxGamingOverlayTraces_FT_Server_20220617061556.txt
+C:\Users\Windows\AppData\Local\Packages\Microsoft.XboxGamingOverlay_8wekyb3d8bbwe\LocalState\profileDataSettings.txt
+C:\Users\Windows\AppData\Local\Yandex\SearchBand\Application\5.5.0.1923\branding\voiceactivation\full-alice\flags.txt
+C:\Users\Windows\AppData\Local\Yandex\SearchBand\Application\5.5.0.1923\branding\voiceactivation\full-alice\words.txt
+C:\Users\Windows\AppData\Local\Yandex\SearchBand\Application\5.5.0.1923\branding\voiceactivation\full-yandex\flags.txt
+C:\Users\Windows\AppData\Local\Yandex\SearchBand\Application\5.5.0.1923\branding\voiceactivation\full-yandex\words.txt
+C:\Users\Windows\AppData\Local\Yandex\SearchBand\Application\5.5.0.1923\branding\voiceactivation\simple\flags.txt
+C:\Users\Windows\AppData\Local\Yandex\SearchBand\Application\5.5.0.1923\branding\voiceactivation\simple\words.txt
+C:\Users\Windows\AppData\Local\Yandex\YandexBrowser\Application\21.6.4.694\ntp\CacheStorage\308397d12cd2a707417a061cb3e067de50902fa6\index.txt
+C:\Users\Windows\AppData\Local\Yandex\YandexBrowser\Application\21.6.4.694\resources\easylist\easylist.txt
+C:\Users\Windows\AppData\Local\Yandex\YandexBrowser\Application\21.6.4.694\voiceactivation\full-alice3\flags.txt
+C:\Users\Windows\AppData\Local\Yandex\YandexBrowser\Application\21.6.4.694\voiceactivation\full-alice3\words.txt
+C:\Users\Windows\AppData\Local\Yandex\YandexBrowser\Application\21.6.4.694\voiceactivation\full-yandex1\flags.txt
+C:\Users\Windows\AppData\Local\Yandex\YandexBrowser\Application\21.6.4.694\voiceactivation\full-yandex1\words.txt
+C:\Users\Windows\AppData\Roaming\.minecraft\options.txt
+C:\Users\Windows\AppData\Roaming\.minecraft\runtime\java-runtime-beta\windows\java-runtime-beta\conf\security\policy\README.txt
+C:\Users\Windows\AppData\Roaming\.minecraft\runtime\java-runtime-gamma\windows\java-runtime-gamma\conf\security\policy\README.txt
+C:\Users\Windows\AppData\Roaming\.tlauncher\jvms\jre1.8.0_281\bin\server\Xusage.txt
+C:\Users\Windows\AppData\Roaming\.tlauncher\jvms\jre1.8.0_281\README.txt
+C:\Users\Windows\AppData\Roaming\.tlauncher\jvms\jre1.8.0_281\THIRDPARTYLICENSEREADME.txt
+C:\Users\Windows\AppData\Roaming\.tlauncher\protection.txt
+C:\Users\Windows\AppData\Roaming\AMS Software\PhotoMaster\DelList.txt
+C:\Users\Windows\AppData\Roaming\AMS Software\PhotoMaster\pluginCache\1\test.txt
+C:\Users\Windows\AppData\Roaming\AMS Software\PhotoMaster\pluginCache\10\test.txt
+C:\Users\Windows\AppData\Roaming\AMS Software\PhotoMaster\pluginCache\11\test.txt
+C:\Users\Windows\AppData\Roaming\AMS Software\PhotoMaster\pluginCache\2\test.txt
+C:\Users\Windows\AppData\Roaming\AMS Software\PhotoMaster\pluginCache\3\test.txt
+C:\Users\Windows\AppData\Roaming\AMS Software\PhotoMaster\pluginCache\4\test.txt
+C:\Users\Windows\AppData\Roaming\AMS Software\PhotoMaster\pluginCache\5\test.txt
+C:\Users\Windows\AppData\Roaming\AMS Software\PhotoMaster\pluginCache\6\test.txt
+C:\Users\Windows\AppData\Roaming\AMS Software\PhotoMaster\pluginCache\7\test.txt
+C:\Users\Windows\AppData\Roaming\AMS Software\PhotoMaster\pluginCache\8\test.txt
+C:\Users\Windows\AppData\Roaming\AMS Software\PhotoMaster\pluginCache\9\test.txt
+C:\Users\Windows\AppData\Roaming\AnyDesk\connection_trace.txt
+C:\Users\Windows\AppData\Roaming\Avast Software\Avast\log\cef_log.txt
+C:\Users\Windows\AppData\Roaming\Download Master\ignoredmtop.txt
+C:\Users\Windows\AppData\Roaming\JetBrains\IntelliJIdea2022.1\bundled_plugins.txt
+C:\Users\Windows\AppData\Roaming\JetBrains\IntelliJIdea2022.1\disabled_plugins.txt
+C:\Users\Windows\AppData\Roaming\JetBrains\IntelliJIdea2022.1\disabled_update.txt
+C:\Users\Windows\AppData\Roaming\Microsoft\Teams\installTime.txt
+C:\Users\Windows\AppData\Roaming\Microsoft\Teams\logs.txt
+C:\Users\Windows\AppData\Roaming\Microsoft\Teams\old_logs_20220514073649.txt
+C:\Users\Windows\AppData\Roaming\Microsoft\Teams\old_logs_20220519074511.txt
+C:\Users\Windows\AppData\Roaming\Microsoft\Teams\old_logs_20220523093042.txt
+C:\Users\Windows\AppData\Roaming\Microsoft\Teams\Service Worker\CacheStorage\2b5c392d2730c0910fd56433cc5e73e510d0f2b4\index.txt
+C:\Users\Windows\AppData\Roaming\Microsoft\Windows\PowerShell\PSReadLine\ConsoleHost_history.txt
+C:\Users\Windows\AppData\Roaming\Mozilla\Firefox\Profiles\p88jbq64.default-release\AlternateServices.txt
+C:\Users\Windows\AppData\Roaming\Mozilla\Firefox\Profiles\p88jbq64.default-release\cert_override.txt
+C:\Users\Windows\AppData\Roaming\Mozilla\Firefox\Profiles\p88jbq64.default-release\ClientAuthRememberList.txt
+C:\Users\Windows\AppData\Roaming\Mozilla\Firefox\Profiles\p88jbq64.default-release\enumerate_devices.txt
+C:\Users\Windows\AppData\Roaming\Mozilla\Firefox\Profiles\p88jbq64.default-release\gmp-widevinecdm\4.10.2449.0\LICENSE.txt
+C:\Users\Windows\AppData\Roaming\Mozilla\Firefox\Profiles\p88jbq64.default-release\pkcs11.txt
+C:\Users\Windows\AppData\Roaming\Mozilla\Firefox\Profiles\p88jbq64.default-release\SecurityPreloadState.txt
+C:\Users\Windows\AppData\Roaming\Mozilla\Firefox\Profiles\p88jbq64.default-release\serviceworker.txt
+C:\Users\Windows\AppData\Roaming\Mozilla\Firefox\Profiles\p88jbq64.default-release\SiteSecurityServiceState.txt
+C:\Users\Windows\AppData\Roaming\Opera Software\Opera Stable\opera_shutdown_ms.txt
+C:\Users\Windows\AppData\Roaming\Telegram Desktop\log.txt
+C:\Users\Windows\AppData\Roaming\Telegram Desktop\log_start0.txt
+C:\Users\Windows\AppData\Roaming\uTorrent\helper\btinstall.txt
+C:\Users\Windows\AppData\Roaming\Zoom\appsafecheck.txt
+C:\Users\Windows\AppData\Roaming\Zoom\bin\directui_license.txt
+C:\Users\Windows\AppData\Roaming\Zoom\bin\duilib_license.txt
+C:\Users\Windows\AppData\Roaming\Zoom\bin\nanosvg_LICENSE.txt
+C:\Users\Windows\AppData\Roaming\Zoom\installer.txt
+C:\Users\Windows\Desktop\KMSAuto_Lite_v1.3.1\readme_bg.txt
+C:\Users\Windows\Desktop\KMSAuto_Lite_v1.3.1\readme_cn.txt
+C:\Users\Windows\Desktop\KMSAuto_Lite_v1.3.1\readme_en.txt
+C:\Users\Windows\Desktop\KMSAuto_Lite_v1.3.1\readme_ru.txt
+C:\Users\Windows\Documents\BIMx\BIMx_Log.txt
+C:\Users\Windows\Documents\BIMx\Engine_Log.txt
+C:\Users\Windows\Downloads\act1.4\Readme.txt
+C:\Users\Windows\Downloads\KMS Tools Portable 01.08.2018 by Ratiborus\Programs\Office 2013-2019 C2R Install v6.4.1\readme_en.txt
+C:\Users\Windows\Downloads\KMS Tools Portable 01.08.2018 by Ratiborus\Programs\Office 2013-2019 C2R Install v6.4.1\readme_ru.txt
+C:\Users\Windows\Downloads\KMS Tools Portable 01.08.2018 by Ratiborus\readme.txt
+C:\Users\Windows\Downloads\Telegram Desktop\111.txt
+C:\Users\Windows\log\log_2022_05_20.txt
+C:\Users\Windows\MicrosoftEdgeBackups\backups\MicrosoftEdgeBackup20200618\DatastoreBackup\schema.txt
+C:\Users\Windows\MicrosoftEdgeBackups\backups\MicrosoftEdgeBackup20200618\MicrosoftEdgeSettingsBackup.txt
+C:\Windows\Microsoft.NET\Framework\v4.0.30319\ThirdPartyNotices.txt
+C:\Windows\Microsoft.NET\Framework64\v4.0.30319\ThirdPartyNotices.txt
+C:\Windows\servicing\LCU\Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.1706.1.7\amd64_hyperv-containerlicense_31bf3856ad364e35_10.0.19041.867_none_3390e1c6cd2a2b47\n\license.txt
+C:\Windows\servicing\LCU\Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.1706.1.7\amd64_microsoft-windows-i..dsetup-media-compat_31bf3856ad364e35_10.0.19041.1503_none_98d7ab48791ac400\f\hwcompat.txt
+C:\Windows\servicing\LCU\Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.1706.1.7\amd64_microsoft-windows-i..dsetup-media-compat_31bf3856ad364e35_10.0.19041.1503_none_98d7ab48791ac400\r\hwcompat.txt
+C:\Windows\servicing\LCU\Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.1706.1.7\amd64_microsoft-windows-i..dsetup-rejuvenation_31bf3856ad364e35_10.0.19041.1682_none_c7360f28c60b2fed\f\hwcompat.txt
+C:\Windows\servicing\LCU\Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.1706.1.7\amd64_microsoft-windows-i..dsetup-rejuvenation_31bf3856ad364e35_10.0.19041.1682_none_c7360f28c60b2fed\f\hwexclude.txt
+C:\Windows\servicing\LCU\Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.1706.1.7\amd64_microsoft-windows-i..dsetup-rejuvenation_31bf3856ad364e35_10.0.19041.1682_none_c7360f28c60b2fed\r\hwcompat.txt
+C:\Windows\servicing\LCU\Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.1706.1.7\amd64_microsoft-windows-i..dsetup-rejuvenation_31bf3856ad364e35_10.0.19041.1682_none_c7360f28c60b2fed\r\hwexclude.txt
+C:\Windows\servicing\LCU\Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.1706.1.7\amd64_microsoft-windows-i..sedsetup-media-base_31bf3856ad364e35_10.0.19041.1415_none_0b068a51de47748d\f\idwbinfo.txt
+C:\Windows\servicing\LCU\Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.1706.1.7\amd64_microsoft-windows-i..sedsetup-media-base_31bf3856ad364e35_10.0.19041.1415_none_0b068a51de47748d\r\idwbinfo.txt
+C:\Windows\servicing\LCU\Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.1706.1.7\amd64_microsoft-windows-mccs-syncutil_31bf3856ad364e35_10.0.19041.746_none_a4807aed01fa99a1\f\livedomainlist.txt
+C:\Windows\servicing\LCU\Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.1706.1.7\amd64_microsoft-windows-mccs-syncutil_31bf3856ad364e35_10.0.19041.746_none_a4807aed01fa99a1\r\livedomainlist.txt
+C:\Windows\servicing\LCU\Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.1706.1.7\amd64_microsoft-windows-s..e.desktop.searchapp_31bf3856ad364e35_10.0.19041.1620_none_02a4ad284c85486f\f\1.txt
+C:\Windows\servicing\LCU\Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.1706.1.7\amd64_microsoft-windows-s..e.desktop.searchapp_31bf3856ad364e35_10.0.19041.1620_none_02a4ad284c85486f\f\10.txt
+C:\Windows\servicing\LCU\Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.1706.1.7\amd64_microsoft-windows-s..e.desktop.searchapp_31bf3856ad364e35_10.0.19041.1620_none_02a4ad284c85486f\f\11.txt
+C:\Windows\servicing\LCU\Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.1706.1.7\amd64_microsoft-windows-s..e.desktop.searchapp_31bf3856ad364e35_10.0.19041.1620_none_02a4ad284c85486f\f\12.txt
+C:\Windows\servicing\LCU\Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.1706.1.7\amd64_microsoft-windows-s..e.desktop.searchapp_31bf3856ad364e35_10.0.19041.1620_none_02a4ad284c85486f\f\13.txt
+C:\Windows\servicing\LCU\Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.1706.1.7\amd64_microsoft-windows-s..e.desktop.searchapp_31bf3856ad364e35_10.0.19041.1620_none_02a4ad284c85486f\f\14.txt
+C:\Windows\servicing\LCU\Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.1706.1.7\amd64_microsoft-windows-s..e.desktop.searchapp_31bf3856ad364e35_10.0.19041.1620_none_02a4ad284c85486f\f\15.txt
+C:\Windows\servicing\LCU\Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.1706.1.7\amd64_microsoft-windows-s..e.desktop.searchapp_31bf3856ad364e35_10.0.19041.1620_none_02a4ad284c85486f\f\16.txt
+C:\Windows\servicing\LCU\Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.1706.1.7\amd64_microsoft-windows-s..e.desktop.searchapp_31bf3856ad364e35_10.0.19041.1620_none_02a4ad284c85486f\f\17.txt
+C:\Windows\servicing\LCU\Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.1706.1.7\amd64_microsoft-windows-s..e.desktop.searchapp_31bf3856ad364e35_10.0.19041.1620_none_02a4ad284c85486f\f\18.txt
+C:\Windows\servicing\LCU\Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.1706.1.7\amd64_microsoft-windows-s..e.desktop.searchapp_31bf3856ad364e35_10.0.19041.1620_none_02a4ad284c85486f\f\19.txt
+C:\Windows\servicing\LCU\Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.1706.1.7\amd64_microsoft-windows-s..e.desktop.searchapp_31bf3856ad364e35_10.0.19041.1620_none_02a4ad284c85486f\f\2.txt
+C:\Windows\servicing\LCU\Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.1706.1.7\amd64_microsoft-windows-s..e.desktop.searchapp_31bf3856ad364e35_10.0.19041.1620_none_02a4ad284c85486f\f\20.txt
+C:\Windows\servicing\LCU\Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.1706.1.7\amd64_microsoft-windows-s..e.desktop.searchapp_31bf3856ad364e35_10.0.19041.1620_none_02a4ad284c85486f\f\21.txt
+C:\Windows\servicing\LCU\Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.1706.1.7\amd64_microsoft-windows-s..e.desktop.searchapp_31bf3856ad364e35_10.0.19041.1620_none_02a4ad284c85486f\f\22.txt
+C:\Windows\servicing\LCU\Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.1706.1.7\amd64_microsoft-windows-s..e.desktop.searchapp_31bf3856ad364e35_10.0.19041.1620_none_02a4ad284c85486f\f\23.txt
+C:\Windows\servicing\LCU\Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.1706.1.7\amd64_microsoft-windows-s..e.desktop.searchapp_31bf3856ad364e35_10.0.19041.1620_none_02a4ad284c85486f\f\24.txt
+C:\Windows\servicing\LCU\Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.1706.1.7\amd64_microsoft-windows-s..e.desktop.searchapp_31bf3856ad364e35_10.0.19041.1620_none_02a4ad284c85486f\f\25.txt
+C:\Windows\servicing\LCU\Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.1706.1.7\amd64_microsoft-windows-s..e.desktop.searchapp_31bf3856ad364e35_10.0.19041.1620_none_02a4ad284c85486f\f\26.txt
+C:\Windows\servicing\LCU\Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.1706.1.7\amd64_microsoft-windows-s..e.desktop.searchapp_31bf3856ad364e35_10.0.19041.1620_none_02a4ad284c85486f\f\3.txt
+C:\Windows\servicing\LCU\Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.1706.1.7\amd64_microsoft-windows-s..e.desktop.searchapp_31bf3856ad364e35_10.0.19041.1620_none_02a4ad284c85486f\f\4.txt
+C:\Windows\servicing\LCU\Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.1706.1.7\amd64_microsoft-windows-s..e.desktop.searchapp_31bf3856ad364e35_10.0.19041.1620_none_02a4ad284c85486f\f\5.txt
+C:\Windows\servicing\LCU\Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.1706.1.7\amd64_microsoft-windows-s..e.desktop.searchapp_31bf3856ad364e35_10.0.19041.1620_none_02a4ad284c85486f\f\6.txt
+C:\Windows\servicing\LCU\Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.1706.1.7\amd64_microsoft-windows-s..e.desktop.searchapp_31bf3856ad364e35_10.0.19041.1620_none_02a4ad284c85486f\f\7.txt
+C:\Windows\servicing\LCU\Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.1706.1.7\amd64_microsoft-windows-s..e.desktop.searchapp_31bf3856ad364e35_10.0.19041.1620_none_02a4ad284c85486f\f\8.txt
+C:\Windows\servicing\LCU\Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.1706.1.7\amd64_microsoft-windows-s..e.desktop.searchapp_31bf3856ad364e35_10.0.19041.1620_none_02a4ad284c85486f\f\9.txt
+C:\Windows\servicing\LCU\Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.1706.1.7\amd64_microsoft-windows-s..e.desktop.searchapp_31bf3856ad364e35_10.0.19041.1620_none_02a4ad284c85486f\r\1.txt
+C:\Windows\servicing\LCU\Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.1706.1.7\amd64_microsoft-windows-s..e.desktop.searchapp_31bf3856ad364e35_10.0.19041.1620_none_02a4ad284c85486f\r\10.txt
+C:\Windows\servicing\LCU\Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.1706.1.7\amd64_microsoft-windows-s..e.desktop.searchapp_31bf3856ad364e35_10.0.19041.1620_none_02a4ad284c85486f\r\11.txt
+C:\Windows\servicing\LCU\Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.1706.1.7\amd64_microsoft-windows-s..e.desktop.searchapp_31bf3856ad364e35_10.0.19041.1620_none_02a4ad284c85486f\r\12.txt
+C:\Windows\servicing\LCU\Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.1706.1.7\amd64_microsoft-windows-s..e.desktop.searchapp_31bf3856ad364e35_10.0.19041.1620_none_02a4ad284c85486f\r\13.txt
+C:\Windows\servicing\LCU\Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.1706.1.7\amd64_microsoft-windows-s..e.desktop.searchapp_31bf3856ad364e35_10.0.19041.1620_none_02a4ad284c85486f\r\14.txt
+C:\Windows\servicing\LCU\Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.1706.1.7\amd64_microsoft-windows-s..e.desktop.searchapp_31bf3856ad364e35_10.0.19041.1620_none_02a4ad284c85486f\r\15.txt
+C:\Windows\servicing\LCU\Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.1706.1.7\amd64_microsoft-windows-s..e.desktop.searchapp_31bf3856ad364e35_10.0.19041.1620_none_02a4ad284c85486f\r\16.txt
+C:\Windows\servicing\LCU\Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.1706.1.7\amd64_microsoft-windows-s..e.desktop.searchapp_31bf3856ad364e35_10.0.19041.1620_none_02a4ad284c85486f\r\17.txt
+C:\Windows\servicing\LCU\Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.1706.1.7\amd64_microsoft-windows-s..e.desktop.searchapp_31bf3856ad364e35_10.0.19041.1620_none_02a4ad284c85486f\r\18.txt
+C:\Windows\servicing\LCU\Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.1706.1.7\amd64_microsoft-windows-s..e.desktop.searchapp_31bf3856ad364e35_10.0.19041.1620_none_02a4ad284c85486f\r\19.txt
+C:\Windows\servicing\LCU\Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.1706.1.7\amd64_microsoft-windows-s..e.desktop.searchapp_31bf3856ad364e35_10.0.19041.1620_none_02a4ad284c85486f\r\2.txt
+C:\Windows\servicing\LCU\Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.1706.1.7\amd64_microsoft-windows-s..e.desktop.searchapp_31bf3856ad364e35_10.0.19041.1620_none_02a4ad284c85486f\r\20.txt
+C:\Windows\servicing\LCU\Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.1706.1.7\amd64_microsoft-windows-s..e.desktop.searchapp_31bf3856ad364e35_10.0.19041.1620_none_02a4ad284c85486f\r\21.txt
+C:\Windows\servicing\LCU\Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.1706.1.7\amd64_microsoft-windows-s..e.desktop.searchapp_31bf3856ad364e35_10.0.19041.1620_none_02a4ad284c85486f\r\22.txt
+C:\Windows\servicing\LCU\Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.1706.1.7\amd64_microsoft-windows-s..e.desktop.searchapp_31bf3856ad364e35_10.0.19041.1620_none_02a4ad284c85486f\r\23.txt
+C:\Windows\servicing\LCU\Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.1706.1.7\amd64_microsoft-windows-s..e.desktop.searchapp_31bf3856ad364e35_10.0.19041.1620_none_02a4ad284c85486f\r\24.txt
+C:\Windows\servicing\LCU\Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.1706.1.7\amd64_microsoft-windows-s..e.desktop.searchapp_31bf3856ad364e35_10.0.19041.1620_none_02a4ad284c85486f\r\25.txt
+C:\Windows\servicing\LCU\Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.1706.1.7\amd64_microsoft-windows-s..e.desktop.searchapp_31bf3856ad364e35_10.0.19041.1620_none_02a4ad284c85486f\r\26.txt
+C:\Windows\servicing\LCU\Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.1706.1.7\amd64_microsoft-windows-s..e.desktop.searchapp_31bf3856ad364e35_10.0.19041.1620_none_02a4ad284c85486f\r\3.txt
+C:\Windows\servicing\LCU\Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.1706.1.7\amd64_microsoft-windows-s..e.desktop.searchapp_31bf3856ad364e35_10.0.19041.1620_none_02a4ad284c85486f\r\4.txt
+C:\Windows\servicing\LCU\Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.1706.1.7\amd64_microsoft-windows-s..e.desktop.searchapp_31bf3856ad364e35_10.0.19041.1620_none_02a4ad284c85486f\r\5.txt
+C:\Windows\servicing\LCU\Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.1706.1.7\amd64_microsoft-windows-s..e.desktop.searchapp_31bf3856ad364e35_10.0.19041.1620_none_02a4ad284c85486f\r\6.txt
+C:\Windows\servicing\LCU\Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.1706.1.7\amd64_microsoft-windows-s..e.desktop.searchapp_31bf3856ad364e35_10.0.19041.1620_none_02a4ad284c85486f\r\7.txt
+C:\Windows\servicing\LCU\Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.1706.1.7\amd64_microsoft-windows-s..e.desktop.searchapp_31bf3856ad364e35_10.0.19041.1620_none_02a4ad284c85486f\r\8.txt
+C:\Windows\servicing\LCU\Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.1706.1.7\amd64_microsoft-windows-s..e.desktop.searchapp_31bf3856ad364e35_10.0.19041.1620_none_02a4ad284c85486f\r\9.txt
+C:\Windows\servicing\LCU\Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.1706.1.7\amd64_microsoft-windows-windowscodecraw_31bf3856ad364e35_10.0.19041.1165_none_09c62bea6ce5a482\f\windowscodecsraw.txt
+C:\Windows\servicing\LCU\Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.1706.1.7\amd64_microsoft-windows-windowscodecraw_31bf3856ad364e35_10.0.19041.1165_none_09c62bea6ce5a482\r\windowscodecsraw.txt
+C:\Windows\servicing\LCU\Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.1706.1.7\amd64_ppi-ppiskype-c-a_31bf3856ad364e35_10.0.19041.662_none_4fe74cf432204574\f\asdclassifiermodel.txt
+C:\Windows\servicing\LCU\Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.1706.1.7\amd64_ppi-ppiskype-c-a_31bf3856ad364e35_10.0.19041.662_none_4fe74cf432204574\f\asdclassifiermodelnodepth.txt
+C:\Windows\servicing\LCU\Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.1706.1.7\amd64_ppi-ppiskype-c-a_31bf3856ad364e35_10.0.19041.662_none_4fe74cf432204574\f\cnnmodel.txt
+C:\Windows\servicing\LCU\Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.1706.1.7\amd64_ppi-ppiskype-c-a_31bf3856ad364e35_10.0.19041.662_none_4fe74cf432204574\r\asdclassifiermodel.txt
+C:\Windows\servicing\LCU\Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.1706.1.7\amd64_ppi-ppiskype-c-a_31bf3856ad364e35_10.0.19041.662_none_4fe74cf432204574\r\asdclassifiermodelnodepth.txt
+C:\Windows\servicing\LCU\Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.1706.1.7\amd64_ppi-ppiskype-c-a_31bf3856ad364e35_10.0.19041.662_none_4fe74cf432204574\r\cnnmodel.txt
+C:\Windows\servicing\LCU\Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.1706.1.7\amd64_windows-defender-service_31bf3856ad364e35_10.0.19041.746_none_a39f6d9ab59bd8b7\f\thirdpartynotices.txt
+C:\Windows\servicing\LCU\Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.1706.1.7\amd64_windows-defender-service_31bf3856ad364e35_10.0.19041.746_none_a39f6d9ab59bd8b7\r\thirdpartynotices.txt
+C:\Windows\servicing\LCU\Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.1706.1.7\amd64_windows-shield-provider_31bf3856ad364e35_10.0.19041.1566_none_1a9b268f82a49314\n\thirdpartynoticesbyshs.txt
+C:\Windows\servicing\LCU\Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.1706.1.7\wow64_microsoft-windows-mccs-syncutil_31bf3856ad364e35_10.0.19041.746_none_aed5253f365b5b9c\f\livedomainlist.txt
+C:\Windows\servicing\LCU\Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.1706.1.7\wow64_microsoft-windows-mccs-syncutil_31bf3856ad364e35_10.0.19041.746_none_aed5253f365b5b9c\r\livedomainlist.txt
+C:\Windows\servicing\LCU\Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.1706.1.7\wow64_microsoft-windows-windowscodecraw_31bf3856ad364e35_10.0.19041.1165_none_141ad63ca146667d\f\windowscodecsraw.txt
+C:\Windows\servicing\LCU\Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.1706.1.7\wow64_microsoft-windows-windowscodecraw_31bf3856ad364e35_10.0.19041.1165_none_141ad63ca146667d\r\windowscodecsraw.txt
+C:\Windows\servicing\LCU\Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.1766.1.9\amd64_hyperv-containerlicense_31bf3856ad364e35_10.0.19041.867_none_3390e1c6cd2a2b47\n\license.txt
+C:\Windows\servicing\LCU\Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.1766.1.9\amd64_microsoft-windows-i..dsetup-media-compat_31bf3856ad364e35_10.0.19041.1503_none_98d7ab48791ac400\f\hwcompat.txt
+C:\Windows\servicing\LCU\Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.1766.1.9\amd64_microsoft-windows-i..dsetup-media-compat_31bf3856ad364e35_10.0.19041.1503_none_98d7ab48791ac400\r\hwcompat.txt
+C:\Windows\servicing\LCU\Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.1766.1.9\amd64_microsoft-windows-i..dsetup-rejuvenation_31bf3856ad364e35_10.0.19041.1741_none_c72754dcc616cce1\f\hwcompat.txt
+C:\Windows\servicing\LCU\Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.1766.1.9\amd64_microsoft-windows-i..dsetup-rejuvenation_31bf3856ad364e35_10.0.19041.1741_none_c72754dcc616cce1\f\hwexclude.txt
+C:\Windows\servicing\LCU\Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.1766.1.9\amd64_microsoft-windows-i..dsetup-rejuvenation_31bf3856ad364e35_10.0.19041.1741_none_c72754dcc616cce1\r\hwcompat.txt
+C:\Windows\servicing\LCU\Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.1766.1.9\amd64_microsoft-windows-i..dsetup-rejuvenation_31bf3856ad364e35_10.0.19041.1741_none_c72754dcc616cce1\r\hwexclude.txt
+C:\Windows\servicing\LCU\Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.1766.1.9\amd64_microsoft-windows-i..sedsetup-media-base_31bf3856ad364e35_10.0.19041.1415_none_0b068a51de47748d\f\idwbinfo.txt
+C:\Windows\servicing\LCU\Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.1766.1.9\amd64_microsoft-windows-i..sedsetup-media-base_31bf3856ad364e35_10.0.19041.1415_none_0b068a51de47748d\r\idwbinfo.txt
+C:\Windows\servicing\LCU\Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.1766.1.9\amd64_microsoft-windows-mccs-syncutil_31bf3856ad364e35_10.0.19041.746_none_a4807aed01fa99a1\f\livedomainlist.txt
+C:\Windows\servicing\LCU\Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.1766.1.9\amd64_microsoft-windows-mccs-syncutil_31bf3856ad364e35_10.0.19041.746_none_a4807aed01fa99a1\r\livedomainlist.txt
+C:\Windows\servicing\LCU\Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.1766.1.9\amd64_microsoft-windows-s..e.desktop.searchapp_31bf3856ad364e35_10.0.19041.1741_none_029bc7084c8bb0af\f\26.txt
+C:\Windows\servicing\LCU\Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.1766.1.9\amd64_microsoft-windows-s..e.desktop.searchapp_31bf3856ad364e35_10.0.19041.1741_none_029bc7084c8bb0af\f\5.txt
+C:\Windows\servicing\LCU\Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.1766.1.9\amd64_microsoft-windows-s..e.desktop.searchapp_31bf3856ad364e35_10.0.19041.1741_none_029bc7084c8bb0af\f\8.txt
+C:\Windows\servicing\LCU\Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.1766.1.9\amd64_microsoft-windows-s..e.desktop.searchapp_31bf3856ad364e35_10.0.19041.1741_none_029bc7084c8bb0af\r\26.txt
+C:\Windows\servicing\LCU\Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.1766.1.9\amd64_microsoft-windows-s..e.desktop.searchapp_31bf3856ad364e35_10.0.19041.1741_none_029bc7084c8bb0af\r\5.txt
+C:\Windows\servicing\LCU\Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.1766.1.9\amd64_microsoft-windows-s..e.desktop.searchapp_31bf3856ad364e35_10.0.19041.1741_none_029bc7084c8bb0af\r\8.txt
+C:\Windows\servicing\LCU\Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.1766.1.9\amd64_microsoft-windows-windowscodecraw_31bf3856ad364e35_10.0.19041.1165_none_09c62bea6ce5a482\f\windowscodecsraw.txt
+C:\Windows\servicing\LCU\Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.1766.1.9\amd64_microsoft-windows-windowscodecraw_31bf3856ad364e35_10.0.19041.1165_none_09c62bea6ce5a482\r\windowscodecsraw.txt
+C:\Windows\servicing\LCU\Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.1766.1.9\amd64_ppi-ppiskype-c-a_31bf3856ad364e35_10.0.19041.662_none_4fe74cf432204574\f\asdclassifiermodel.txt
+C:\Windows\servicing\LCU\Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.1766.1.9\amd64_ppi-ppiskype-c-a_31bf3856ad364e35_10.0.19041.662_none_4fe74cf432204574\f\asdclassifiermodelnodepth.txt
+C:\Windows\servicing\LCU\Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.1766.1.9\amd64_ppi-ppiskype-c-a_31bf3856ad364e35_10.0.19041.662_none_4fe74cf432204574\f\cnnmodel.txt
+C:\Windows\servicing\LCU\Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.1766.1.9\amd64_ppi-ppiskype-c-a_31bf3856ad364e35_10.0.19041.662_none_4fe74cf432204574\r\asdclassifiermodel.txt
+C:\Windows\servicing\LCU\Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.1766.1.9\amd64_ppi-ppiskype-c-a_31bf3856ad364e35_10.0.19041.662_none_4fe74cf432204574\r\asdclassifiermodelnodepth.txt
+C:\Windows\servicing\LCU\Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.1766.1.9\amd64_ppi-ppiskype-c-a_31bf3856ad364e35_10.0.19041.662_none_4fe74cf432204574\r\cnnmodel.txt
+C:\Windows\servicing\LCU\Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.1766.1.9\amd64_windows-defender-service_31bf3856ad364e35_10.0.19041.746_none_a39f6d9ab59bd8b7\f\thirdpartynotices.txt
+C:\Windows\servicing\LCU\Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.1766.1.9\amd64_windows-defender-service_31bf3856ad364e35_10.0.19041.746_none_a39f6d9ab59bd8b7\r\thirdpartynotices.txt
+C:\Windows\servicing\LCU\Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.1766.1.9\amd64_windows-shield-provider_31bf3856ad364e35_10.0.19041.1741_none_1a83f80b82b61823\n\thirdpartynoticesbyshs.txt
+C:\Windows\servicing\LCU\Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.1766.1.9\wow64_microsoft-windows-mccs-syncutil_31bf3856ad364e35_10.0.19041.746_none_aed5253f365b5b9c\f\livedomainlist.txt
+C:\Windows\servicing\LCU\Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.1766.1.9\wow64_microsoft-windows-mccs-syncutil_31bf3856ad364e35_10.0.19041.746_none_aed5253f365b5b9c\r\livedomainlist.txt
+C:\Windows\servicing\LCU\Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.1766.1.9\wow64_microsoft-windows-windowscodecraw_31bf3856ad364e35_10.0.19041.1165_none_141ad63ca146667d\f\windowscodecsraw.txt
+C:\Windows\servicing\LCU\Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.1766.1.9\wow64_microsoft-windows-windowscodecraw_31bf3856ad364e35_10.0.19041.1165_none_141ad63ca146667d\r\windowscodecsraw.txt
+C:\Windows\System32\catroot2\dberr.txt
+C:\Windows\System32\drivers\gmreadme.txt
+C:\Windows\System32\DriverStore\FileRepository\igdlh64.inf_amd64_4d49b7955413e4af\ocl_cpu_llvm_release_license.txt
+C:\Windows\System32\DriverStore\FileRepository\igdlh64.inf_amd64_4d49b7955413e4af\ocl_cpu_readme.txt
+C:\Windows\System32\DriverStore\FileRepository\igdlh64.inf_amd64_a5d85065f779be60\ocl_cpu_llvm_release_license.txt
+C:\Windows\System32\DriverStore\FileRepository\igdlh64.inf_amd64_a5d85065f779be60\ocl_cpu_readme.txt
+C:\Windows\System32\MailContactsCalendarSync\LiveDomainList.txt
+C:\Windows\System32\restore\MachineGuid.txt
+C:\Windows\System32\ThirdPartyNoticesBySHS.txt
+C:\Windows\System32\WindowsCodecsRaw.txt
+C:\Windows\SystemApps\Microsoft.Windows.Search_cw5n1h2txyewy\cache\Desktop\1.txt
+C:\Windows\SystemApps\Microsoft.Windows.Search_cw5n1h2txyewy\cache\Desktop\10.txt
+C:\Windows\SystemApps\Microsoft.Windows.Search_cw5n1h2txyewy\cache\Desktop\11.txt
+C:\Windows\SystemApps\Microsoft.Windows.Search_cw5n1h2txyewy\cache\Desktop\12.txt
+C:\Windows\SystemApps\Microsoft.Windows.Search_cw5n1h2txyewy\cache\Desktop\13.txt
+C:\Windows\SystemApps\Microsoft.Windows.Search_cw5n1h2txyewy\cache\Desktop\14.txt
+C:\Windows\SystemApps\Microsoft.Windows.Search_cw5n1h2txyewy\cache\Desktop\15.txt
+C:\Windows\SystemApps\Microsoft.Windows.Search_cw5n1h2txyewy\cache\Desktop\16.txt
+C:\Windows\SystemApps\Microsoft.Windows.Search_cw5n1h2txyewy\cache\Desktop\17.txt
+C:\Windows\SystemApps\Microsoft.Windows.Search_cw5n1h2txyewy\cache\Desktop\18.txt
+C:\Windows\SystemApps\Microsoft.Windows.Search_cw5n1h2txyewy\cache\Desktop\19.txt
+C:\Windows\SystemApps\Microsoft.Windows.Search_cw5n1h2txyewy\cache\Desktop\2.txt
+C:\Windows\SystemApps\Microsoft.Windows.Search_cw5n1h2txyewy\cache\Desktop\20.txt
+C:\Windows\SystemApps\Microsoft.Windows.Search_cw5n1h2txyewy\cache\Desktop\21.txt
+C:\Windows\SystemApps\Microsoft.Windows.Search_cw5n1h2txyewy\cache\Desktop\22.txt
+C:\Windows\SystemApps\Microsoft.Windows.Search_cw5n1h2txyewy\cache\Desktop\23.txt
+C:\Windows\SystemApps\Microsoft.Windows.Search_cw5n1h2txyewy\cache\Desktop\24.txt
+C:\Windows\SystemApps\Microsoft.Windows.Search_cw5n1h2txyewy\cache\Desktop\25.txt
+C:\Windows\SystemApps\Microsoft.Windows.Search_cw5n1h2txyewy\cache\Desktop\26.txt
+C:\Windows\SystemApps\Microsoft.Windows.Search_cw5n1h2txyewy\cache\Desktop\27.txt
+C:\Windows\SystemApps\Microsoft.Windows.Search_cw5n1h2txyewy\cache\Desktop\28.txt
+C:\Windows\SystemApps\Microsoft.Windows.Search_cw5n1h2txyewy\cache\Desktop\29.txt
+C:\Windows\SystemApps\Microsoft.Windows.Search_cw5n1h2txyewy\cache\Desktop\3.txt
+C:\Windows\SystemApps\Microsoft.Windows.Search_cw5n1h2txyewy\cache\Desktop\4.txt
+C:\Windows\SystemApps\Microsoft.Windows.Search_cw5n1h2txyewy\cache\Desktop\5.txt
+C:\Windows\SystemApps\Microsoft.Windows.Search_cw5n1h2txyewy\cache\Desktop\6.txt
+C:\Windows\SystemApps\Microsoft.Windows.Search_cw5n1h2txyewy\cache\Desktop\7.txt
+C:\Windows\SystemApps\Microsoft.Windows.Search_cw5n1h2txyewy\cache\Desktop\8.txt
+C:\Windows\SystemApps\Microsoft.Windows.Search_cw5n1h2txyewy\cache\Desktop\9.txt
+C:\Windows\SysWOW64\drivers\gmreadme.txt
+C:\Windows\SysWOW64\MailContactsCalendarSync\LiveDomainList.txt
+C:\Windows\SysWOW64\WindowsCodecsRaw.txt
+C:\Windows\WinSxS\amd64_hyperv-containerlicense_31bf3856ad364e35_10.0.19041.867_none_3390e1c6cd2a2b47\License.txt
+C:\Windows\WinSxS\amd64_microsoft-windows-mccs-syncutil_31bf3856ad364e35_10.0.19041.746_none_a4807aed01fa99a1\LiveDomainList.txt
+C:\Windows\WinSxS\amd64_microsoft-windows-s..e.desktop.searchapp_31bf3856ad364e35_10.0.19041.1620_none_02a4ad284c85486f\1.txt
+C:\Windows\WinSxS\amd64_microsoft-windows-s..e.desktop.searchapp_31bf3856ad364e35_10.0.19041.1620_none_02a4ad284c85486f\10.txt
+C:\Windows\WinSxS\amd64_microsoft-windows-s..e.desktop.searchapp_31bf3856ad364e35_10.0.19041.1620_none_02a4ad284c85486f\11.txt
+C:\Windows\WinSxS\amd64_microsoft-windows-s..e.desktop.searchapp_31bf3856ad364e35_10.0.19041.1620_none_02a4ad284c85486f\12.txt
+C:\Windows\WinSxS\amd64_microsoft-windows-s..e.desktop.searchapp_31bf3856ad364e35_10.0.19041.1620_none_02a4ad284c85486f\13.txt
+C:\Windows\WinSxS\amd64_microsoft-windows-s..e.desktop.searchapp_31bf3856ad364e35_10.0.19041.1620_none_02a4ad284c85486f\14.txt
+C:\Windows\WinSxS\amd64_microsoft-windows-s..e.desktop.searchapp_31bf3856ad364e35_10.0.19041.1620_none_02a4ad284c85486f\15.txt
+C:\Windows\WinSxS\amd64_microsoft-windows-s..e.desktop.searchapp_31bf3856ad364e35_10.0.19041.1620_none_02a4ad284c85486f\16.txt
+C:\Windows\WinSxS\amd64_microsoft-windows-s..e.desktop.searchapp_31bf3856ad364e35_10.0.19041.1620_none_02a4ad284c85486f\17.txt
+C:\Windows\WinSxS\amd64_microsoft-windows-s..e.desktop.searchapp_31bf3856ad364e35_10.0.19041.1620_none_02a4ad284c85486f\18.txt
+C:\Windows\WinSxS\amd64_microsoft-windows-s..e.desktop.searchapp_31bf3856ad364e35_10.0.19041.1620_none_02a4ad284c85486f\19.txt
+C:\Windows\WinSxS\amd64_microsoft-windows-s..e.desktop.searchapp_31bf3856ad364e35_10.0.19041.1620_none_02a4ad284c85486f\2.txt
+C:\Windows\WinSxS\amd64_microsoft-windows-s..e.desktop.searchapp_31bf3856ad364e35_10.0.19041.1620_none_02a4ad284c85486f\20.txt
+C:\Windows\WinSxS\amd64_microsoft-windows-s..e.desktop.searchapp_31bf3856ad364e35_10.0.19041.1620_none_02a4ad284c85486f\21.txt
+C:\Windows\WinSxS\amd64_microsoft-windows-s..e.desktop.searchapp_31bf3856ad364e35_10.0.19041.1620_none_02a4ad284c85486f\22.txt
+C:\Windows\WinSxS\amd64_microsoft-windows-s..e.desktop.searchapp_31bf3856ad364e35_10.0.19041.1620_none_02a4ad284c85486f\23.txt
+C:\Windows\WinSxS\amd64_microsoft-windows-s..e.desktop.searchapp_31bf3856ad364e35_10.0.19041.1620_none_02a4ad284c85486f\24.txt
+C:\Windows\WinSxS\amd64_microsoft-windows-s..e.desktop.searchapp_31bf3856ad364e35_10.0.19041.1620_none_02a4ad284c85486f\25.txt
+C:\Windows\WinSxS\amd64_microsoft-windows-s..e.desktop.searchapp_31bf3856ad364e35_10.0.19041.1620_none_02a4ad284c85486f\26.txt
+C:\Windows\WinSxS\amd64_microsoft-windows-s..e.desktop.searchapp_31bf3856ad364e35_10.0.19041.1620_none_02a4ad284c85486f\27.txt
+C:\Windows\WinSxS\amd64_microsoft-windows-s..e.desktop.searchapp_31bf3856ad364e35_10.0.19041.1620_none_02a4ad284c85486f\28.txt
+C:\Windows\WinSxS\amd64_microsoft-windows-s..e.desktop.searchapp_31bf3856ad364e35_10.0.19041.1620_none_02a4ad284c85486f\29.txt
+C:\Windows\WinSxS\amd64_microsoft-windows-s..e.desktop.searchapp_31bf3856ad364e35_10.0.19041.1620_none_02a4ad284c85486f\3.txt
+C:\Windows\WinSxS\amd64_microsoft-windows-s..e.desktop.searchapp_31bf3856ad364e35_10.0.19041.1620_none_02a4ad284c85486f\4.txt
+C:\Windows\WinSxS\amd64_microsoft-windows-s..e.desktop.searchapp_31bf3856ad364e35_10.0.19041.1620_none_02a4ad284c85486f\5.txt
+C:\Windows\WinSxS\amd64_microsoft-windows-s..e.desktop.searchapp_31bf3856ad364e35_10.0.19041.1620_none_02a4ad284c85486f\6.txt
+C:\Windows\WinSxS\amd64_microsoft-windows-s..e.desktop.searchapp_31bf3856ad364e35_10.0.19041.1620_none_02a4ad284c85486f\7.txt
+C:\Windows\WinSxS\amd64_microsoft-windows-s..e.desktop.searchapp_31bf3856ad364e35_10.0.19041.1620_none_02a4ad284c85486f\8.txt
+C:\Windows\WinSxS\amd64_microsoft-windows-s..e.desktop.searchapp_31bf3856ad364e35_10.0.19041.1620_none_02a4ad284c85486f\9.txt
+C:\Windows\WinSxS\amd64_microsoft-windows-s..e.desktop.searchapp_31bf3856ad364e35_10.0.19041.1620_none_02a4ad284c85486f\f\1.txt
+C:\Windows\WinSxS\amd64_microsoft-windows-s..e.desktop.searchapp_31bf3856ad364e35_10.0.19041.1620_none_02a4ad284c85486f\f\10.txt
+C:\Windows\WinSxS\amd64_microsoft-windows-s..e.desktop.searchapp_31bf3856ad364e35_10.0.19041.1620_none_02a4ad284c85486f\f\11.txt
+C:\Windows\WinSxS\amd64_microsoft-windows-s..e.desktop.searchapp_31bf3856ad364e35_10.0.19041.1620_none_02a4ad284c85486f\f\12.txt
+C:\Windows\WinSxS\amd64_microsoft-windows-s..e.desktop.searchapp_31bf3856ad364e35_10.0.19041.1620_none_02a4ad284c85486f\f\13.txt
+C:\Windows\WinSxS\amd64_microsoft-windows-s..e.desktop.searchapp_31bf3856ad364e35_10.0.19041.1620_none_02a4ad284c85486f\f\14.txt
+C:\Windows\WinSxS\amd64_microsoft-windows-s..e.desktop.searchapp_31bf3856ad364e35_10.0.19041.1620_none_02a4ad284c85486f\f\15.txt
+C:\Windows\WinSxS\amd64_microsoft-windows-s..e.desktop.searchapp_31bf3856ad364e35_10.0.19041.1620_none_02a4ad284c85486f\f\16.txt
+C:\Windows\WinSxS\amd64_microsoft-windows-s..e.desktop.searchapp_31bf3856ad364e35_10.0.19041.1620_none_02a4ad284c85486f\f\17.txt
+C:\Windows\WinSxS\amd64_microsoft-windows-s..e.desktop.searchapp_31bf3856ad364e35_10.0.19041.1620_none_02a4ad284c85486f\f\18.txt
+C:\Windows\WinSxS\amd64_microsoft-windows-s..e.desktop.searchapp_31bf3856ad364e35_10.0.19041.1620_none_02a4ad284c85486f\f\19.txt
+C:\Windows\WinSxS\amd64_microsoft-windows-s..e.desktop.searchapp_31bf3856ad364e35_10.0.19041.1620_none_02a4ad284c85486f\f\2.txt
+C:\Windows\WinSxS\amd64_microsoft-windows-s..e.desktop.searchapp_31bf3856ad364e35_10.0.19041.1620_none_02a4ad284c85486f\f\20.txt
+C:\Windows\WinSxS\amd64_microsoft-windows-s..e.desktop.searchapp_31bf3856ad364e35_10.0.19041.1620_none_02a4ad284c85486f\f\21.txt
+C:\Windows\WinSxS\amd64_microsoft-windows-s..e.desktop.searchapp_31bf3856ad364e35_10.0.19041.1620_none_02a4ad284c85486f\f\22.txt
+C:\Windows\WinSxS\amd64_microsoft-windows-s..e.desktop.searchapp_31bf3856ad364e35_10.0.19041.1620_none_02a4ad284c85486f\f\23.txt
+C:\Windows\WinSxS\amd64_microsoft-windows-s..e.desktop.searchapp_31bf3856ad364e35_10.0.19041.1620_none_02a4ad284c85486f\f\24.txt
+C:\Windows\WinSxS\amd64_microsoft-windows-s..e.desktop.searchapp_31bf3856ad364e35_10.0.19041.1620_none_02a4ad284c85486f\f\25.txt
+C:\Windows\WinSxS\amd64_microsoft-windows-s..e.desktop.searchapp_31bf3856ad364e35_10.0.19041.1620_none_02a4ad284c85486f\f\26.txt
+C:\Windows\WinSxS\amd64_microsoft-windows-s..e.desktop.searchapp_31bf3856ad364e35_10.0.19041.1620_none_02a4ad284c85486f\f\3.txt
+C:\Windows\WinSxS\amd64_microsoft-windows-s..e.desktop.searchapp_31bf3856ad364e35_10.0.19041.1620_none_02a4ad284c85486f\f\4.txt
+C:\Windows\WinSxS\amd64_microsoft-windows-s..e.desktop.searchapp_31bf3856ad364e35_10.0.19041.1620_none_02a4ad284c85486f\f\5.txt
+C:\Windows\WinSxS\amd64_microsoft-windows-s..e.desktop.searchapp_31bf3856ad364e35_10.0.19041.1620_none_02a4ad284c85486f\f\6.txt
+C:\Windows\WinSxS\amd64_microsoft-windows-s..e.desktop.searchapp_31bf3856ad364e35_10.0.19041.1620_none_02a4ad284c85486f\f\7.txt
+C:\Windows\WinSxS\amd64_microsoft-windows-s..e.desktop.searchapp_31bf3856ad364e35_10.0.19041.1620_none_02a4ad284c85486f\f\8.txt
+C:\Windows\WinSxS\amd64_microsoft-windows-s..e.desktop.searchapp_31bf3856ad364e35_10.0.19041.1620_none_02a4ad284c85486f\f\9.txt
+C:\Windows\WinSxS\amd64_microsoft-windows-s..e.desktop.searchapp_31bf3856ad364e35_10.0.19041.1620_none_02a4ad284c85486f\r\1.txt
+C:\Windows\WinSxS\amd64_microsoft-windows-s..e.desktop.searchapp_31bf3856ad364e35_10.0.19041.1620_none_02a4ad284c85486f\r\10.txt
+C:\Windows\WinSxS\amd64_microsoft-windows-s..e.desktop.searchapp_31bf3856ad364e35_10.0.19041.1620_none_02a4ad284c85486f\r\11.txt
+C:\Windows\WinSxS\amd64_microsoft-windows-s..e.desktop.searchapp_31bf3856ad364e35_10.0.19041.1620_none_02a4ad284c85486f\r\12.txt
+C:\Windows\WinSxS\amd64_microsoft-windows-s..e.desktop.searchapp_31bf3856ad364e35_10.0.19041.1620_none_02a4ad284c85486f\r\13.txt
+C:\Windows\WinSxS\amd64_microsoft-windows-s..e.desktop.searchapp_31bf3856ad364e35_10.0.19041.1620_none_02a4ad284c85486f\r\14.txt
+C:\Windows\WinSxS\amd64_microsoft-windows-s..e.desktop.searchapp_31bf3856ad364e35_10.0.19041.1620_none_02a4ad284c85486f\r\15.txt
+C:\Windows\WinSxS\amd64_microsoft-windows-s..e.desktop.searchapp_31bf3856ad364e35_10.0.19041.1620_none_02a4ad284c85486f\r\16.txt
+C:\Windows\WinSxS\amd64_microsoft-windows-s..e.desktop.searchapp_31bf3856ad364e35_10.0.19041.1620_none_02a4ad284c85486f\r\17.txt
+C:\Windows\WinSxS\amd64_microsoft-windows-s..e.desktop.searchapp_31bf3856ad364e35_10.0.19041.1620_none_02a4ad284c85486f\r\18.txt
+C:\Windows\WinSxS\amd64_microsoft-windows-s..e.desktop.searchapp_31bf3856ad364e35_10.0.19041.1620_none_02a4ad284c85486f\r\19.txt
+C:\Windows\WinSxS\amd64_microsoft-windows-s..e.desktop.searchapp_31bf3856ad364e35_10.0.19041.1620_none_02a4ad284c85486f\r\2.txt
+C:\Windows\WinSxS\amd64_microsoft-windows-s..e.desktop.searchapp_31bf3856ad364e35_10.0.19041.1620_none_02a4ad284c85486f\r\20.txt
+C:\Windows\WinSxS\amd64_microsoft-windows-s..e.desktop.searchapp_31bf3856ad364e35_10.0.19041.1620_none_02a4ad284c85486f\r\21.txt
+C:\Windows\WinSxS\amd64_microsoft-windows-s..e.desktop.searchapp_31bf3856ad364e35_10.0.19041.1620_none_02a4ad284c85486f\r\22.txt
+C:\Windows\WinSxS\amd64_microsoft-windows-s..e.desktop.searchapp_31bf3856ad364e35_10.0.19041.1620_none_02a4ad284c85486f\r\23.txt
+C:\Windows\WinSxS\amd64_microsoft-windows-s..e.desktop.searchapp_31bf3856ad364e35_10.0.19041.1620_none_02a4ad284c85486f\r\24.txt
+C:\Windows\WinSxS\amd64_microsoft-windows-s..e.desktop.searchapp_31bf3856ad364e35_10.0.19041.1620_none_02a4ad284c85486f\r\25.txt
+C:\Windows\WinSxS\amd64_microsoft-windows-s..e.desktop.searchapp_31bf3856ad364e35_10.0.19041.1620_none_02a4ad284c85486f\r\26.txt
+C:\Windows\WinSxS\amd64_microsoft-windows-s..e.desktop.searchapp_31bf3856ad364e35_10.0.19041.1620_none_02a4ad284c85486f\r\3.txt
+C:\Windows\WinSxS\amd64_microsoft-windows-s..e.desktop.searchapp_31bf3856ad364e35_10.0.19041.1620_none_02a4ad284c85486f\r\4.txt
+C:\Windows\WinSxS\amd64_microsoft-windows-s..e.desktop.searchapp_31bf3856ad364e35_10.0.19041.1620_none_02a4ad284c85486f\r\5.txt
+C:\Windows\WinSxS\amd64_microsoft-windows-s..e.desktop.searchapp_31bf3856ad364e35_10.0.19041.1620_none_02a4ad284c85486f\r\6.txt
+C:\Windows\WinSxS\amd64_microsoft-windows-s..e.desktop.searchapp_31bf3856ad364e35_10.0.19041.1620_none_02a4ad284c85486f\r\7.txt
+C:\Windows\WinSxS\amd64_microsoft-windows-s..e.desktop.searchapp_31bf3856ad364e35_10.0.19041.1620_none_02a4ad284c85486f\r\8.txt
+C:\Windows\WinSxS\amd64_microsoft-windows-s..e.desktop.searchapp_31bf3856ad364e35_10.0.19041.1620_none_02a4ad284c85486f\r\9.txt
+C:\Windows\WinSxS\amd64_microsoft-windows-s..e.desktop.searchapp_31bf3856ad364e35_10.0.19041.1741_none_029bc7084c8bb0af\1.txt
+C:\Windows\WinSxS\amd64_microsoft-windows-s..e.desktop.searchapp_31bf3856ad364e35_10.0.19041.1741_none_029bc7084c8bb0af\10.txt
+C:\Windows\WinSxS\amd64_microsoft-windows-s..e.desktop.searchapp_31bf3856ad364e35_10.0.19041.1741_none_029bc7084c8bb0af\11.txt
+C:\Windows\WinSxS\amd64_microsoft-windows-s..e.desktop.searchapp_31bf3856ad364e35_10.0.19041.1741_none_029bc7084c8bb0af\12.txt
+C:\Windows\WinSxS\amd64_microsoft-windows-s..e.desktop.searchapp_31bf3856ad364e35_10.0.19041.1741_none_029bc7084c8bb0af\13.txt
+C:\Windows\WinSxS\amd64_microsoft-windows-s..e.desktop.searchapp_31bf3856ad364e35_10.0.19041.1741_none_029bc7084c8bb0af\14.txt
+C:\Windows\WinSxS\amd64_microsoft-windows-s..e.desktop.searchapp_31bf3856ad364e35_10.0.19041.1741_none_029bc7084c8bb0af\15.txt
+C:\Windows\WinSxS\amd64_microsoft-windows-s..e.desktop.searchapp_31bf3856ad364e35_10.0.19041.1741_none_029bc7084c8bb0af\16.txt
+C:\Windows\WinSxS\amd64_microsoft-windows-s..e.desktop.searchapp_31bf3856ad364e35_10.0.19041.1741_none_029bc7084c8bb0af\17.txt
+C:\Windows\WinSxS\amd64_microsoft-windows-s..e.desktop.searchapp_31bf3856ad364e35_10.0.19041.1741_none_029bc7084c8bb0af\18.txt
+C:\Windows\WinSxS\amd64_microsoft-windows-s..e.desktop.searchapp_31bf3856ad364e35_10.0.19041.1741_none_029bc7084c8bb0af\19.txt
+C:\Windows\WinSxS\amd64_microsoft-windows-s..e.desktop.searchapp_31bf3856ad364e35_10.0.19041.1741_none_029bc7084c8bb0af\2.txt
+C:\Windows\WinSxS\amd64_microsoft-windows-s..e.desktop.searchapp_31bf3856ad364e35_10.0.19041.1741_none_029bc7084c8bb0af\20.txt
+C:\Windows\WinSxS\amd64_microsoft-windows-s..e.desktop.searchapp_31bf3856ad364e35_10.0.19041.1741_none_029bc7084c8bb0af\21.txt
+C:\Windows\WinSxS\amd64_microsoft-windows-s..e.desktop.searchapp_31bf3856ad364e35_10.0.19041.1741_none_029bc7084c8bb0af\22.txt
+C:\Windows\WinSxS\amd64_microsoft-windows-s..e.desktop.searchapp_31bf3856ad364e35_10.0.19041.1741_none_029bc7084c8bb0af\23.txt
+C:\Windows\WinSxS\amd64_microsoft-windows-s..e.desktop.searchapp_31bf3856ad364e35_10.0.19041.1741_none_029bc7084c8bb0af\24.txt
+C:\Windows\WinSxS\amd64_microsoft-windows-s..e.desktop.searchapp_31bf3856ad364e35_10.0.19041.1741_none_029bc7084c8bb0af\25.txt
+C:\Windows\WinSxS\amd64_microsoft-windows-s..e.desktop.searchapp_31bf3856ad364e35_10.0.19041.1741_none_029bc7084c8bb0af\26.txt
+C:\Windows\WinSxS\amd64_microsoft-windows-s..e.desktop.searchapp_31bf3856ad364e35_10.0.19041.1741_none_029bc7084c8bb0af\27.txt
+C:\Windows\WinSxS\amd64_microsoft-windows-s..e.desktop.searchapp_31bf3856ad364e35_10.0.19041.1741_none_029bc7084c8bb0af\28.txt
+C:\Windows\WinSxS\amd64_microsoft-windows-s..e.desktop.searchapp_31bf3856ad364e35_10.0.19041.1741_none_029bc7084c8bb0af\29.txt
+C:\Windows\WinSxS\amd64_microsoft-windows-s..e.desktop.searchapp_31bf3856ad364e35_10.0.19041.1741_none_029bc7084c8bb0af\3.txt
+C:\Windows\WinSxS\amd64_microsoft-windows-s..e.desktop.searchapp_31bf3856ad364e35_10.0.19041.1741_none_029bc7084c8bb0af\4.txt
+C:\Windows\WinSxS\amd64_microsoft-windows-s..e.desktop.searchapp_31bf3856ad364e35_10.0.19041.1741_none_029bc7084c8bb0af\5.txt
+C:\Windows\WinSxS\amd64_microsoft-windows-s..e.desktop.searchapp_31bf3856ad364e35_10.0.19041.1741_none_029bc7084c8bb0af\6.txt
+C:\Windows\WinSxS\amd64_microsoft-windows-s..e.desktop.searchapp_31bf3856ad364e35_10.0.19041.1741_none_029bc7084c8bb0af\7.txt
+C:\Windows\WinSxS\amd64_microsoft-windows-s..e.desktop.searchapp_31bf3856ad364e35_10.0.19041.1741_none_029bc7084c8bb0af\8.txt
+C:\Windows\WinSxS\amd64_microsoft-windows-s..e.desktop.searchapp_31bf3856ad364e35_10.0.19041.1741_none_029bc7084c8bb0af\9.txt
+C:\Windows\WinSxS\amd64_microsoft-windows-s..e.desktop.searchapp_31bf3856ad364e35_10.0.19041.1741_none_029bc7084c8bb0af\f\1.txt
+C:\Windows\WinSxS\amd64_microsoft-windows-s..e.desktop.searchapp_31bf3856ad364e35_10.0.19041.1741_none_029bc7084c8bb0af\f\10.txt
+C:\Windows\WinSxS\amd64_microsoft-windows-s..e.desktop.searchapp_31bf3856ad364e35_10.0.19041.1741_none_029bc7084c8bb0af\f\11.txt
+C:\Windows\WinSxS\amd64_microsoft-windows-s..e.desktop.searchapp_31bf3856ad364e35_10.0.19041.1741_none_029bc7084c8bb0af\f\12.txt
+C:\Windows\WinSxS\amd64_microsoft-windows-s..e.desktop.searchapp_31bf3856ad364e35_10.0.19041.1741_none_029bc7084c8bb0af\f\13.txt
+C:\Windows\WinSxS\amd64_microsoft-windows-s..e.desktop.searchapp_31bf3856ad364e35_10.0.19041.1741_none_029bc7084c8bb0af\f\14.txt
+C:\Windows\WinSxS\amd64_microsoft-windows-s..e.desktop.searchapp_31bf3856ad364e35_10.0.19041.1741_none_029bc7084c8bb0af\f\15.txt
+C:\Windows\WinSxS\amd64_microsoft-windows-s..e.desktop.searchapp_31bf3856ad364e35_10.0.19041.1741_none_029bc7084c8bb0af\f\16.txt
+C:\Windows\WinSxS\amd64_microsoft-windows-s..e.desktop.searchapp_31bf3856ad364e35_10.0.19041.1741_none_029bc7084c8bb0af\f\17.txt
+C:\Windows\WinSxS\amd64_microsoft-windows-s..e.desktop.searchapp_31bf3856ad364e35_10.0.19041.1741_none_029bc7084c8bb0af\f\18.txt
+C:\Windows\WinSxS\amd64_microsoft-windows-s..e.desktop.searchapp_31bf3856ad364e35_10.0.19041.1741_none_029bc7084c8bb0af\f\19.txt
+C:\Windows\WinSxS\amd64_microsoft-windows-s..e.desktop.searchapp_31bf3856ad364e35_10.0.19041.1741_none_029bc7084c8bb0af\f\2.txt
+C:\Windows\WinSxS\amd64_microsoft-windows-s..e.desktop.searchapp_31bf3856ad364e35_10.0.19041.1741_none_029bc7084c8bb0af\f\20.txt
+C:\Windows\WinSxS\amd64_microsoft-windows-s..e.desktop.searchapp_31bf3856ad364e35_10.0.19041.1741_none_029bc7084c8bb0af\f\21.txt
+C:\Windows\WinSxS\amd64_microsoft-windows-s..e.desktop.searchapp_31bf3856ad364e35_10.0.19041.1741_none_029bc7084c8bb0af\f\22.txt
+C:\Windows\WinSxS\amd64_microsoft-windows-s..e.desktop.searchapp_31bf3856ad364e35_10.0.19041.1741_none_029bc7084c8bb0af\f\23.txt
+C:\Windows\WinSxS\amd64_microsoft-windows-s..e.desktop.searchapp_31bf3856ad364e35_10.0.19041.1741_none_029bc7084c8bb0af\f\24.txt
+C:\Windows\WinSxS\amd64_microsoft-windows-s..e.desktop.searchapp_31bf3856ad364e35_10.0.19041.1741_none_029bc7084c8bb0af\f\25.txt
+C:\Windows\WinSxS\amd64_microsoft-windows-s..e.desktop.searchapp_31bf3856ad364e35_10.0.19041.1741_none_029bc7084c8bb0af\f\26.txt
+C:\Windows\WinSxS\amd64_microsoft-windows-s..e.desktop.searchapp_31bf3856ad364e35_10.0.19041.1741_none_029bc7084c8bb0af\f\3.txt
+C:\Windows\WinSxS\amd64_microsoft-windows-s..e.desktop.searchapp_31bf3856ad364e35_10.0.19041.1741_none_029bc7084c8bb0af\f\4.txt
+C:\Windows\WinSxS\amd64_microsoft-windows-s..e.desktop.searchapp_31bf3856ad364e35_10.0.19041.1741_none_029bc7084c8bb0af\f\5.txt
+C:\Windows\WinSxS\amd64_microsoft-windows-s..e.desktop.searchapp_31bf3856ad364e35_10.0.19041.1741_none_029bc7084c8bb0af\f\6.txt
+C:\Windows\WinSxS\amd64_microsoft-windows-s..e.desktop.searchapp_31bf3856ad364e35_10.0.19041.1741_none_029bc7084c8bb0af\f\7.txt
+C:\Windows\WinSxS\amd64_microsoft-windows-s..e.desktop.searchapp_31bf3856ad364e35_10.0.19041.1741_none_029bc7084c8bb0af\f\8.txt
+C:\Windows\WinSxS\amd64_microsoft-windows-s..e.desktop.searchapp_31bf3856ad364e35_10.0.19041.1741_none_029bc7084c8bb0af\f\9.txt
+C:\Windows\WinSxS\amd64_microsoft-windows-s..e.desktop.searchapp_31bf3856ad364e35_10.0.19041.1741_none_029bc7084c8bb0af\r\1.txt
+C:\Windows\WinSxS\amd64_microsoft-windows-s..e.desktop.searchapp_31bf3856ad364e35_10.0.19041.1741_none_029bc7084c8bb0af\r\10.txt
+C:\Windows\WinSxS\amd64_microsoft-windows-s..e.desktop.searchapp_31bf3856ad364e35_10.0.19041.1741_none_029bc7084c8bb0af\r\11.txt
+C:\Windows\WinSxS\amd64_microsoft-windows-s..e.desktop.searchapp_31bf3856ad364e35_10.0.19041.1741_none_029bc7084c8bb0af\r\12.txt
+C:\Windows\WinSxS\amd64_microsoft-windows-s..e.desktop.searchapp_31bf3856ad364e35_10.0.19041.1741_none_029bc7084c8bb0af\r\13.txt
+C:\Windows\WinSxS\amd64_microsoft-windows-s..e.desktop.searchapp_31bf3856ad364e35_10.0.19041.1741_none_029bc7084c8bb0af\r\14.txt
+C:\Windows\WinSxS\amd64_microsoft-windows-s..e.desktop.searchapp_31bf3856ad364e35_10.0.19041.1741_none_029bc7084c8bb0af\r\15.txt
+C:\Windows\WinSxS\amd64_microsoft-windows-s..e.desktop.searchapp_31bf3856ad364e35_10.0.19041.1741_none_029bc7084c8bb0af\r\16.txt
+C:\Windows\WinSxS\amd64_microsoft-windows-s..e.desktop.searchapp_31bf3856ad364e35_10.0.19041.1741_none_029bc7084c8bb0af\r\17.txt
+C:\Windows\WinSxS\amd64_microsoft-windows-s..e.desktop.searchapp_31bf3856ad364e35_10.0.19041.1741_none_029bc7084c8bb0af\r\18.txt
+C:\Windows\WinSxS\amd64_microsoft-windows-s..e.desktop.searchapp_31bf3856ad364e35_10.0.19041.1741_none_029bc7084c8bb0af\r\19.txt
+C:\Windows\WinSxS\amd64_microsoft-windows-s..e.desktop.searchapp_31bf3856ad364e35_10.0.19041.1741_none_029bc7084c8bb0af\r\2.txt
+C:\Windows\WinSxS\amd64_microsoft-windows-s..e.desktop.searchapp_31bf3856ad364e35_10.0.19041.1741_none_029bc7084c8bb0af\r\20.txt
+C:\Windows\WinSxS\amd64_microsoft-windows-s..e.desktop.searchapp_31bf3856ad364e35_10.0.19041.1741_none_029bc7084c8bb0af\r\21.txt
+C:\Windows\WinSxS\amd64_microsoft-windows-s..e.desktop.searchapp_31bf3856ad364e35_10.0.19041.1741_none_029bc7084c8bb0af\r\22.txt
+C:\Windows\WinSxS\amd64_microsoft-windows-s..e.desktop.searchapp_31bf3856ad364e35_10.0.19041.1741_none_029bc7084c8bb0af\r\23.txt
+C:\Windows\WinSxS\amd64_microsoft-windows-s..e.desktop.searchapp_31bf3856ad364e35_10.0.19041.1741_none_029bc7084c8bb0af\r\24.txt
+C:\Windows\WinSxS\amd64_microsoft-windows-s..e.desktop.searchapp_31bf3856ad364e35_10.0.19041.1741_none_029bc7084c8bb0af\r\25.txt
+C:\Windows\WinSxS\amd64_microsoft-windows-s..e.desktop.searchapp_31bf3856ad364e35_10.0.19041.1741_none_029bc7084c8bb0af\r\26.txt
+C:\Windows\WinSxS\amd64_microsoft-windows-s..e.desktop.searchapp_31bf3856ad364e35_10.0.19041.1741_none_029bc7084c8bb0af\r\3.txt
+C:\Windows\WinSxS\amd64_microsoft-windows-s..e.desktop.searchapp_31bf3856ad364e35_10.0.19041.1741_none_029bc7084c8bb0af\r\4.txt
+C:\Windows\WinSxS\amd64_microsoft-windows-s..e.desktop.searchapp_31bf3856ad364e35_10.0.19041.1741_none_029bc7084c8bb0af\r\5.txt
+C:\Windows\WinSxS\amd64_microsoft-windows-s..e.desktop.searchapp_31bf3856ad364e35_10.0.19041.1741_none_029bc7084c8bb0af\r\6.txt
+C:\Windows\WinSxS\amd64_microsoft-windows-s..e.desktop.searchapp_31bf3856ad364e35_10.0.19041.1741_none_029bc7084c8bb0af\r\7.txt
+C:\Windows\WinSxS\amd64_microsoft-windows-s..e.desktop.searchapp_31bf3856ad364e35_10.0.19041.1741_none_029bc7084c8bb0af\r\8.txt
+C:\Windows\WinSxS\amd64_microsoft-windows-s..e.desktop.searchapp_31bf3856ad364e35_10.0.19041.1741_none_029bc7084c8bb0af\r\9.txt
+C:\Windows\WinSxS\amd64_microsoft-windows-t..extservice-tigrinya_31bf3856ad364e35_10.0.19041.1_none_2863d34beb4a07ef\TableTextServiceTigrinya.txt
+C:\Windows\WinSxS\amd64_microsoft-windows-t..ional-chinese-array_31bf3856ad364e35_10.0.19041.1_none_1acadbc4014be947\TableTextServiceArray.txt
+C:\Windows\WinSxS\amd64_microsoft-windows-t..riventextservice-yi_31bf3856ad364e35_10.0.19041.1_none_f76e81415e04d416\TableTextServiceYi.txt
+C:\Windows\WinSxS\amd64_microsoft-windows-t..tional-chinese-dayi_31bf3856ad364e35_10.0.19041.1_none_166d1ef984f89a37\TableTextServiceDaYi.txt
+C:\Windows\WinSxS\amd64_microsoft-windows-u..userpredictionmodel_31bf3856ad364e35_10.0.19041.1_none_42c9bed4b6bd2e16\SBCModel.txt
+C:\Windows\WinSxS\amd64_microsoft-windows-windowscodecraw_31bf3856ad364e35_10.0.19041.1165_none_09c62bea6ce5a482\WindowsCodecsRaw.txt
+C:\Windows\WinSxS\amd64_multimedia-generalmididata_31bf3856ad364e35_10.0.19041.1_none_3eae594ef5c099df\gmreadme.txt
+C:\Windows\WinSxS\amd64_netfx4-attributionfile_b03f5f7f11d50a3a_4.0.15805.0_none_763fb8d053feb31c\ThirdPartyNotices.txt
+C:\Windows\WinSxS\amd64_windows-defender-service_31bf3856ad364e35_10.0.19041.746_none_a39f6d9ab59bd8b7\ThirdPartyNotices.txt
+C:\Windows\WinSxS\amd64_windows-shield-provider_31bf3856ad364e35_10.0.19041.1566_none_1a9b268f82a49314\n\ThirdPartyNoticesBySHS.txt
+C:\Windows\WinSxS\amd64_windows-shield-provider_31bf3856ad364e35_10.0.19041.1566_none_1a9b268f82a49314\ThirdPartyNoticesBySHS.txt
+C:\Windows\WinSxS\amd64_windows-shield-provider_31bf3856ad364e35_10.0.19041.1741_none_1a83f80b82b61823\n\ThirdPartyNoticesBySHS.txt
+C:\Windows\WinSxS\amd64_windows-shield-provider_31bf3856ad364e35_10.0.19041.1741_none_1a83f80b82b61823\ThirdPartyNoticesBySHS.txt
+C:\Windows\WinSxS\wow64_microsoft-windows-mccs-syncutil_31bf3856ad364e35_10.0.19041.746_none_aed5253f365b5b9c\LiveDomainList.txt
+C:\Windows\WinSxS\wow64_microsoft-windows-t..extservice-tigrinya_31bf3856ad364e35_10.0.19041.1_none_32b87d9e1faac9ea\TableTextServiceTigrinya.txt
+C:\Windows\WinSxS\wow64_microsoft-windows-t..ional-chinese-array_31bf3856ad364e35_10.0.19041.1_none_251f861635acab42\TableTextServiceArray.txt
+C:\Windows\WinSxS\wow64_microsoft-windows-t..riventextservice-yi_31bf3856ad364e35_10.0.19041.1_none_01c32b9392659611\TableTextServiceYi.txt
+C:\Windows\WinSxS\wow64_microsoft-windows-t..tional-chinese-dayi_31bf3856ad364e35_10.0.19041.1_none_20c1c94bb9595c32\TableTextServiceDaYi.txt
+C:\Windows\WinSxS\wow64_microsoft-windows-windowscodecraw_31bf3856ad364e35_10.0.19041.1165_none_141ad63ca146667d\WindowsCodecsRaw.txt
+C:\Windows\WinSxS\wow64_multimedia-generalmididata_31bf3856ad364e35_10.0.19041.1_none_490303a12a215bda\gmreadme.txt
+C:\Windows\WinSxS\x86_netfx4-attributionfile_b03f5f7f11d50a3a_4.0.15805.0_none_bdecefa7687adc22\ThirdPartyNotices.txt
