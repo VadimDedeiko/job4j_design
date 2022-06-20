@@ -6,9 +6,10 @@ public class User {
     private String name;
     private String surname;
 
-    public User(int age, String name) {
+    public User(int age, String name, String surname) {
         this.age = age;
         this.name = name;
+        this.surname = surname;
     }
 
     @Override
@@ -33,9 +34,10 @@ public class User {
     }
 
     public static void main(String[] args) {
-        User user = new User(1, "name");
-        User user2 = new User(2, "name2");
-        User user3 = new User(3, "name3");
-        System.gc();
+        while (true) {
+            User user = new User(1, "name", "surname");
+            User user2 = new User(2, "name2", "surname2");
+            User user3 = new User(3, "name3", "surname3");
+        }
     }
 }
