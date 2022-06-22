@@ -5,8 +5,7 @@ import org.junit.Ignore;
 import org.junit.Test;
 
 import java.util.HashMap;
-
-import static org.junit.Assert.*;
+import java.util.Map;
 
 public class GeneratorTest {
     @Test
@@ -14,11 +13,14 @@ public class GeneratorTest {
     public void generate() {
         Generator generator = new Generate();
         String temp = "I am a ${name}, Who are ${subject}?";
-        String result = generator.produce(temp, new HashMap<String, String>());
+        Map<String, String> map = new HashMap<>();
+        map.put("name", "Petr Arsentev");
+        map.put("subject", "you");
+        String result = generator.produce(temp, map);
         Assert.assertEquals("I am a Petr Arsentev, Who are you?", result);
     }
 
-    @Test (expected = Exception.class)
+    @Test (expected = IllegalArgumentException.class)
     @Ignore
     public void whenNoKeysInMap() {
         Generator generator = new Generate();
@@ -26,12 +28,36 @@ public class GeneratorTest {
         String result = generator.produce(temp, new HashMap<String, String>());
     }
 
-    @Test (expected = Exception.class)
+    @Test(expected = IllegalArgumentException.class)
     @Ignore
-    public void whenExtraKeysInMap() {
+    public void whenKeyIsExcess() {
         Generator generator = new Generate();
         String temp = "I am a ${name}, Who are ${subject}?";
-        String result = generator.produce(temp, new HashMap<String, String>());
+        Map<String, String> map = new HashMap<>();
+        map.put("name", "Addy");
+        map.put("surname", "Bay");
+        String rsl = generator.produce(temp, map);
     }
 
+    @Test(expected = IllegalArgumentException.class)
+    @Ignore
+    public void whenKeyIsNot() {
+        Generator generator = new Generate();
+        String temp = "I am a ${name}, Who are ${subject}?";
+        Map<String, String> map = new HashMap<>();
+        map.put("name", "Addy");
+        String rsl = generator.produce(temp, map);
+    }
+
+    @Test(expected = IllegalArgumentException.class)
+    @Ignore
+    public void whenExtraKey() {
+        Generator generator = new Generate();
+        String temp = "I am a ${name}, Who are ${subject}?";
+        Map<String, String> map = new HashMap<>();
+        map.put("name", "Addy");
+        map.put("subject", "you");
+        map.put("other", "any");
+        String rsl = generator.produce(temp, map);
+    }
 }
