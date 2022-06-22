@@ -46,8 +46,11 @@ public class CinemaTest {
     @Ignore
     @Test (expected = IllegalArgumentException.class)
     public void dateIsWrong() {
+        Account account = new AccountCinema();
+        Cinema cinema = new Cinema3D();
         Calendar date = Calendar.getInstance();
         date.set(2020, 02, 31, 23, 00);
+        Ticket ticket = cinema.buy(account, 1, 1, date);
     }
 
     @Ignore
