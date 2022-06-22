@@ -4,6 +4,7 @@ import static org.junit.Assert.assertThat;
 import static org.hamcrest.Matchers.is;
 import static org.junit.Assert.assertThrows;
 
+import org.junit.Assert;
 import org.junit.Ignore;
 import org.junit.Test;
 
@@ -42,23 +43,21 @@ public class CinemaTest {
         assertThat(session, is(list.get(0)));
     }
 
-    @Test(expected = Exception.class)
     @Ignore
+    @Test (expected = IllegalArgumentException.class)
     public void dateIsWrong() {
-        Account account = new AccountCinema();
-        Cinema cinema = new Cinema3D();
         Calendar date = Calendar.getInstance();
-        date.set(2022, 10, 10, 23, 00);
-        Ticket ticket = cinema.buy(account, 1, 1, date);
+        date.set(2020, 02, 31, 23, 00);
     }
 
-    @Test(expected = Exception.class)
     @Ignore
-    public void siteIsWrong() {
+    @Test (expected = IllegalArgumentException.class)
+    public void whenBuyisBusy() {
         Account account = new AccountCinema();
         Cinema cinema = new Cinema3D();
         Calendar date = Calendar.getInstance();
-        date.set(2022, 10, 10, 23, 00);
-        Ticket ticket = cinema.buy(account, 1000, 1, date);
+        date.set(2022, 03, 15);
+        Ticket ticket = cinema.buy(account, 1, 1, date);
+        Ticket wrong = cinema.buy(account, 1, 1, date);
     }
 }
