@@ -32,5 +32,18 @@ public class MaxMinTest {
         Assert.assertEquals(1, a);
     }
 
+    @Test
+    public void whenNull() {
+        List<Integer> list = List.of();
+        MaxMin maxMin = new MaxMin();
+        Object a = maxMin.max(list, (o1, o2) -> {
+            if (o1 == o2) {
+                return 0;
+            }
+            return o1 < o2 ? 1 : -1;
+        });
+        Assert.assertNull(a);
+    }
+
 
 }

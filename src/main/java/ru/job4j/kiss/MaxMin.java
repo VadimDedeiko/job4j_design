@@ -17,9 +17,13 @@ public class MaxMin {
     }
 
     public static <T> T find(BiPredicate<T, T> biPredicate, List<T> value) {
+        T result = null;
+        if (value.size() == 0) {
+            return result;
+        }
         Iterator<T> iterator = value.iterator();
-        T result = iterator.next();
-        while (iterator.hasNext()) {
+        result = iterator.next();
+        for (iterator = value.iterator(); iterator.hasNext();) {
             T next = iterator.next();
             if (biPredicate.test(result, next)) {
                 result = next;
