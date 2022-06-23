@@ -1,7 +1,6 @@
 package ru.job4j.kiss;
 
 import java.util.Comparator;
-import java.util.Iterator;
 import java.util.List;
 import java.util.function.BiPredicate;
 
@@ -21,12 +20,10 @@ public class MaxMin {
         if (value.size() == 0) {
             return result;
         }
-        Iterator<T> iterator = value.iterator();
-        result = iterator.next();
-        for (iterator = value.iterator(); iterator.hasNext();) {
-            T next = iterator.next();
-            if (biPredicate.test(result, next)) {
-                result = next;
+        result = value.get(0);
+        for (T type : value) {
+            if (biPredicate.test(result, type)) {
+                result = type;
             }
         }
         return result;
