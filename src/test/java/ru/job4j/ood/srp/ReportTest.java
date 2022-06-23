@@ -5,6 +5,8 @@ import static org.hamcrest.Matchers.is;
 import static ru.job4j.ood.srp.ReportEngine.DATE_FORMAT;
 
 import org.junit.Test;
+
+import java.text.DecimalFormat;
 import java.util.Calendar;
 
 public class ReportTest {
@@ -34,13 +36,14 @@ public class ReportTest {
         Employee worker = new Employee("Ivan", now, now, 100);
         store.add(worker);
         Report engine = new ReportAccounting(store);
+        String salary = new DecimalFormat("#.##").format(worker.getSalary() / 60);
         StringBuilder expect = new StringBuilder()
                 .append("Name; Hired; Fired; Salary($);")
                 .append(System.lineSeparator())
                 .append(worker.getName()).append(";")
                 .append(DATE_FORMAT.format(worker.getHired().getTime())).append(";")
                 .append(DATE_FORMAT.format(worker.getFired().getTime())).append(";")
-                .append(worker.getSalary() / 60).append(";")
+                .append(salary).append(";")
                 .append(System.lineSeparator());
         assertThat(engine.generate(em -> true), is(expect.toString()));
     }
