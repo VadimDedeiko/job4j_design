@@ -5,11 +5,12 @@ import java.text.SimpleDateFormat;
 
 public class ReportIT implements Report {
 
-    public static final SimpleDateFormat DATE_FORMAT = new SimpleDateFormat("dd:MM:yyyy HH:mm");
+    DateFormatter dateFormatter;
 
     private final Store store;
 
-    public ReportIT(Store store) {
+    public ReportIT(DateFormatter dateFormatter, Store store) {
+        this.dateFormatter = dateFormatter;
         this.store = store;
     }
 
@@ -25,8 +26,8 @@ public class ReportIT implements Report {
                 .append("Name; Hired; Fired; Salary;").append(ln);
         for (Employee employee : store.findBy(filter)) {
             text.append(employee.getName()).append(";")
-                    .append(DATE_FORMAT.format(employee.getHired().getTime())).append(";")
-                    .append(DATE_FORMAT.format(employee.getFired().getTime())).append(";")
+                    .append(dateFormatter.formatter().format(employee.getHired().getTime())).append(";")
+                    .append(dateFormatter.formatter().format(employee.getFired().getTime())).append(";")
                     .append(employee.getSalary()).append(";")
                     .append(System.lineSeparator());
         }

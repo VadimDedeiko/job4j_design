@@ -1,10 +1,17 @@
 package ru.job4j.ood.srp;
 
+import javax.xml.bind.annotation.XmlAccessType;
+import javax.xml.bind.annotation.XmlAccessorType;
+import javax.xml.bind.annotation.XmlAttribute;
+import javax.xml.bind.annotation.XmlRootElement;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.function.Predicate;
 import java.util.stream.Collectors;
 
+
+@XmlAccessorType(XmlAccessType.FIELD)
+@XmlRootElement(name = "MemStore")
 public class MemStore implements Store {
 
     private final List<Employee> employees = new ArrayList<>();

@@ -7,8 +7,6 @@ import java.util.function.Predicate;
 
 public class ReportHR implements Report {
 
-    public static final SimpleDateFormat DATE_FORMAT = new SimpleDateFormat("dd:MM:yyyy HH:mm");
-
     private final Store store;
 
     public ReportHR(Store store) {
