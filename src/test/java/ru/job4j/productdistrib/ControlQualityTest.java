@@ -2,6 +2,7 @@ package ru.job4j.productdistrib;
 
 import org.junit.Assert;
 import org.junit.Test;
+import ru.job4j.ood.productdistrib.*;
 
 import java.time.LocalDate;
 import java.util.List;

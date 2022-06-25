@@ -1,4 +1,4 @@
-package ru.job4j.productdistrib;
+package ru.job4j.ood.productdistrib;
 
 import java.util.List;
 
