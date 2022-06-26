@@ -5,14 +5,13 @@ import javax.xml.bind.JAXBException;
 import javax.xml.bind.Marshaller;
 import java.io.IOException;
 import java.io.StringWriter;
-import java.util.Calendar;
 import java.util.List;
 import java.util.function.Predicate;
 
 public class ReportXml implements Report {
 
     private Store store;
-    Marshaller marshaller;
+    private Marshaller marshaller;
 
     public ReportXml(Store store) {
         this.store = store;
@@ -24,7 +23,7 @@ public class ReportXml implements Report {
             /** Указываем, что нам нужно форматирование */
             marshaller.setProperty(Marshaller.JAXB_FORMATTED_OUTPUT, Boolean.TRUE);
         } catch (JAXBException e) {
-            e.printStackTrace();
+            throw new RuntimeException();
         }
     }
 
