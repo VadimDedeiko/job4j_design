@@ -9,7 +9,7 @@ import java.util.Calendar;
 import static org.hamcrest.Matchers.is;
 import static org.junit.Assert.*;
 
-public class ReportToJsonTest {
+public class ReportJsonTest {
 
     @Test
     public void whenJsonReport() {
@@ -18,14 +18,14 @@ public class ReportToJsonTest {
         Gson gson = new GsonBuilder().create();
         Employee worker = new Employee("Ivan", now, now, 100);
         store.add(worker);
-        Report engine = new ReportToJson(store);
+        Report engine = new ReportJson(store);
         StringBuilder expect = new StringBuilder()
-                .append("{")
+                .append("[{")
                 .append("\"name\":").append(gson.toJson(worker.getName())).append(",")
                 .append("\"hired\":").append(gson.toJson(worker.getHired())).append(",")
                 .append("\"fired\":").append(gson.toJson(worker.getFired())).append(",")
                 .append("\"salary\":").append(gson.toJson(worker.getSalary()))
-                .append("}");
+                .append("}]");
         assertThat(engine.generate(em -> true), is(expect.toString()));
     }
 }

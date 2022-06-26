@@ -9,7 +9,7 @@ import java.util.TimeZone;
 
 import static org.junit.Assert.*;
 
-public class ReportToXmlTest {
+public class ReportXmlTest {
     @Test
     public void whenXml() {
         MemStore store = new MemStore();
@@ -19,7 +19,7 @@ public class ReportToXmlTest {
         dateFired.setTimeZone(TimeZone.getTimeZone(ZoneOffset.of("+3")));
         Employee worker = new Employee("Ivan", dateHired, dateFired, 100);
         store.add(worker);
-        Report engine = new ReportToXml(store);
+        Report engine = new ReportXml(store);
         StringBuilder expect = new StringBuilder()
                 .append("<?xml version=\"1.0\" encoding=\"UTF-8\" standalone=\"yes\"?>")
                 .append("\n<employees>")
