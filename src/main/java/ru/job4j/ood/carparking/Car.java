@@ -1,4 +1,4 @@
-package ru.job4j.ood.carparking.temp;
+package ru.job4j.ood.carparking;
 
 public interface Car {
     int getVolume();

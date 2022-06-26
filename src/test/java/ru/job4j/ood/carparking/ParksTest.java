@@ -25,7 +25,6 @@ public class ParksTest {
     public void whenTwoTrack() {
         Track track1 = new Track(2);
         Track track2 = new Track(2);
-        List<Car> list = List.of(track1, track2);
         Parks parks = new Parks(2, 1);
         parks.add(track1);
         parks.add(track2);
