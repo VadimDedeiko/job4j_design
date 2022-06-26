@@ -5,15 +5,19 @@ import java.util.List;
 
 public class Warehouse implements Store {
     private final List<Food> list = new ArrayList<>();
+
     @Override
-    public void add(Food food, double expirationDate) {
-        if (expirationDate < 0.25) {
+    public boolean add(Food food) {
+        if (new Warehouse().getPercentLifeExpired(food) < Suitability.LOW.getCoefficient()) {
             list.add(food);
         }
+        return true;
     }
 
     @Override
     public List<Food> get() {
-        return list;
+        List<Food> foodList = new ArrayList<>();
+        foodList.addAll(list);
+        return foodList;
     }
 }

@@ -5,17 +5,15 @@ import java.util.List;
 
 public class ControlQuality {
     private Food food;
+    private List<Store> storeList;
 
-    public ControlQuality(Food food) {
-        this.food = food;
+    public ControlQuality(List<Store> storeList) {
+        this.storeList = storeList;
     }
 
-    public void sortStore(List<Store> storeList) {
-        int interval = (int) ChronoUnit.DAYS.between(food.getCreateDate(), food.getExpireDate());
-        int diff = (int) ChronoUnit.DAYS.between(food.getCreateDate(), food.getDateObject());
-        double expirationDate = (double) diff / interval;
+    public void sortStore(Food food) {
         for (Store store : storeList) {
-            store.add(food, expirationDate);
+            store.add(food);
         }
     }
 }
