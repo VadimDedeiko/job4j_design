@@ -22,8 +22,8 @@ public class ReportTest {
                 .append("Name; Hired; Fired; Salary;")
                 .append(System.lineSeparator())
                 .append(worker.getName()).append(";")
-                .append(dateFormatter.formatter().format(worker.getHired().getTime())).append(";")
-                .append(dateFormatter.formatter().format(worker.getFired().getTime())).append(";")
+                .append(dateFormatter.convertToString(worker.getHired())).append(";")
+                .append(dateFormatter.convertToString(worker.getHired())).append(";")
                 .append(worker.getSalary()).append(";")
                 .append(System.lineSeparator());
         assertThat(engine.generate(em -> true), is(expect.toString()));
@@ -42,8 +42,8 @@ public class ReportTest {
                 .append("Name; Hired; Fired; Salary($);")
                 .append(System.lineSeparator())
                 .append(worker.getName()).append(";")
-                .append(dateFormatter.formatter().format(worker.getHired().getTime())).append(";")
-                .append(dateFormatter.formatter().format(worker.getFired().getTime())).append(";")
+                .append(dateFormatter.convertToString(worker.getHired())).append(";")
+                .append(dateFormatter.convertToString(worker.getHired())).append(";")
                 .append(salary).append(";")
                 .append(System.lineSeparator());
         assertThat(engine.generate(em -> true), is(expect.toString()));
@@ -87,8 +87,8 @@ public class ReportTest {
                 .append("</body>").append(ln)
                 .append("Name; Hired; Fired; Salary;").append(ln)
                 .append(worker.getName()).append(";")
-                .append(dateFormatter.formatter().format(worker.getHired().getTime())).append(";")
-                .append(dateFormatter.formatter().format(worker.getFired().getTime())).append(";")
+                .append(dateFormatter.convertToString(worker.getHired())).append(";")
+                .append(dateFormatter.convertToString(worker.getHired())).append(";")
                 .append(worker.getSalary()).append(";").append(ln)
                 .append("</body>").append(ln)
                 .append("</html>").append(ln);

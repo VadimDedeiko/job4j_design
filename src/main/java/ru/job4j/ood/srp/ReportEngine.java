@@ -5,7 +5,7 @@ import java.util.Calendar;
 import java.util.function.Predicate;
 
 public class ReportEngine implements Report {
-    DateFormatter dateFormatter;
+    private DateFormatter dateFormatter;
     private Store store;
 
     public ReportEngine(DateFormatter dateFormatter, Store store) {
@@ -20,8 +20,8 @@ public class ReportEngine implements Report {
                 .append(System.lineSeparator());
         for (Employee employee : store.findBy(filter)) {
             text.append(employee.getName()).append(";")
-                    .append(dateFormatter.formatter().format(employee.getHired().getTime())).append(";")
-                    .append(dateFormatter.formatter().format(employee.getFired().getTime())).append(";")
+                    .append(dateFormatter.convertToString(employee.getHired())).append(";")
+                    .append(dateFormatter.convertToString(employee.getHired())).append(";")
                     .append(employee.getSalary()).append(";")
                     .append(System.lineSeparator());
         }

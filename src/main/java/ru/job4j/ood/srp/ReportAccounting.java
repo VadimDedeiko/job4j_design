@@ -5,7 +5,7 @@ import java.text.SimpleDateFormat;
 import java.util.function.Predicate;
 
 public class ReportAccounting implements Report {
-    DateFormatter dateFormatter;
+    private DateFormatter dateFormatter;
     private final Store store;
 
     public ReportAccounting(DateFormatter dateFormatter, Store store) {
@@ -21,8 +21,8 @@ public class ReportAccounting implements Report {
         for (Employee employee : store.findBy(filter)) {
             String salary = new DecimalFormat("#.##").format(employee.getSalary() / 60);
             text.append(employee.getName()).append(";")
-                    .append(dateFormatter.formatter().format(employee.getHired().getTime())).append(";")
-                    .append(dateFormatter.formatter().format(employee.getFired().getTime())).append(";")
+                    .append(dateFormatter.convertToString(employee.getHired())).append(";")
+                    .append(dateFormatter.convertToString(employee.getHired())).append(";")
                     .append(salary).append(";")
                     .append(System.lineSeparator());
         }

@@ -5,7 +5,7 @@ import java.text.SimpleDateFormat;
 
 public class ReportIT implements Report {
 
-    DateFormatter dateFormatter;
+    private DateFormatter dateFormatter;
 
     private final Store store;
 
@@ -26,8 +26,8 @@ public class ReportIT implements Report {
                 .append("Name; Hired; Fired; Salary;").append(ln);
         for (Employee employee : store.findBy(filter)) {
             text.append(employee.getName()).append(";")
-                    .append(dateFormatter.formatter().format(employee.getHired().getTime())).append(";")
-                    .append(dateFormatter.formatter().format(employee.getFired().getTime())).append(";")
+                    .append(dateFormatter.convertToString(employee.getHired())).append(";")
+                    .append(dateFormatter.convertToString(employee.getHired())).append(";")
                     .append(employee.getSalary()).append(";")
                     .append(System.lineSeparator());
         }
