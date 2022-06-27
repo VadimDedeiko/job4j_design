@@ -4,7 +4,6 @@ import java.time.temporal.ChronoUnit;
 import java.util.List;
 
 public class ControlQuality {
-    private Food food;
     private List<Store> storeList;
 
     public ControlQuality(List<Store> storeList) {

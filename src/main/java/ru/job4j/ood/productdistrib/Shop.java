@@ -8,23 +8,23 @@ public class Shop implements Store {
 
     @Override
     public boolean add(Food food) {
-        double percentLifeExpired = new Shop().getPercentLifeExpired(food);
-        if (percentLifeExpired >= Suitability.LOW.getCoefficient()
-                && percentLifeExpired < Suitability.MIDDLE.getCoefficient()) {
+        boolean rsl = false;
+        if (getPercentLifeExpired(food) >= Suitability.LOW.getCoefficient()
+                && getPercentLifeExpired(food) < Suitability.MIDDLE.getCoefficient()) {
             list.add(food);
-        } else if (percentLifeExpired >= Suitability.MIDDLE.getCoefficient()
-                && percentLifeExpired < Suitability.HIGH.getCoefficient()) {
+            rsl = true;
+        } else if (getPercentLifeExpired(food) >= Suitability.MIDDLE.getCoefficient()
+                && getPercentLifeExpired(food) < Suitability.HIGH.getCoefficient()) {
             food.setDiscount(0.5);
             food.setPrice(food.getPrice() * food.getDiscount());
             list.add(food);
+            rsl = true;
         }
-        return true;
+        return rsl;
     }
 
     @Override
     public List<Food> get() {
-        List<Food> foodList = new ArrayList<>();
-        foodList.addAll(list);
-        return foodList;
+        return new ArrayList<>(list);
     }
 }

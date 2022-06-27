@@ -7,16 +7,16 @@ public class Trash implements Store {
     private final List<Food> list = new ArrayList<>();
     @Override
     public boolean add(Food food) {
-        if (new Trash().getPercentLifeExpired(food) > Suitability.HIGH.getCoefficient()) {
+        boolean rsl = false;
+        if (getPercentLifeExpired(food) > Suitability.HIGH.getCoefficient()) {
             list.add(food);
+            rsl = true;
         }
-        return true;
+        return rsl;
     }
 
     @Override
     public List<Food> get() {
-        List<Food> foodList = new ArrayList<>();
-        foodList.addAll(list);
-        return foodList;
+        return new ArrayList<>(list);
     }
 }

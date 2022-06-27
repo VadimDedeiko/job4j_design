@@ -8,16 +8,16 @@ public class Warehouse implements Store {
 
     @Override
     public boolean add(Food food) {
-        if (new Warehouse().getPercentLifeExpired(food) < Suitability.LOW.getCoefficient()) {
+        boolean rsl = false;
+        if (getPercentLifeExpired(food) < Suitability.LOW.getCoefficient()) {
             list.add(food);
+            rsl = true;
         }
-        return true;
+        return rsl;
     }
 
     @Override
     public List<Food> get() {
-        List<Food> foodList = new ArrayList<>();
-        foodList.addAll(list);
-        return foodList;
+        return new ArrayList<>(list);
     }
 }

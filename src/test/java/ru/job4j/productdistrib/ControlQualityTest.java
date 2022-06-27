@@ -5,8 +5,6 @@ import org.junit.Test;
 import ru.job4j.ood.productdistrib.*;
 
 import java.time.LocalDate;
-import java.util.ArrayList;
-import java.util.Arrays;
 import java.util.List;
 
 public class ControlQualityTest {
@@ -98,15 +96,15 @@ public class ControlQualityTest {
         Food food4 = new Food("name4", LocalDate.now().minusDays(6),
                 LocalDate.now().minusDays(1),
                 100.0, 1);
-        List<Food> foods = new ArrayList<>(Arrays.asList(food1, food2, food3, food4));
         Store shop = new Shop();
         Store warehouse = new Warehouse();
         Store trash = new Trash();
         List<Store> stores = List.of(shop, trash, warehouse);
         ControlQuality controlQuality = new ControlQuality(stores);
-        for (Food food : foods) {
-            controlQuality.sortStore(food);
-        }
+        controlQuality.sortStore(food1);
+        controlQuality.sortStore(food2);
+        controlQuality.sortStore(food3);
+        controlQuality.sortStore(food4);
         Assert.assertEquals(List.of(food4), trash.get());
         Assert.assertEquals(List.of(food1, food2WithDisc, food3), shop.get());
         Assert.assertEquals(List.of(), warehouse.get());
