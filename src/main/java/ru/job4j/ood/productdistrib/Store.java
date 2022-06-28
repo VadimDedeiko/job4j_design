@@ -7,6 +7,8 @@ public interface Store {
     boolean add(Food food);
     List<Food> get();
 
+    void clear();
+
     default double getPercentLifeExpired(Food food) {
         int interval = (int) ChronoUnit.DAYS.between(food.getCreateDate(), food.getExpireDate());
         int diff = (int) ChronoUnit.DAYS.between(food.getCreateDate(), food.getDateObject());

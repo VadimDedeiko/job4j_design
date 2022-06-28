@@ -27,4 +27,8 @@ public class Shop implements Store {
     public List<Food> get() {
         return new ArrayList<>(list);
     }
+
+    public void clear() {
+        list.clear();
+    }
 }
