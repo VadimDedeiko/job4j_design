@@ -1,5 +1,6 @@
 package ru.job4j.ood.isp.menu;
 
+import org.junit.Ignore;
 import org.junit.Test;
 
 import java.io.ByteArrayOutputStream;
@@ -12,6 +13,7 @@ public class SimpleMenuTest {
 
     public static final ActionDelegate STUB_ACTION = System.out::println;
 
+    @Ignore
     @Test
     public void whenAddThenReturnSame() {
         Menu menu = new SimpleMenu();
@@ -75,9 +77,7 @@ public class SimpleMenuTest {
                 + "--------1.1.2.Купить молоко" + ls
                 + "2.Покормить собаку" + ls;
         menuPrinter.print(menu);
-        assertEquals(expected, output.toString()
-        );
+        assertEquals(expected, output.toString());
         System.setOut(null);
     }
-
 }
