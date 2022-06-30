@@ -34,6 +34,7 @@
         <module name="StaticVariableName"/>
         <module name="TypeName"/>
 
+
         <!-- Checks for Size Violations.                    -->
         <!-- See http://checkstyle.sf.net/config_sizes.html -->
         <!--<module name="LineLength"/>-->
@@ -77,6 +78,7 @@
         <module name="SimplifyBooleanExpression"/>
         <module name="SimplifyBooleanReturn"/>
 
+
         <!-- Checks for class design                         -->
         <!-- See http://checkstyle.sf.net/config_design.html -->
         <!--<module name="DesignForExtension"/>-->
@@ -91,6 +93,9 @@
         <module name="TodoComment"/>
         <module name="UpperEll"/>
 
+    </module>
+    <module name="BeforeExecutionExclusionFileFilter">
+        <property name="fileNamePattern" value="SimpleMenuTest.java"/>
     </module>
 
 </module>

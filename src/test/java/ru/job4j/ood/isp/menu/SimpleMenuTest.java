@@ -58,7 +58,6 @@ public class SimpleMenuTest {
         );
     }
 
-    @Ignore
     @Test
     public void whenPrint() {
         ByteArrayOutputStream output = new ByteArrayOutputStream();
@@ -79,6 +78,5 @@ public class SimpleMenuTest {
                 """;
         menuPrinter.print(menu);
         assertEquals(expected, output.toString());
-        System.setOut(null);
     }
 }
