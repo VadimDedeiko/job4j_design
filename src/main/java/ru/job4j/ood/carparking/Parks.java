@@ -8,10 +8,11 @@ public class Parks implements Park {
     private int placeTrack;
     private List<Car> carList;
 
-    public Parks(int placePassenger, int placeTrack, List<Car> carList) {
+    public Parks(int placePassenger, int placeTrack) {
         this.placePassenger = placePassenger;
         this.placeTrack = placeTrack;
-        this.carList = carList;
+        this.carList = new ArrayList<>(placePassenger + placeTrack);
+
     }
 
     public List<Car> getCarList() {
@@ -21,15 +22,16 @@ public class Parks implements Park {
     @Override
     public boolean add(Car car) {
         boolean rsl = false;
-        if (car.getVolume() == Passenger.SIZE && placePassenger > 0) {
+        if (car.getVolume() == Passenger.SIZE && placePassenger > Passenger.ZERO) {
             carList.add(car);
             placePassenger--;
             rsl = true;
-        } else if (car.getVolume() > Passenger.SIZE && placeTrack > 0) {
+        } else if (car.getVolume() > Passenger.SIZE && placeTrack > Passenger.ZERO) {
             carList.add(car);
             placeTrack--;
             rsl = true;
-        } else if (car.getVolume() > Passenger.SIZE && placeTrack == 0 && !(placePassenger < car.getVolume())) {
+        } else if (car.getVolume() > Passenger.SIZE && placeTrack == Passenger.ZERO
+                && !(placePassenger < car.getVolume())) {
             carList.add(car);
             placePassenger -= car.getVolume();
             rsl = true;

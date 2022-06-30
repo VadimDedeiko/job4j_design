@@ -3,7 +3,6 @@ package ru.job4j.ood.carparking;
 import org.junit.Assert;
 import org.junit.Test;
 
-import java.util.ArrayList;
 import java.util.List;
 
 import static org.junit.Assert.assertFalse;
@@ -16,7 +15,7 @@ public class ParksTest {
         Car passenger1 = new Passenger();
         Car passenger2 = new Passenger();
         Car track = new Track(3);
-        Parks parks = new Parks(2, 1, new ArrayList<>());
+        Parks parks = new Parks(2, 1);
         assertTrue(parks.add(track));
         assertTrue(parks.add(passenger2));
         assertTrue(parks.add(passenger1));
@@ -26,7 +25,7 @@ public class ParksTest {
     public void whenTwoTrack() {
         Car track1 = new Track(2);
         Car track2 = new Track(2);
-        Parks parks = new Parks(2, 1, new ArrayList<>());
+        Parks parks = new Parks(2, 1);
         parks.add(track1);
         parks.add(track2);
         Assert.assertEquals(List.of(track1, track2), parks.getCarList());
@@ -42,7 +41,7 @@ public class ParksTest {
         Car track1 = new Track(2);
         Car track2 = new Track(2);
         Car track3 = new Track(3);
-        Parks parks = new Parks(4, 1, new ArrayList<>());
+        Parks parks = new Parks(4, 1);
         parks.add(track1);
         parks.add(track2);
         assertFalse(parks.add(track3));
@@ -53,7 +52,7 @@ public class ParksTest {
         Car track1 = new Track(2);
         Car track2 = new Track(2);
         Car passenger = new Passenger();
-        Parks parks = new Parks(0, 3, new ArrayList<>());
+        Parks parks = new Parks(0, 3);
         parks.add(track1);
         parks.add(track2);
         assertFalse(parks.add(passenger));
@@ -64,10 +63,9 @@ public class ParksTest {
         Car track1 = new Track(2);
         Car track2 = new Track(2);
         Car passenger = new Passenger();
-        Parks parks = new Parks(0, 0, new ArrayList<>());
+        Parks parks = new Parks(0, 0);
         assertFalse(parks.add(track1));
         assertFalse(parks.add(track2));
         assertFalse(parks.add(passenger));
     }
-
 }
