@@ -1,9 +1,13 @@
 package ru.job4j.ood.isp.menu;
+
 import java.util.Scanner;
 
 public class TODOApp {
 
     public static final ActionDelegate STUB_ACTION = System.out::println;
+    public static final int ONE = 1;
+    public static final int TWO = 2;
+    public static final int THREE = 3;
 
     public static void main(String[] args) {
         Menu menu = new SimpleMenu();
@@ -11,14 +15,14 @@ public class TODOApp {
         Scanner scanner = new Scanner(System.in);
         boolean run = true;
         while (run) {
-            System.out.println("Enter 1 to add a new menu item"
+            System.out.println("Enter" + ONE + "to add a new menu item"
                     + System.lineSeparator()
-                    + "Enter 2 to view the menu"
+                    + "Enter" + TWO + "to view the menu"
                     + System.lineSeparator()
-                    + "Enter 3 to exit the program");
+                    + "Enter" + THREE + "to exit the program");
             int input = scanner.nextInt();
             scanner.nextLine();
-            if (input == 1) {
+            if (input == ONE) {
                 System.out.println("Menu item is parent: y/n");
                 String mainMenu = scanner.nextLine();
                 String parentName = Menu.ROOT;
@@ -32,9 +36,9 @@ public class TODOApp {
                 if (!result) {
                     throw new IllegalArgumentException("Item not on the menu");
                 }
-            } else if (input == 2) {
+            } else if (input == TWO) {
                 menuPrinter.print(menu);
-            } else if (input == 3) {
+            } else if (input == THREE) {
                 run = false;
             } else {
                 System.out.println("Input Error");

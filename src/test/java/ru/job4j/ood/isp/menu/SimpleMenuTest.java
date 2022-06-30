@@ -7,12 +7,12 @@ import java.io.ByteArrayOutputStream;
 import java.io.PrintStream;
 import java.util.List;
 
-import static org.junit.Assert.*;
+import static org.junit.Assert.assertEquals;
 
 public class SimpleMenuTest {
 
     public static final ActionDelegate STUB_ACTION = System.out::println;
-    @Ignore
+
     @Test
     public void whenAddThenReturnSame() {
         Menu menu = new SimpleMenu();
@@ -58,6 +58,7 @@ public class SimpleMenuTest {
         );
     }
 
+    @Ignore
     @Test
     public void whenPrint() {
         ByteArrayOutputStream output = new ByteArrayOutputStream();
@@ -69,12 +70,14 @@ public class SimpleMenuTest {
         menu.add("Сходить в магазин", "Купить продукты", STUB_ACTION);
         menu.add("Купить продукты", "Купить хлеб", STUB_ACTION);
         menu.add("Купить продукты", "Купить молоко", STUB_ACTION);
-        String ls = System.lineSeparator();
-        String expected = "1.Сходить в магазин" + ls
-                + "----1.1.Купить продукты" + ls
-                + "--------1.1.1.Купить хлеб" + ls
-                + "--------1.1.2.Купить молоко" + ls
-                + "2.Покормить собаку" + ls;
+        String expected =
+                """
+                1.Сходить в магазин
+                ----1.1.Купить продукты
+                --------1.1.1.Купить хлеб
+                --------1.1.2.Купить молоко
+                2.Покормить собаку
+                """;
         menuPrinter.print(menu);
         assertEquals(expected, output.toString());
         System.setOut(null);
