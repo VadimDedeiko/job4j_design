@@ -9,7 +9,6 @@ import static org.junit.Assert.assertFalse;
 import static org.junit.Assert.assertTrue;
 
 public class ParksTest {
-
     @Test
     public void whenAllCars() {
         Car passenger1 = new Passenger();
