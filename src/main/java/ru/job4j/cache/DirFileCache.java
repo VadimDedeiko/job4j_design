@@ -15,11 +15,11 @@ public class DirFileCache extends AbstractCache<String, String> {
 
     @Override
     protected String load(String key) {
-        String text;
+        String text = null;
         try {
-            text = Files.readString(Path.of(cachingDir, key), StandardCharsets.UTF_8);
+            text = Files.readString(Path.of(cachingDir, key));
         } catch (IOException e) {
-            throw new RuntimeException(e);
+            e.printStackTrace();
         }
         return text;
     }
