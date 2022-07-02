@@ -97,5 +97,8 @@
     <module name="BeforeExecutionExclusionFileFilter">
         <property name="fileNamePattern" value="SimpleMenuTest.java"/>
     </module>
+    <module name="BeforeExecutionExclusionFileFilter">
+        <property name="fileNamePattern" value="Emulator.java"/>
+    </module>
 
 </module>
