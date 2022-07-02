@@ -12,7 +12,7 @@ public class PrintItem implements MenuPrinter {
             String[] split = menuItemInfo.getNumber().split("\\.");
             int count = split.length - 1;
             String separator = LINE.repeat(count);
-            System.out.print(separator + number + name);
+            System.out.println(separator + number + name);
         }
     }
 }
