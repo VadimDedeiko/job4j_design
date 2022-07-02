@@ -75,7 +75,7 @@ public class SimpleMenuTest {
                 --------1.1.1.Купить хлеб
                 --------1.1.2.Купить молоко
                 2.Покормить собаку
-                """;
+                """.replace("\n", System.lineSeparator());
         menuPrinter.print(menu);
         assertEquals(expected, output.toString());
     }
