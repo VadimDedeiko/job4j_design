@@ -22,15 +22,15 @@ public class Parks implements Park {
     @Override
     public boolean add(Car car) {
         boolean rsl = false;
-        if (car.getVolume() == Passenger.SIZE && placePassenger > Passenger.ZERO) {
+        if (car.getVolume() == Passenger.SIZE && placePassenger > 0) {
             carList.add(car);
             placePassenger--;
             rsl = true;
-        } else if (car.getVolume() > Passenger.SIZE && placeTrack > Passenger.ZERO) {
+        } else if (car.getVolume() > Passenger.SIZE && placeTrack >= Passenger.SIZE) {
             carList.add(car);
             placeTrack--;
             rsl = true;
-        } else if (car.getVolume() > Passenger.SIZE && placeTrack == Passenger.ZERO
+        } else if (car.getVolume() > Passenger.SIZE && placeTrack == 0
                 && !(placePassenger < car.getVolume())) {
             carList.add(car);
             placePassenger -= car.getVolume();
