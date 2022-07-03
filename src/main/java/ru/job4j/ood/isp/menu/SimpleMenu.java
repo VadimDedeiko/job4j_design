@@ -47,16 +47,8 @@ public class SimpleMenu implements Menu {
                 if (!hasNext()) {
                     throw new NoSuchElementException();
                 }
-                MenuItem current = dfsIterator.stack.removeFirst();
-                String lastNumber = dfsIterator.numbers.removeFirst();
-                List<MenuItem> children = current.getChildren();
-                List<String> childrenString = children.stream().map(MenuItem::getName).collect(Collectors.toList());
-                int currentNumber = children.size();
-                for (var i = children.listIterator(children.size()); i.hasPrevious();) {
-                    dfsIterator.stack.addFirst(i.previous());
-                    dfsIterator.numbers.addFirst(lastNumber.concat(String.valueOf(currentNumber--)).concat("."));
-                }
-                return new MenuItemInfo(current.getName(), childrenString, current.getActionDelegate(), lastNumber);
+                ItemInfo itemInfo = dfsIterator.next();
+                return new MenuItemInfo(itemInfo.menuItem, itemInfo.number);
             }
         };
     }
