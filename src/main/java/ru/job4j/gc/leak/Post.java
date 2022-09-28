@@ -12,7 +12,7 @@ import java.util.List;
 @RequiredArgsConstructor
 public class Post {
 
-    private Integer id;
+    private int id;
     @NonNull
     private String text;
     @NonNull
