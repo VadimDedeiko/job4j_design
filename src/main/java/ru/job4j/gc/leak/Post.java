@@ -11,7 +11,6 @@ import java.util.List;
 @AllArgsConstructor
 @RequiredArgsConstructor
 public class Post {
-
     private int id;
     @NonNull
     private String text;
