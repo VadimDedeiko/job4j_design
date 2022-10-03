@@ -33,12 +33,12 @@ public class PasswordValidator {
         if (!checkString(passwordChars, character -> !Character.isLetterOrDigit(character))) {
             throw new IllegalArgumentException("At least one character should be a special symbol!" + message);
         }
-        if (password.toLowerCase().contains("qwerty")
-                || password.contains("12345")
-                || password.toLowerCase().contains("password")
-                || password.toLowerCase().contains("admin")
-                || password.toLowerCase().contains("user")) {
-            throw new IllegalArgumentException("Contains bad sequence of characters!" + message);
+        String[] simples = new String[]{"qwerty", "12345", "password", "admin", "user"};
+        String pass = password.toLowerCase();
+        for (String simple : simples) {
+            if (pass.contains(simple)) {
+                throw new IllegalArgumentException("Contains bad sequence of characters!" + message);
+            }
         }
         return password;
     }
