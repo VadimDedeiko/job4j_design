@@ -65,18 +65,11 @@ public class AnalyzeByMap {
     private static Map<String, Integer> getStringIntegerMap(List<Pupil> pupils) {
         Map<String, Integer> map = new LinkedHashMap<>();
         int sum = 0;
-        List<Subject> subjects = pupils.get(0).subjects();
-        for (int j = 0; j < subjects.size(); j++) {
             for (Pupil pupil : pupils) {
                 for (Subject subject : pupil.subjects()) {
-                    if (subjects.get(j).name().equals(subject.name())) {
-                        sum += subject.score();
-                    }
+                    map.merge(subject.name(), subject.score(), (integer, integer2) -> integer + integer2);
                 }
             }
-            map.put(subjects.get(j).name(), sum);
-            sum = 0;
-        }
         return map;
     }
 }
